@@ -134,22 +134,3 @@ __Maintainer:__ [Oleh Zasadnyy](https://github.com/ozasadnyy) and [Sophie Huts](
 
 Project is published under the [MIT license](https://github.com/gdg-x/hoverboard/blob/master/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
-
-
-### How to clone, configure, deploy and maintain Hoverboard for DevFest 
-- List of files things to be configured
-- Social Media Links
-- Google Analytics Code
-- Firebase Authentication for Google
-- Mail Chimp
-- Google Gallery for Devfest 2016
-- Call for papers google form
-- Logos and Banners
-
-
-1. Clone the repository (https://github.com/DevFestNYC2017/website.git) to your local git repo
-2. The application working directory (The source files) are in /src/
-3. Install dependencies and run the application on the local server as directed above
-4. These Components feed text data from Firebase (Speakers, Sessions, Schedule, Partners, Videos, Team, Tickets) while the rest text data on the site is hardcorded on the markdown, json and html files
-5. Example URL how to view sample database from sample application (https://hoverboard-experimental.firebaseio.com/tickets.json) Change the prefix to the .json as needed
-6. Detailed explanation on advanced configuration deployment maintenance coming soon.
