@@ -1,8 +1,8 @@
 # 1. Purpose
 
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+A primary goal of [GDG NYC](http://www.meetup.com/gdgnyc) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
+GDG NYC prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
@@ -49,5 +49,5 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 # 7. Contact info
 
-- Oleh Zasadnyy, +38 093 486 64 60, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [sofia.huts@gmail.com](mailto:sofia.huts@gmail.com)
+- Nitya Narasimhan, +1 518 886 1961, [contact@devfestncy.com](mailto:contact@devfestncy.com)
+- Chinedu Chukwuelue, +1 347 480 6131, [contact@devfestncy.com](contact@devfestncy.com)

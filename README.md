@@ -95,30 +95,6 @@ git add . -u
 git commit -m 'Updated to the latest version'
 ```
 
-### Who uses the template?
-
-Going to use the template? Go on! The only thing we ask - let us know with a
-pull request, so we can include you in this list.
-
-| | | |
-|------|------|------|
-| [GDG DevFest Ukraine](http://devfest.gdg.org.ua)                | [GDG DevFest Sao Paulo](http://sp.devfest.com.br)                           | [GDG DevFest Hamburg 2015](http://devfest.de)               |
-| [GDG DevFest Mezam 2015](https://devfest-mezam.gdgbambili.xyz)  | [GDG DevFest Silicon Valley 2015](http://devfest2015.gdgsv.com/)            | [GDG DevFest Belgium 2015](http://devfest.be/)              |
-| [GDG DevFest South East Nigeria 2015](http://www.devfestse.com) | [GDG DevFest Istanbul 2015](https://www.devfesttr.com)                      | [GDG Cáceres CodeWeek 2015](http://codeweek.gdgcaceres.es)  |
-| [GDG Bingham University Website](http://bhu.gdg.ng)             | [Google I/O Extended 2016 Kuala Lumpur](https://ioxkl2016.firebaseapp.com)  | [GDG DevFest Hamburg 2016](https://hamburg.devfest.de)      |
-| [GDG DevFest Mezam 2016](https://devfest-mezam.gdgbambili.xyz)  | [GDG DevFest Vietnam 2016](https://devfest.vn)                              | [GDG DevFest Seattle 2016](https://devfest.gdgseattle.org)  |
-| [GDG DevFest Belgium 2016](https://devfest.be)                  | [GDG DevFest Lisbon 2016](https://devfestlisbon.firebaseapp.com)            | [GDG DevFest Sudbury 2016](https://devfest.gdgsudbury.ca)   |
-| [GDG DevFest Hong Kong 2016](https://devfest.gdghk.org)         | [GDG DevFest London 2016](https://devfest-london-2016.firebaseapp.com/)     | [GDG DevFest Paraná 2016](https://devfestpr.org/)           |  
-| [GDG DevFest Srilanka 2016](https://devfest16.gdgsrilanka.org/) | [GDG DevFest Incheon 2016](http://devfest16in.gdg.kr/)                      | [GDG Dschang 2016 Website](http://gdgdschang.com)           |
-| [GDG DevFest Eskisehir 2016](https://df16.gdgeskisehir.com/)    | [GDG DevFest Poland 2016](https://devfest.pl/)                              | [GDG DevFest Pilsen 2016](https://devfest.cz/)              |
-| [GDG DevFest Switzerland 2016](https://devfest.ch/)             | [GDG DevFest Toulouse 2016](https://devfesttoulouse.fr/)                    | [GDG Ohio DevFest](https://ohiodevfest.com/)                |
-| [GDG DevFest NYC 2016](https://devfestnyc.com/)                 | [GDG DevFest Los Angeles 2016](https://devfest.gdgla.org/)                  | [GDG DevFest West](https://devfest2016.gdgsv.com)           |
-| [GDG DevFest Florida 2016](https://devfestflorida.org)          | [GDG DevFest Madrid 2016](https://gdgmadrid.com)                            | [GDG DevFest SBA 2016](https://devfest.gdgsba.org/)         |
-| [GDG Foumban Website](https://gdgfoumban.org)                   | [GDG DevFest Granada 2016](http://devfest.gdggranada.com/)                  | [GDG DevFest Taipei 2016](http://devfest.gdg-taipei.org/)   |
-| [2016 Valley DevFest](https://valleydevfest.com)                | [IWDC 2017 Fresno (WTM)](https://iwdc.wtmfresno.com/)                       | [ngVikings 2017](https://ngvikings.org)                     |
-| [Mobile Era 2017](https://mobileera.rocks)                      | [DevFest Nantes 2017](https://devfest.gdgnantes.com)                        | [GDG DevFest Hamburg 2017](https://hamburg.devfest.de/)     |
-
-
 ### Roadmap :rocket:
 :x: Admin panel    
 :x: Push notification  
@@ -158,3 +134,22 @@ __Maintainer:__ [Oleh Zasadnyy](https://github.com/ozasadnyy) and [Sophie Huts](
 
 Project is published under the [MIT license](https://github.com/gdg-x/hoverboard/blob/master/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+
+
+### How to clone, configure, deploy and maintain Hoverboard for DevFest 
+- List of files things to be configured
+- Social Media Links
+- Google Analytics Code
+- Firebase Authentication for Google
+- Mail Chimp
+- Google Gallery for Devfest 2016
+- Call for papers google form
+- Logos and Banners
+
+
+1. Clone the repository (https://github.com/DevFestNYC2017/website.git) to your local git repo
+2. The application working directory (The source files) are in /src/
+3. Install dependencies and run the application on the local server as directed above
+4. These Components feed text data from Firebase (Speakers, Sessions, Schedule, Partners, Videos, Team, Tickets) while the rest text data on the site is hardcorded on the markdown, json and html files
+5. Example URL how to view sample database from sample application (https://hoverboard-experimental.firebaseio.com/tickets.json) Change the prefix to the .json as needed
+6. Detailed explanation on advanced configuration deployment maintenance coming soon.

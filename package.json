@@ -1,7 +1,7 @@
 {
-  "name": "hoverboard",
+  "name": "webiste",
   "version": "1.2.0",
-  "description": "Conference website template",
+  "description": "DevFest NYC 2017 Official Website",
   "scripts": {
     "gulp": "gulp",
     "bower": "bower",

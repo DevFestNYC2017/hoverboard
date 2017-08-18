@@ -1,25 +1,25 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfestnyc2017.github.io/",
+  "startDate": "2017-10-22T09:00:00+03:00",
+  "endDate": "2017-10-23T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-XXXXXXX-X",
+    "dev": "UA-XXXXXXX-X"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG NYC",
+    "twitter": "gdg_nyc"
   },
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "shortName": "DevFestNYC",
+    "themeColor": "#108768",
+    "backgroundColor": "#108768"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "Polymer Dev",
+    "domain": "polymer-dev.firebaseapp.com",
+    "database": "https://polymer-dev.firebaseio.com",
+    "api": "AIzaSyDZlZ9ddaVz4Wbt4pkAhL9aO_oLvVEK0uk",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,11 +32,11 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "devfestnyc",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=Tw8tCcT_zN4&list=PLDaDCHOKcI2yMuokZn15je02S1tfPhhaf",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -63,38 +63,38 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGNYC",
+      "url": "https://twitter.com/gdg_nyc"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "102033742326416578905",
+      "url": "https://plus.google.com/102033742326416578905"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGNYC",
+      "url": "https://www.facebook.com/GDGNYC"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-nyc",
+      "url": "https://www.linkedin.com/company/google-developers-group-nyc"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Galvanize NYC",
+    "address": "315 Hudson St, New York, NY 10013",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 40.7263875,
+      "longitude": -74.0077919,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 40.7263875,
+      "longitude": -75.0077919
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -116,13 +116,13 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#108768",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "title": "GDG DevFest NYC 2017",
+          "youtubeId": "Q-Xq7B_zgC8",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,
@@ -132,7 +132,7 @@
     "blog": {
       "title": "Blog",
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#105C87",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -140,7 +140,7 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#07C577",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -148,7 +148,7 @@
     "schedule": {
       "title": "Schedule",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#E33E72",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -156,7 +156,7 @@
     "team": {
       "title": "Team",
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#CE9917",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
