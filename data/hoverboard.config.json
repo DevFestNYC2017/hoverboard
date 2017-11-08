@@ -16,10 +16,10 @@
     "backgroundColor": "#008B50"
   },
   "firebase": {
-    "name": "Polymer Dev",
-    "domain": "polymer-dev.firebaseapp.com",
-    "database": "https://polymer-dev.firebaseio.com",
-    "api": "AIzaSyDZlZ9ddaVz4Wbt4pkAhL9aO_oLvVEK0uk",
+    "name": "devfestnyc-2017",
+    "domain": "devfestnyc-2017.firebaseapp.com",
+    "database": "https://devfestnyc-2017.firebaseio.com",
+    "api": "AIzaSyBo9uLSeTlGEqhtsVpd5V2jbRSVPNij2vA",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
