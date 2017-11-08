@@ -1,31 +1,31 @@
 {
-  "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in New York City carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "title": "GDG DevFest NYC 2017",
+  "description": "A 2-Day Software Developer Conference on Mobile, Web, Cloud, Machine Learning & Emerging Tech.",
+  "keywords": "googledev, devfest, mobile, web, machine learning, ai, hackathon, firebase, community",
   "dates": "December 2-3, 2017",
   "locationAddressShort": "Galvanize NYC, NY",
-  "motto": "Learn. Network. Level Up.",
-  "playIcon": "See how it was in 2016",
+  "motto": "For Community. By Community.",
+  "playIcon": "GDG NYC In Action",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "subscribeNote": "Subscribe for news & alerts!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets cover breakfast, lunch and coffee for that day. Plus swag. ",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
+  "clickToViewPhotos": "Click to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
   "featuredVideosTitle": "Featured #DFNYC '16 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Featured Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
   "locationTitle": "Galvanize NYC",
@@ -35,7 +35,7 @@
   "aboutOrganizers": "<a href='http://www.meetup.com/gdgnyc' target='_blank'>GDG NYC</a> with support of GDGs from all United States is proud organizer of DevFest NYC",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "aboutGdg": "Google Developer Group is a community of developers, designers, makers & advocates inspired by Google technologies.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -89,12 +89,12 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "http://bit.ly/dfnyc17-sponsor",
           "newTab": true
         },
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "http://bit.ly/dfnyc17-media",
           "newTab": true
         }
       ]
@@ -103,8 +103,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "contact@devfestnyc.com",
+        "url": "mailto:contact@devfestnyc.com"
       }
     ]
   },

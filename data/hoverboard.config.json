@@ -25,8 +25,8 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "",
+    "name": ""
   },
   "dateFormat": {
     "locale": "en-US",
@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestnyc",
   "disqusShortName": "",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "",
   "partnershipProposition": "http://bit.ly/dfnyc17-sponsor",
   "videosSessionsUrl": "",
   "enableSessionsRating": true,
@@ -118,7 +118,7 @@
         "video": {
           "title": "GDG DevFest NYC 2017",
           "youtubeId": "Q-Xq7B_zgC8",
-          "text": "See how it was in 2016"
+          "text": "About GDG NYC"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -157,7 +157,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
