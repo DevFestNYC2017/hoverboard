@@ -1,0 +1,168 @@
+{
+  "url": "https://devfestnyc2017.github.io/",
+  "startDate": "2017-12-02T09:00:00+05:00",
+  "endDate": "2017-12-03T19:17:30+05:00",
+  "analytics": {
+    "prod": "UA-XXXXXXX-X",
+    "dev": "UA-XXXXXXX-X"
+  },
+  "organizer": {
+    "name": "Google Developer Group NYC",
+    "twitter": "gdg_nyc"
+  },
+  "webapp": {
+    "shortName": "DevFestNYC",
+    "themeColor": "#008B50",
+    "backgroundColor": "#008B50"
+  },
+  "firebase": {
+    "name": "devfestnyc-2017",
+    "domain": "devfestnyc-2017.firebaseapp.com",
+    "database": "https://devfestnyc-2017.firebaseio.com",
+    "api": "AIzaSyBo9uLSeTlGEqhtsVpd5V2jbRSVPNij2vA",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "mailchimp": {
+    "url": "",
+    "name": ""
+  },
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "devfestnyc",
+  "disqusShortName": "",
+  "tweetsSource": "",
+  "partnershipProposition": "http://bit.ly/dfnyc17-sponsor",
+  "videosSessionsUrl": "",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGNYC",
+      "url": "https://twitter.com/gdg_nyc"
+    },
+    {
+      "name": "gplus",
+      "nickname": "102033742326416578905",
+      "url": "https://plus.google.com/102033742326416578905"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGNYC",
+      "url": "https://www.facebook.com/GDGNYC"
+    }
+  ],
+  "location": {
+    "apiKey": "",
+    "name": "Galvanize NYC",
+    "address": "315 Hudson St, New York, NY 10013",
+    "link": "https://www.galvanize.com/new-york/campus",
+    "pointer": {
+      "latitude": 40.7263875,
+      "longitude": -74.0077919,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 40.7263875,
+      "longitude": -75.0077919
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://goo.gl/photos/3eTU9y8NJTSuK8168?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2016_1.jpg",
+      "small": [
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#383B3E",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest NYC 2017",
+          "youtubeId": "Q-Xq7B_zgC8",
+          "text": "About GDG NYC"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#105C87",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#07C577",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#E33E72",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#CE9917",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}
