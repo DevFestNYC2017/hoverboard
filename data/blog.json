@@ -2,7 +2,7 @@
   {
     "id": "devfest-nyc-summary",
     "title": "GDG DevFest NYC 2016: Looking Back",
-    "posted": "2017-11-16",
+    "posted": "2017-07-11",
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
     "image": "/images/posts/dfnyc-summary.png",
@@ -25,5 +25,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/dfnyc-appfest.jpeg",
     "brief": "This year, DevFestNYC also features APPFEST - a 1-day Build-an-App hackathon featuring Firebase!"
+  },
+  {
+    "id": "nodebots-battle",
+    "title": "NodeBots Battle: Hour of Code @DevFestNYC",
+    "posted": "2017-11-15",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "https://pbs.twimg.com/media/DN0pyikUIAAo3mo.jpg",
+    "brief": "Dec 4-10 is CSEdWeek, the start of the Hour Of Code. Get a headstart at DevFestNYC with NodeBots, Robotics & JavaScript!"
   }
 ]

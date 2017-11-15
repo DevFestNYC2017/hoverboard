@@ -108,145 +108,82 @@
     }
   ],
 
-  "schedule" : [
-    {
-      "date" : "2016-09-09",
-      "dateReadable" : "September 9",
 
-      "timeslots" : [
+  "speakers" : [ null,
+
+    {
+      "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/gdg-lviv.svg",
+      "country" : "London, United Kingdom",
+      "featured" : true,
+      "id" : 1,
+      "name" : "Mete Atamel",
+      "photoUrl" : "/images/people/mete_atamel.jpg",
+      "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/meteatamel/",
+        "name" : "LinkedIn"
+      }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/meteatamel/",
+      "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/meteatamel/",
+        "name" : "GitHub"
+      } ],
+      "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
+      "title" : "Developer Advocate"
+    },
+
+    {
+      "badges" : [
         {
-        "endTime" : "10:00",
-        "sessions" : [ [ 132 ] ],
-        "startTime" : "09:00"
-        },
+          "description" : "Android Google Developer Expert",
+          "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
+          "name" : "GDE"
+        } ,
         {
-          "endTime" : "10:15",
-          "sessions" : [ [ 136 ] ],
-          "startTime" : "10:00"
-        },
-        {
-          "endTime" : "11:00",
-          "sessions" : [ [ 139 ] ],
-          "startTime" : "10:15"
-        },
-        {
-          "endTime" : "11:40",
-          "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
-          "startTime" : "11:00"
-        },
-        {
-          "endTime" : "12:30",
-          "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
-          "startTime" : "11:50"
-        },
-        {
-          "endTime" : "14:00",
-          "sessions" : [ [ 133 ] ],
-          "startTime" : "12:30"
-        },
-        {
-          "endTime" : "14:40",
-          "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
-          "startTime" : "14:00"
-        },
-        {
-          "endTime" : "15:30",
-          "sessions" : [ [ 140 ], [ 126 ], [ 107 ] ],
-          "startTime" : "14:50"
-        },
-        {
-          "endTime" : "16:00",
-          "sessions" : [ [ 134 ] ],
-          "startTime" : "15:30"
-        },
-        {
-          "endTime" : "16:40",
-          "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
-          "startTime" : "16:00"
-        },
-        {
-          "endTime" : "17:30",
-          "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
-          "startTime" : "16:50"
-        },
-        {
-          "endTime" : "18:20",
-          "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
-          "startTime" : "17:40"
-        },
-        {
-          "endTime" : "22:30",
-          "sessions" : [ [ 137 ] ],
-          "startTime" : "18:30"
+          "description" : "Google Developers Group Krakow",
+          "link" : "https://developers.google.com/groups/directory/",
+          "name" : "GDG"
         }
       ],
-
-      "tracks" : [
+      "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+      "company" : "Gett",
+      "companyLogo" : "/images/logos/gdg-lviv.svg",
+      "country" : "Tel Aviv, Israel",
+      "featured" : true,
+      "id" : 2,
+      "name" : "Yonatan Levin",
+      "photoUrl" : "/images/people/yonatan_levin.jpg",
+      "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+      "socials" : [
         {
-          "title" : "Expo hall"
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/levin.yonatan",
+          "name" : "Facebook"
         },
         {
-          "title" : "Conference hall"
+          "icon" : "twitter",
+          "link" : "https://twitter.com/parahall",
+          "name" : "Twitter"
         },
         {
-          "title" : "Workshops hall"
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/+YonatanLevin",
+          "name" : "Google+"
         }
-      ]
-    },
-    {
-      "date" : "2016-09-10",
-      "dateReadable" : "September 10",
-      "timeslots" : [
-        {
-          "endTime" : "10:10",
-          "sessions" : [ [ 135 ] ],
-          "startTime" : "09:30"
-          }, {
-          "endTime" : "10:50",
-          "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
-          "startTime" : "10:10"
-        }, {
-          "endTime" : "11:40",
-          "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
-          "startTime" : "11:00"
-        }, {
-          "endTime" : "12:30",
-          "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
-          "startTime" : "11:50"
-        }, {
-          "endTime" : "14:00",
-          "sessions" : [ [ 133 ] ],
-          "startTime" : "12:30"
-        }, {
-          "endTime" : "14:40",
-          "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
-          "startTime" : "14:00"
-        }, {
-          "endTime" : "15:30",
-          "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
-          "startTime" : "14:50"
-        }, {
-          "endTime" : "16:00",
-          "sessions" : [ [ 134 ] ],
-          "startTime" : "15:30"
-        }, {
-          "endTime" : "16:40",
-          "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
-          "startTime" : "16:00"
-        }, {
-          "endTime" : "17:30",
-          "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
-          "startTime" : "16:50"
-        } ],
-        "tracks" : [ {
-          "title" : "Expo hall"
-        }, {
-          "title" : "Conference hall"
-        }, {
-          "title" : "Workshops hall"
-        } ]
+      ],
+      "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
+      "title" : "Android Evangelist & Developer"
     }
   ],
+
+
+
 
   "sessions" : {
     "101" : {
@@ -614,76 +551,143 @@
     }
   },
 
-  "speakers" : [ null,
-
+  "schedule" : [
     {
-      "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
-      "company" : "Google",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "country" : "London, United Kingdom",
-      "featured" : true,
-      "id" : 1,
-      "name" : "Mete Atamel",
-      "photoUrl" : "/images/people/mete_atamel.jpg",
-      "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/meteatamel/",
-        "name" : "LinkedIn"
-      }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/meteatamel/",
-      "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/meteatamel/",
-        "name" : "GitHub"
-      } ],
-      "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-      "title" : "Developer Advocate"
+      "date" : "2016-09-09",
+      "dateReadable" : "September 9",
+
+      "timeslots" : [
+        {
+        "endTime" : "10:00",
+        "sessions" : [ [ 132 ] ],
+        "startTime" : "09:00"
+        },
+        {
+          "endTime" : "10:15",
+          "sessions" : [ [ 136 ] ],
+          "startTime" : "10:00"
+        },
+        {
+          "endTime" : "11:00",
+          "sessions" : [ [ 139 ] ],
+          "startTime" : "10:15"
+        },
+        {
+          "endTime" : "11:40",
+          "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
+          "startTime" : "11:00"
+        },
+        {
+          "endTime" : "12:30",
+          "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
+          "startTime" : "11:50"
+        },
+        {
+          "endTime" : "14:00",
+          "sessions" : [ [ 133 ] ],
+          "startTime" : "12:30"
+        },
+        {
+          "endTime" : "14:40",
+          "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
+          "startTime" : "14:00"
+        },
+        {
+          "endTime" : "15:30",
+          "sessions" : [ [ 140 ], [ 126 ], [ 107 ] ],
+          "startTime" : "14:50"
+        },
+        {
+          "endTime" : "16:00",
+          "sessions" : [ [ 134 ] ],
+          "startTime" : "15:30"
+        },
+        {
+          "endTime" : "16:40",
+          "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
+          "startTime" : "16:00"
+        },
+        {
+          "endTime" : "17:30",
+          "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
+          "startTime" : "16:50"
+        },
+        {
+          "endTime" : "18:20",
+          "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
+          "startTime" : "17:40"
+        },
+        {
+          "endTime" : "22:30",
+          "sessions" : [ [ 137 ] ],
+          "startTime" : "18:30"
+        }
+      ],
+
+      "tracks" : [
+        {
+          "title" : "Expo hall"
+        },
+        {
+          "title" : "Conference hall"
+        },
+        {
+          "title" : "Workshops hall"
+        }
+      ]
     },
-
     {
-      "badges" : [
+      "date" : "2016-09-10",
+      "dateReadable" : "September 10",
+      "timeslots" : [
         {
-          "description" : "Android Google Developer Expert",
-          "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-          "name" : "GDE"
-        } ,
-        {
-          "description" : "Google Developers Group Krakow",
-          "link" : "https://developers.google.com/groups/directory/",
-          "name" : "GDG"
-        }
-      ],
-      "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-      "company" : "Gett",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "country" : "Tel Aviv, Israel",
-      "featured" : true,
-      "id" : 2,
-      "name" : "Yonatan Levin",
-      "photoUrl" : "/images/people/yonatan_levin.jpg",
-      "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-      "socials" : [
-        {
-          "icon" : "facebook",
-          "link" : "https://www.facebook.com/levin.yonatan",
-          "name" : "Facebook"
-        },
-        {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/parahall",
-          "name" : "Twitter"
-        },
-        {
-          "icon" : "gplus",
-          "link" : "https://plus.google.com/+YonatanLevin",
-          "name" : "Google+"
-        }
-      ],
-      "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-      "title" : "Android Evangelist & Developer"
+          "endTime" : "10:10",
+          "sessions" : [ [ 135 ] ],
+          "startTime" : "09:30"
+          }, {
+          "endTime" : "10:50",
+          "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
+          "startTime" : "10:10"
+        }, {
+          "endTime" : "11:40",
+          "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
+          "startTime" : "11:00"
+        }, {
+          "endTime" : "12:30",
+          "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
+          "startTime" : "11:50"
+        }, {
+          "endTime" : "14:00",
+          "sessions" : [ [ 133 ] ],
+          "startTime" : "12:30"
+        }, {
+          "endTime" : "14:40",
+          "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
+          "startTime" : "14:00"
+        }, {
+          "endTime" : "15:30",
+          "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
+          "startTime" : "14:50"
+        }, {
+          "endTime" : "16:00",
+          "sessions" : [ [ 134 ] ],
+          "startTime" : "15:30"
+        }, {
+          "endTime" : "16:40",
+          "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
+          "startTime" : "16:00"
+        }, {
+          "endTime" : "17:30",
+          "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
+          "startTime" : "16:50"
+        } ],
+        "tracks" : [ {
+          "title" : "Expo hall"
+        }, {
+          "title" : "Conference hall"
+        }, {
+          "title" : "Workshops hall"
+        } ]
     }
   ],
 
@@ -702,15 +706,11 @@
             "link" : "https://twitter.com/nitya",
             "name" : "Twitter"
           }, {
-            "icon" : "linkedin",
+            "icon" : "website",
             "link" : "http://linkedin.com/in/nityan",
             "name" : "LinkedIn"
-          },{
-            "icon" : "github",
-            "link" : "http://github.com/nitya",
-            "name" : "GitHub"
           } ],
-          "title" : "Core Organizer (Speakers, Sponsors, Schedule, Logistics)"
+          "title" : "Core Organizer (Speakers, Sponsors, Schedule, Ticketing)"
         },
         {
           "name" : "Chinedu Chukwuelue",
@@ -720,14 +720,14 @@
             "link" : "https://plus.google.com/+ChineduChukwuelue",
             "name" : "Google+"
           }, {
-            "icon" : "linkedin",
-            "link" : "https://www.linkedin.com/in/codewired/",
-            "name" : "LinkedIn"
+            "icon" : "twitter",
+            "link" : "https://twitter.com/codewired",
+            "name" : "Twitter"
           } ],
-          "title" : "Website Admin"
+          "title" : "Website"
         }
       ],
-      "title" : "DevFestNYC Team"
+      "title" : "Core Team"
     }
   ],
 
