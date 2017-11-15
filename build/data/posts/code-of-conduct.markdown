@@ -1,7 +1,19 @@
+
+
+_[**GDG New York**](http://www.meetup.com/gdgnyc) is an inclusive community where developers, designers, and entrepreneurs or all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is **"Be excellent to each other!"** if you see or experience any code-of-conduct violations or witness behavior that makes you feel unsafe or unwelcome, please contact the DevFestNYC conference organizer or bring it to the immediate attention of one of our DevFestNYC Volunteers._
+<br/><br/>
+
+<div>
+<img src="/images/dfnyc/pages/unsplash-heart-coc.jpg"/>
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://unsplash.com/@bartlarueeppler?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Bart LaRue"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Bart LaRue</span></a>
+<br/><br/>
+
+
+
 # 1. Purpose
 
-
 A primary goal of [GDG NYC](http://www.meetup.com/gdgnyc) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
+
 GDG NYC prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
@@ -49,5 +61,8 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 # 7. Contact info
 
-- Nitya Narasimhan, +1 518 886 1961, [contact@devfestncy.com](mailto:contact@devfestncy.com)
-- Chinedu Chukwuelue, +1 347 480 6131, [contact@devfestncy.com](contact@devfestncy.com)
+**We will onboard all attendees to the DevFestNYC Slack.** _Please use the #support channel there to make requests for immediate attention. You can also reach out to one of the following team members using the contact information provided._
+
+- [Nitya Narasimhan](mailto:contact@devfestyc.com), DevFestNYC Organizer 
+- Chinedu Chukwuelue, Website Admin 
+- Anand Safi, Slack Admin

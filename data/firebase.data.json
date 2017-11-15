@@ -1,80 +1,114 @@
 {
+
   "partners" : [
+
     {
     "logos" :
       [
         {
-          "logoUrl" : "../images/logos/gdg-lviv.svg",
-          "name" : "GDG Lviv",
-          "url" : "https://plus.google.com/102444623953913144164",
-          "width" : 170
+          "logoUrl" : "../images/dfnyc/logos/googledevs.png",
+          "name" : "Google Developers",
+          "url" : "https://developers.google.com/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/firebase.png",
+          "name" : "Firebase",
+          "url" : "https://firebase.google.com/",
+          "width" : 200
         }
       ],
-      "title" : "Template Creator"
+      "title" : "Gold Sponsors"
     },
 
     {
     "logos" :
       [
         {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
+          "logoUrl" : "../images/dfnyc/logos/flutter.png",
+          "name" : "Flutter",
+          "url" : "https://flutter.io/"
         },
         {
-          "logoUrl" : "../images/logos/gdg-x.svg",
-          "name" : "GDG[x]",
-          "url" : "https://github.com/gdg-x"
-        },
-        {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl" : "../images/logos/gdg-x.svg",
-          "name" : "GDG[x]",
-          "url" : "https://github.com/gdg-x"
-        },
-        {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl" : "../images/logos/gdg-x.svg",
-          "name" : "GDG[x]",
-          "url" : "https://github.com/gdg-x"
-        },
-        {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl" : "../images/logos/gdg-x.svg",
-          "name" : "GDG[x]",
-          "url" : "https://github.com/gdg-x"
-        },
-        {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl" : "../images/logos/gdg-x.svg",
-          "name" : "GDG[x]",
-          "url" : "https://github.com/gdg-x"
-        },
-        {
-          "logoUrl" : "../images/logos/google.svg",
-          "name" : "Google",
-          "url" : "https://www.google.com.ua/intl/en/about/"
+          "logoUrl" : "../images/dfnyc/logos/assistant.png",
+          "name" : "Actions On Google",
+          "url" : "https://developers.google.com/actions/",
+          "width" : 200
         }
       ],
-      "title" : "General Partner"
+      "title" : "Silver Sponsors"
+    },
+
+    {
+    "logos" :
+      [
+        {
+          "logoUrl" : "../images/dfnyc/logos/galvanize.png",
+          "name" : "Galvanize",
+          "url" : "https://www.galvanize.com/new-york/campus",
+          "width" : 200
+        }
+      ],
+      "title" : "Venue Sponsor"
+    },
+
+    {
+    "logos" :
+      [
+        {
+          "logoUrl" : "../images/dfnyc/logos/firebase.png",
+          "name" : "Firebase",
+          "url" : "https://firebase.google.com/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/jetbrains.png",
+          "name" : "Jetbrains",
+          "url" : "https://www.jetbrains.com/"
+        }
+      ],
+      "title" : "Prize Sponsors"
+    },
+
+    {
+    "logos" :
+      [
+        {
+          "logoUrl" : "../images/dfnyc/logos/wtm.png",
+          "name" : "Women TechMakers",
+          "url" : "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/gdgnyc.jpeg",
+          "name" : "GDG NYC Community",
+          "url" : "https://www.meetup.com/gdgnyc/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/assistant.png",
+          "name" : "Actions on Google",
+          "url" : "https://developers.google.com/actions/"
+        }
+      ],
+      "title" : "Speaker & Diversity Sponsors"
+    },
+
+    {
+    "logos" :
+      [
+        {
+          "logoUrl" : "../images/dfnyc/logos/gdghv.jpeg",
+          "name" : "Google Developer Group Hudson Valley",
+          "url" : "https://www.meetup.com/gdg-hudson-valley/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/devto.png",
+          "name" : "Dev.To",
+          "url" : "https://dev.to/"
+        }
+      ],
+      "title" : "Community Partners"
     }
   ],
+
+
 
   "schedule" : [
     {
