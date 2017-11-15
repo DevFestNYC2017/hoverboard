@@ -27,7 +27,7 @@
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Featured Speakers",
   "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
+  "action": "About this community",
   "locationTitle": "Galvanize NYC",
   "locationDescription": "A great location to network and work together.",
   "locationAddress": "315 Hudson St, New York, NY 10013",
@@ -78,7 +78,7 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest NYC 2016",
+          "text": "GDG DevFest NYC 2017",
           "url": "https://devfestnyc.com/",
           "newTab": true
         }
@@ -109,10 +109,10 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) NYC](http://www.meetup.com/gdgnyc) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "DevFest NYC is the signature developer conference run by GDG New York City, an approved Google Developers community. The event is for community, run by volunteers. Our goal is to raise awareness, and create actionable learning to ensure the success of our community in 2018.",
   "statistics": [
     {
-      "counter": 250,
+      "counter": 300,
       "caption": "Attendees"
     },
     {
@@ -129,7 +129,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2016",
+    "videoTitle": "GDG DevFest 2017",
     "videoId": "5bQPupnbf4Y"
   }
 }

@@ -19,7 +19,7 @@
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
   "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's Happening At ",
+  "beforeHashtag": "What's up",
   "clickToViewPhotos": "Click to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
@@ -27,7 +27,7 @@
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Featured Speakers",
   "featuredPeopleViewAll": "View all speakers",
-  "action": "About this community",
+  "action": "See how it was",
   "locationTitle": "Galvanize NYC",
   "locationDescription": "A great location to network and work together.",
   "locationAddress": "315 Hudson St, New York, NY 10013",
@@ -112,7 +112,7 @@
   "teamPageText": "DevFest NYC is the signature developer conference run by GDG New York City, an approved Google Developers community. The event is for community, run by volunteers. Our goal is to raise awareness, and create actionable learning to ensure the success of our community in 2018.",
   "statistics": [
     {
-      "counter": 300,
+      "counter": 250,
       "caption": "Attendees"
     },
     {
