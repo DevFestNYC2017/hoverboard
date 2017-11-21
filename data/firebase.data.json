@@ -166,6 +166,79 @@
     {
       "badges" : [
         {
+          "description" : "Google Developers Group Boston",
+          "link" : "https://www.meetup.com/gdg-boston/",
+          "name" : "GDG"
+        }
+      ],
+      "bio" : "Amal his a Senior Open Web Engineer at Bocoup where she will work on web platform interoperability and reliability alongside browser engineers from Google's V8, Mozilla's Spidermonkey and Microsoft's Edge teams. Amal is a biomedical engineer turned software engineer that has a passion for creating delightful applications that make a difference. She is hyper-technical and enjoys having a deep understanding of optimizations and the ‘whys’ behind best practices and patterns. Amal loves to travel and has been to over 30 countries, and speaks four languages. She is also a co-host on the Web Platform Podcast and a co-organizer of Boston's Google Developer Group.",
+      "company" : "Boucoup",
+      "companyLogo" : "/images/dfnyc/logos/",
+      "country" : "United States",
+      "featured" : true,
+      "id" : 3,
+      "name" : "Amal Hussein",
+      "photoUrl" : "/images/dfnyc/speakers/03-AmalHussein.png",
+      "shortBio" : "Amal his a Senior Open Web Engineer at Bocoup, a co-host of the Web Platform podcast, and a co-organizer of GDG Boston.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/nomadtechie",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/amalahussein",
+          "name" : "GitHub"
+        }
+      ],
+      "tags" : [ "Web", "PWA" ],
+      "title" : "Senior Open Web Engineer "
+    },
+
+
+
+    {
+      "badges" : [
+        {
+          "description" : "Google Developers Group Boston",
+          "link" : "https://www.meetup.com/gdg-boston/",
+          "name" : "GDG"
+        }
+      ],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "/images/dfnyc/logos/",
+      "country" : "United States",
+      "featured" : true,
+      "id" : 3,
+      "name" : "",
+      "photoUrl" : "/images/dfnyc/speakers/",
+      "shortBio" : "",
+      "socials" : [
+        {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/",
+          "name" : "Facebook"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/+",
+          "name" : "Google+"
+        }
+      ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+
+    {
+      "badges" : [
+        {
           "description" : "Women TechMakers Lead",
           "link" : "https://www.womentechmakers.com/directory/stacy-devino",
           "name" : "WTM"
@@ -800,11 +873,7 @@
       "tags" : [ "web", "machine learning" ],
       "title" : "Battle of the NodeBots: Compete"
     }
-
   },
-
-
-
 
   "schedule" : [
     {
@@ -813,16 +882,15 @@
 
       "timeslots" : [
         {
-        "startTime" : "08:30",
-        "endTime"   : "09:30",
-        "sessions"  : [ [ 001 ] ]
+          "startTime" : "08:30",
+          "sessions"  : [ [ 001 ] ],
+          "endTime"   : "09:30"
         },
         {
-        "startTime" : "09:30",
-        "endTime"   : "10:15",
-        "sessions"  : [ [ 100 ] ]
+          "startTime" : "09:30",
+          "sessions"  : [ [ 100 ] ],
+          "endTime"   : "10:15"
         },
-
         {
           "endTime" : "11:00",
           "sessions" : [ [ 139 ] ],
@@ -1019,10 +1087,10 @@
 
   "videos" : [
     {
-      "speakers" : "Jakub Škvára",
-      "thumbnail" : "/images/sessions/116.JPG",
-      "title" : "Polymer vs other libraries",
-      "youtubeId" : "-UEURYYVCmg"
+      "speakers" : "",
+      "thumbnail" : "/images/sessions/video.jpg",
+      "title" : "Video Description Here.",
+      "youtubeId" : ""
     }
   ]
 }
