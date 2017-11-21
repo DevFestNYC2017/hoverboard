@@ -115,14 +115,16 @@
 
       "timeslots" : [
         {
-        "startTime" : "08:30",
-        "endTime"   : "09:30",
-        "sessions"  : [ [ 001 ] ]
+        
+          "endTime"   : "09:30",
+          "sessions"  : [  [ 100 ] ],
+          "startTime" : "08:30"
         },
         {
-        "startTime" : "09:30",
-        "endTime"   : "10:15",
-        "sessions"  : [ [ 100 ] ]
+        
+          "endTime"   : "10:15",
+          "sessions"  : [ [ 101 ] ],
+          "startTime" : "09:30"
         },
 
         {
@@ -181,7 +183,6 @@
           "startTime" : "18:30"
         }
       ],
-
       "tracks" : [
         {
           "title" : "Room A"
@@ -196,8 +197,8 @@
     },
 
     {
-      "date" : "2016-09-10",
-      "dateReadable" : "September 10",
+      "date" : "2017-12-03",
+      "dateReadable" : "December 3",
       "timeslots" : [
         {
           "endTime" : "10:10",
@@ -241,17 +242,16 @@
           "startTime" : "16:50"
         } ],
         "tracks" : [ {
-          "title" : "Expo hall"
+          "title" : "Room A"
         }, {
-          "title" : "Conference hall"
+          "title" : "Room B"
         }, {
-          "title" : "Workshops hall"
+          "title" : "Room C"
         } ]
     }
   ],
 
   "sessions" : {
-
 
     "100" : {
       "description" : "Registration & Breakfast",
@@ -316,8 +316,6 @@
       "image" : "/images/backgrounds/registration.jpg",
       "title" : "Wrap-Up & Thank You!"
     },
-
-
 
     "110" : {
       "complexity" : "",
@@ -395,8 +393,6 @@
       "tags" : [ "android" ],
       "title" : "Android Instant Apps"
     },
-
-
 
     "120" : {
       "complexity" : "",
