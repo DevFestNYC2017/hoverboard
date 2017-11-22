@@ -1,227 +1,243 @@
 {
+
   "partners" : [
-         {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/googledevs.png",
-                "name" : "Google Developers",
-                "url" : "https://developers.google.com/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/firebase.png",
-                "name" : "Firebase",
-                "url" : "https://firebase.google.com/",
-                "width" : 200
-              }
-            ],
-            "title" : "Gold Sponsors"
-          },
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/googledevs.png",
+          "name" : "Google Developers",
+          "url" : "https://developers.google.com/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/firebase.png",
+          "name" : "Firebase",
+          "url" : "https://firebase.google.com/",
+          "width" : 200
+        }
+      ],
+      "title" : "Gold Sponsors"
+    },
 
-          {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/flutter.png",
-                "name" : "Flutter",
-                "url" : "https://flutter.io/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/assistant.png",
-                "name" : "Actions On Google",
-                "url" : "https://developers.google.com/actions/",
-                "width" : 200
-              }
-            ],
-            "title" : "Silver Sponsors"
-          },
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/flutter.png",
+          "name" : "Flutter",
+          "url" : "https://flutter.io/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/assistant.png",
+          "name" : "Actions On Google",
+          "url" : "https://developers.google.com/actions/",
+          "width" : 200
+        }
+      ],
+      "title" : "Silver Sponsors"
+    },
 
-          {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/galvanize.png",
-                "name" : "Galvanize",
-                "url" : "https://www.galvanize.com/new-york/campus",
-                "width" : 200
-              }
-            ],
-            "title" : "Venue Sponsor"
-          },
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/galvanize.png",
+          "name" : "Galvanize",
+          "url" : "https://www.galvanize.com/new-york/campus",
+          "width" : 200
+        }
+      ],
+      "title" : "Venue Sponsor"
+    },
 
-          {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/firebase.png",
-                "name" : "Firebase",
-                "url" : "https://firebase.google.com/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/jetbrains.png",
-                "name" : "Jetbrains",
-                "url" : "https://www.jetbrains.com/"
-              }
-            ],
-            "title" : "Prize Sponsors"
-          },
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/firebase.png",
+          "name" : "Firebase",
+          "url" : "https://firebase.google.com/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/jetbrains.png",
+          "name" : "Jetbrains",
+          "url" : "https://www.jetbrains.com/"
+        }
+      ],
+      "title" : "Prize Sponsors"
+    },
 
-          {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/wtm.png",
-                "name" : "Women TechMakers",
-                "url" : "https://www.google.com.ua/intl/en/about/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/gdgnyc.jpeg",
-                "name" : "GDG NYC Community",
-                "url" : "https://www.meetup.com/gdgnyc/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/assistant.png",
-                "name" : "Actions on Google",
-                "url" : "https://developers.google.com/actions/"
-              }
-            ],
-            "title" : "Speaker & Diversity Sponsors"
-          },
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/wtm.png",
+          "name" : "Women TechMakers",
+          "url" : "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/gdgnyc.jpeg",
+          "name" : "GDG NYC Community",
+          "url" : "https://www.meetup.com/gdgnyc/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/assistant.png",
+          "name" : "Actions on Google",
+          "url" : "https://developers.google.com/actions/"
+        }
+      ],
+      "title" : "Speaker & Diversity Sponsors"
+    },
 
-          {
-          "logos" :
-            [
-              {
-                "logoUrl" : "../images/dfnyc/logos/gdghv.jpeg",
-                "name" : "Google Developer Group Hudson Valley",
-                "url" : "https://www.meetup.com/gdg-hudson-valley/"
-              },
-              {
-                "logoUrl" : "../images/dfnyc/logos/devto.png",
-                "name" : "Dev.To",
-                "url" : "https://dev.to/"
-              }
-            ],
-            "title" : "Community Partners"
-          }
-   ],
+    {
+      "logos" : [
+        {
+          "logoUrl" : "../images/dfnyc/logos/gdghv.jpeg",
+          "name" : "Google Developer Group Hudson Valley",
+          "url" : "https://www.meetup.com/gdg-hudson-valley/"
+        },
+        {
+          "logoUrl" : "../images/dfnyc/logos/devto.png",
+          "name" : "Dev.To",
+          "url" : "https://dev.to/"
+        }
+      ],
+      "title" : "Community Partners"
+    }
+  ],
 
   "schedule" : [
     {
-    "date" : "2017-12-02",
-    "dateReadable" : "December 2",
-    "timeslots" : [ {
-      "endTime" : "09:30",
-      "sessions" : [ [ 133 ] ],
-      "startTime" : "08:30"
-    }, {
-      "endTime" : "10:15",
-      "sessions" : [ [ 101 ] ],
-      "startTime" : "09:30"
-    }, {
-      "endTime" : "11:00",
-      "sessions" : [ [ 115 ] ],
-      "startTime" : "10:15"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
-      "startTime" : "11:00"
-    }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
-      "startTime" : "11:50"
-    }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "12:30"
-    }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
-      "startTime" : "14:00"
-    }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 110 ], [ 126 ], [ 107 ] ],
-      "startTime" : "14:50"
-    }, {
-      "endTime" : "16:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "15:30"
-    }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
-      "startTime" : "16:00"
-    }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
-      "startTime" : "16:50"
-    }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
-      "startTime" : "17:40"
-    }, {
-      "endTime" : "22:30",
-      "sessions" : [ [ 137 ] ],
-      "startTime" : "18:30"
-    } ],
-    "tracks" : [ {
-      "title" : "Room A"
-    }, {
-      "title" : "Room B"
-    }, {
-      "title" : "Room C"
-    } ]
+      "date" : "2017-12-02",
+      "dateReadable" : "December 2",
+      "timeslots" : [
+          {
+            "endTime" : "09:30",
+            "sessions" : [ [ 133 ] ],
+            "startTime" : "08:30"
+          },
+          {
+            "endTime" : "10:15",
+            "sessions" : [ [ 101 ] ],
+            "startTime" : "09:30"
+          },
+          {
+            "endTime" : "11:00",
+            "sessions" : [ [ 115 ] ],
+            "startTime" : "10:15"
+          },
+          {
+            "endTime" : "11:40",
+            "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
+            "startTime" : "11:00"
+          },
+          {
+            "endTime" : "12:30",
+            "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
+            "startTime" : "11:50"
+          },
+          {
+            "endTime" : "14:00",
+            "sessions" : [ [ 134 ] ],
+            "startTime" : "12:30"
+          },
+          {
+            "endTime" : "14:40",
+            "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
+            "startTime" : "14:00"
+          },
+          {
+            "endTime" : "15:30",
+            "sessions" : [ [ 110 ], [ 126 ], [ 107 ] ],
+            "startTime" : "14:50"
+          },
+          {
+            "endTime" : "16:00",
+            "sessions" : [ [ 134 ] ],
+            "startTime" : "15:30"
+          },
+          {
+            "endTime" : "16:40",
+            "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
+            "startTime" : "16:00"
+          },
+          {
+            "endTime" : "17:30",
+            "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
+            "startTime" : "16:50"
+          },
+          {
+            "endTime" : "18:20",
+            "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
+            "startTime" : "17:40"
+          },
+          {
+            "endTime" : "22:30",
+            "sessions" : [ [ 137 ] ],
+            "startTime" : "18:30"
+          }
+      ],
+      "tracks" : [
+        { "title" : "Room A"},
+        { "title" : "Room B"},
+        { "title" : "Room C" }
+      ]
     },
     {
-    "date" : "2017-12-03",
-    "dateReadable" : "December 3",
-    "timeslots" : [ {
-      "endTime" : "10:10",
-      "sessions" : [ [ 136 ] ],
-      "startTime" : "09:30"
-    }, {
-      "endTime" : "10:50",
-      "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
-      "startTime" : "10:10"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
-      "startTime" : "11:00"
-    }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
-      "startTime" : "11:50"
-    }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "12:30"
-    }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
-      "startTime" : "14:00"
-    }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
-      "startTime" : "14:50"
-    }, {
-      "endTime" : "16:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "15:30"
-    }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
-      "startTime" : "16:00"
-    }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
-      "startTime" : "16:50"
-    } ],
-    "tracks" : [ {
-      "title" : "Room A"
-    }, {
-      "title" : "Room B"
-    }, {
-      "title" : "Room C"
-    } ]
+      "date" : "2017-12-03",
+      "dateReadable" : "December 3",
+      "timeslots" : [
+        {
+        "endTime" : "10:10",
+        "sessions" : [ [ 136 ] ],
+        "startTime" : "09:30"
+        },
+        {
+          "endTime" : "10:50",
+          "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
+          "startTime" : "10:10"
+        },
+        {
+          "endTime" : "11:40",
+          "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
+          "startTime" : "11:00"
+        },
+        {
+          "endTime" : "12:30",
+          "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
+          "startTime" : "11:50"
+        },
+        {
+          "endTime" : "14:00",
+          "sessions" : [ [ 134 ] ],
+          "startTime" : "12:30"
+        },
+        {
+          "endTime" : "14:40",
+          "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
+          "startTime" : "14:00"
+        },
+        {
+          "endTime" : "15:30",
+          "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
+          "startTime" : "14:50"
+        },
+        {
+          "endTime" : "16:00",
+          "sessions" : [ [ 134 ] ],
+          "startTime" : "15:30"
+        },
+        {
+          "endTime" : "16:40",
+          "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
+          "startTime" : "16:00"
+        },
+        {
+          "endTime" : "17:30",
+          "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
+          "startTime" : "16:50"
+        }
+      ],
+      "tracks" : [
+        { "title" : "Room A"},
+        { "title" : "Room B"},
+        { "title" : "Room C" }
+      ]
     }
   ],
 
@@ -599,230 +615,232 @@
     }
   },
 
-  "speakers" : [ null,
+  "speakers" : [
+    null,
 
-          {
-            "bio"         : "Jeff is a member of the Google Web DevRel team, based in NYC. His mission is to build libraries that take the work out of using service workers.",
-            "company"     : "Google",
-            "companyLogo" : "",
-            "country"     : "New York, United States",
-            "featured"    : true,
-            "id"          : 1,
-            "name"        : "Jeffrey Posnick",
-            "photoUrl"    : "/images/dfnyc/speakers/01-JeffPosnick.png",
-            "shortBio"    : "Jeff is a member of the Google Web DevRel team, based in NYC.",
-            "socials"     : [
-              {
-                "icon" : "linkedin",
-                "link" : "https://www.linkedin.com/in/jeffposnick/",
-                "name" : "LinkedIn"
-              },
-              {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/jeffposnick/",
-              "name" : "Twitter"
-              },
-              {
-                "icon" : "github",
-                "link" : "https://github.com/jeffposnick/",
-                "name" : "GitHub"
-              }
-            ],
-            "tags" : [ "Web", "Chrome", "PWA" ],
-            "title" : "Developer Relations"
-          },
+    {
+      "bio"         : "Jeff is a member of the Google Web DevRel team, based in NYC. His mission is to build libraries that take the work out of using service workers.",
+      "company"     : "Google",
+      "companyLogo" : "",
+      "country"     : "New York, United States",
+      "featured"    : true,
+      "id"          : 1,
+      "name"        : "Jeffrey Posnick",
+      "photoUrl"    : "/images/dfnyc/speakers/01-JeffPosnick.png",
+      "shortBio"    : "Jeff is a member of the Google Web DevRel team, based in NYC.",
+      "socials"     : [
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/jeffposnick/",
+          "name" : "LinkedIn"
+        },
+        {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jeffposnick/",
+        "name" : "Twitter"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/jeffposnick/",
+          "name" : "GitHub"
+        }
+      ],
+      "tags" : [ "Web", "Chrome", "PWA" ],
+      "title" : "Developer Relations"
+    },
 
-          {
-            "bio"         : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS, a JavaScript meetup for New York's favorite borough. She is incredibly strong and runs very fast",
-            "company"     : "Fog Creek Software",
-            "companyLogo" : "",
-            "country"     : "New York, United States",
-            "featured"    : true,
-            "id"          : 2,
-            "name"        : "Jenn Schiffer",
-            "title"       : "Community Engineer, Glitch.com",
-            "photoUrl"    : "/images/dfnyc/speakers/02-JennSchiffer.png",
-            "shortBio"    : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek",
-            "socials" : [
-              {
-                "icon" : "twitter",
-                "link" : "https://twitter.com/jennschiffer",
-                "name" : "Twitter"
-              }
-            ],
-            "tags" : [ "Web", "PWA" ]
-          },
+    {
+      "bio"         : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS, a JavaScript meetup for New York's favorite borough. She is incredibly strong and runs very fast",
+      "company"     : "Fog Creek Software",
+      "companyLogo" : "",
+      "country"     : "New York, United States",
+      "featured"    : true,
+      "id"          : 2,
+      "name"        : "Jenn Schiffer",
+      "title"       : "Community Engineer, Glitch.com",
+      "photoUrl"    : "/images/dfnyc/speakers/02-JennSchiffer.png",
+      "shortBio"    : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/jennschiffer",
+          "name" : "Twitter"
+        }
+      ],
+      "tags" : [ "Web", "PWA" ]
+    },
 
-          {
-            "badges" : [
-              {
-                "description" : "Women TechMakers Lead",
-                "link" : "https://www.womentechmakers.com/directory/stacy-devino",
-                "name" : "WTM"
-              } ,
-              {
-                "description" : "Google Developer Group | Dallas",
-                "link" : "https://www.meetup.com/gdgdallas/",
-                "name" : "GDG"
-              }
-            ],
-            "bio"         : "Stacy is an Android specialist and Mobile Lead at Alkami Techology which recently was named 11th fastest growing software company in the US. She ha worked in almost all aspects of Android development including OS, Frameworks, Radio, and Apps. Stacy also develops IoT appliances and is a maker at heart, developing products from hardware through production. In her spare time, you can find her hacking and restoring arcade or pinball machines or just building custom keyboards!",
-            "company"     : "Alkami Technology",
-            "companyLogo" : "",
-            "country"     : "United States",
-            "featured"    : true,
-            "id"          : 11,
-            "name"        : "Stacy Devino",
-            "title"       : "Android Specialist & Mobile Lead",
-            "photoUrl"    : "/images/dfnyc/speakers/11-StacyDevino.png",
-            "shortBio"    : "Stacy is an Android specialist and Mobile Lead at Alkami Techology.",
-            "socials" : [
-              {
-                "icon" : "linkedin",
-                "link" : "https://www.linkedin.com/in/stacy-devino-40ba6815/",
-                "name" : "LinkedIn"
-              },
-              {
-                "icon" : "github",
-                "link" : "https://github.com/childofthehorn",
-                "name" : "GitHub"
-              },
-              {
-                "icon" : "twitter",
-                "link" : "https://twitter.com/doesitpew",
-                "name" : "Twitter"
-              },
-              {
-                "icon" : "gplus",
-                "link" : "https://plus.google.com/u/0/+StacyDevino",
-                "name" : "Google+"
-              }
-            ],
-            "tags" : [ "Android", "Firebase", "Analytics" ]
-          },
+    {
+      "badges" : [
+        {
+          "description" : "Women TechMakers Lead",
+          "link" : "https://www.womentechmakers.com/directory/stacy-devino",
+          "name" : "WTM"
+        } ,
+        {
+          "description" : "Google Developer Group | Dallas",
+          "link" : "https://www.meetup.com/gdgdallas/",
+          "name" : "GDG"
+        }
+      ],
+      "bio"         : "Stacy is an Android specialist and Mobile Lead at Alkami Techology which recently was named 11th fastest growing software company in the US. She ha worked in almost all aspects of Android development including OS, Frameworks, Radio, and Apps. Stacy also develops IoT appliances and is a maker at heart, developing products from hardware through production. In her spare time, you can find her hacking and restoring arcade or pinball machines or just building custom keyboards!",
+      "company"     : "Alkami Technology",
+      "companyLogo" : "",
+      "country"     : "United States",
+      "featured"    : true,
+      "id"          : 11,
+      "name"        : "Stacy Devino",
+      "title"       : "Android Specialist & Mobile Lead",
+      "photoUrl"    : "/images/dfnyc/speakers/11-StacyDevino.png",
+      "shortBio"    : "Stacy is an Android specialist and Mobile Lead at Alkami Techology.",
+      "socials" : [
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/stacy-devino-40ba6815/",
+          "name" : "LinkedIn"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/childofthehorn",
+          "name" : "GitHub"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/doesitpew",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/u/0/+StacyDevino",
+          "name" : "Google+"
+        }
+      ],
+      "tags" : [ "Android", "Firebase", "Analytics" ]
+    },
 
-          {
-            "badges" : [
-              {
-                "description" : "Google Developer Expert",
-                "link" : "https://developers.google.com/experts/people/allen-firstenberg",
-                "name" : "GDE"
-              }
-            ],
-            "bio"         : "Allen is a Senior Project Guru at Objective Consulting (https://spiders.com) where he focuses on helping clients improve their workflows and address their users’ needs using new and upcoming technologies from web, to mobile, to ubiquitous platforms. He has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant. If you’re looking for him around the conference, you can easily spot him by his blue shirt, his blue Google Glass, and his passion for humanizing technology.",
-            "company"     : "Objective Consulting",
-            "companyLogo" : "",
-            "country"     : "New York, United States",
-            "featured"    : false,
-            "id"          : 14,
-            "name"        : "Allen Firstenberg",
-            "title"       : "Senior Project Guru & Google Developer Expert",
-            "photoUrl"    : "/images/dfnyc/speakers/10-AllenFirstenberg.png",
-            "shortBio"    : "Allen has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant",
-            "socials" : [
-              {
-                "icon" : "twitter",
-                "link" : "https://twitter.com/afirstenberg",
-                "name" : "Twitter"
-              },
-              {
-                "icon" : "gplus",
-                "link" : "https://plus.google.com/101852559274654726533",
-                "name" : "Google+"
-              }
-            ],
-            "tags" : [ "Assistant", "Wearables" ]
-          },
-          {
-            "badges" : [
-              {
-                "description" : "Google Developer Expert | Android",
-                "link" : "https://developers.google.com/experts/people/",
-                "name" : "GDE"
-              } ,
-              {
-                "description" : "Google Developer Group | Krakow",
-                "link" : "https://developers.google.com/groups/directory/",
-                "name" : "GDG"
-              }
-            ],
-            "bio"         : "Bio Here",
-            "company"     : "Company Here",
-            "companyLogo" : "",
-            "country"     : "United States",
-            "featured"    : true,
-            "id"          : 99,
-            "name"        : "Name Here",
-            "title"       : "Title Here",
-            "photoUrl"    : "/images/dfnyc/speakers/_.png",
-            "shortBio"    : "",
-            "socials" : [
-              {
-                "icon" : "github",
-                "link" : "https://www.github.com/",
-                "name" : "GitHub"
-              },
-              {
-                "icon" : "twitter",
-                "link" : "https://twitter.com/",
-                "name" : "Twitter"
-              },
-              {
-                "icon" : "gplus",
-                "link" : "https://plus.google.com/+",
-                "name" : "Google+"
-              },
-              {
-                "icon" : "linkedin",
-                "link" : "https://www.linkedin.com/",
-                "name" : "LinkedIn"
-              }
-            ],
-            "tags" : [ "Android", "Entrepreneurship" ]
-          },
+    {
+      "badges" : [
+        {
+          "description" : "Google Developer Expert",
+          "link" : "https://developers.google.com/experts/people/allen-firstenberg",
+          "name" : "GDE"
+        }
+      ],
+      "bio"         : "Allen is a Senior Project Guru at Objective Consulting (https://spiders.com) where he focuses on helping clients improve their workflows and address their users’ needs using new and upcoming technologies from web, to mobile, to ubiquitous platforms. He has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant. If you’re looking for him around the conference, you can easily spot him by his blue shirt, his blue Google Glass, and his passion for humanizing technology.",
+      "company"     : "Objective Consulting",
+      "companyLogo" : "",
+      "country"     : "New York, United States",
+      "featured"    : false,
+      "id"          : 14,
+      "name"        : "Allen Firstenberg",
+      "title"       : "Senior Project Guru & Google Developer Expert",
+      "photoUrl"    : "/images/dfnyc/speakers/10-AllenFirstenberg.png",
+      "shortBio"    : "Allen has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/afirstenberg",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/101852559274654726533",
+          "name" : "Google+"
+        }
+      ],
+      "tags" : [ "Assistant", "Wearables" ]
+    },
 
-          {
-            "badges" : [
-              {
-                "description" : "Android Google Developer Expert",
-                "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-                "name" : "GDE"
-              } ,
-              {
-                "description" : "Google Developers Group Krakow",
-                "link" : "https://developers.google.com/groups/directory/",
-                "name" : "GDG"
-              }
-            ],
-            "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-            "company" : "Gett",
-            "companyLogo" : "/images/logos/gdg-lviv.svg",
-            "country" : "Tel Aviv, Israel",
-            "featured" : true,
-            "id" : 2,
-            "name" : "Yonatan Levin",
-            "photoUrl" : "/images/people/yonatan_levin.jpg",
-            "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-            "socials" : [
-              {
-                "icon" : "facebook",
-                "link" : "https://www.facebook.com/levin.yonatan",
-                "name" : "Facebook"
-              },
-              {
-                "icon" : "twitter",
-                "link" : "https://twitter.com/parahall",
-                "name" : "Twitter"
-              },
-              {
-                "icon" : "gplus",
-                "link" : "https://plus.google.com/+YonatanLevin",
-                "name" : "Google+"
-              }
-            ],
-            "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-            "title" : "Android Evangelist & Developer"
-          }
+    {
+      "badges" : [
+        {
+          "description" : "Google Developer Expert | Android",
+          "link" : "https://developers.google.com/experts/people/",
+          "name" : "GDE"
+        } ,
+        {
+          "description" : "Google Developer Group | Krakow",
+          "link" : "https://developers.google.com/groups/directory/",
+          "name" : "GDG"
+        }
+      ],
+      "bio"         : "Bio Here",
+      "company"     : "Company Here",
+      "companyLogo" : "",
+      "country"     : "United States",
+      "featured"    : true,
+      "id"          : 99,
+      "name"        : "Name Here",
+      "title"       : "Title Here",
+      "photoUrl"    : "/images/dfnyc/speakers/_.png",
+      "shortBio"    : "",
+      "socials" : [
+        {
+          "icon" : "github",
+          "link" : "https://www.github.com/",
+          "name" : "GitHub"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/+",
+          "name" : "Google+"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/",
+          "name" : "LinkedIn"
+        }
+      ],
+      "tags" : [ "Android", "Entrepreneurship" ]
+    },
+
+    {
+      "badges" : [
+        {
+          "description" : "Android Google Developer Expert",
+          "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
+          "name" : "GDE"
+        } ,
+        {
+          "description" : "Google Developers Group Krakow",
+          "link" : "https://developers.google.com/groups/directory/",
+          "name" : "GDG"
+        }
+      ],
+      "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+      "company" : "Gett",
+      "companyLogo" : "/images/logos/gdg-lviv.svg",
+      "country" : "Tel Aviv, Israel",
+      "featured" : true,
+      "id" : 2,
+      "name" : "Yonatan Levin",
+      "photoUrl" : "/images/people/yonatan_levin.jpg",
+      "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+      "socials" : [
+        {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/levin.yonatan",
+          "name" : "Facebook"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/parahall",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/+YonatanLevin",
+          "name" : "Google+"
+        }
+      ],
+      "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
+      "title" : "Android Evangelist & Developer"
+    }
   ],
 
   "team" : [
@@ -902,4 +920,5 @@
       "youtubeId" : "-UEURYYVCmg"
     }
   ]
+
 }
