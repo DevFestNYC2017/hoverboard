@@ -102,6 +102,7 @@
   ],
 
   "schedule" : [
+
     {
       "date" : "2017-12-02",
       "dateReadable" : "December 2",
@@ -175,82 +176,78 @@
       "tracks" : [
         { "title" : "Room A"},
         { "title" : "Room B"},
-        { "title" : "Room C" }
+        { "title" : "Room C" },
+        { "title" : "Cafeteria" }
       ]
     },
+
     {
       "date" : "2017-12-03",
       "dateReadable" : "December 3",
       "timeslots" : [
         {
-        "endTime" : "10:10",
-        "sessions" : [ [ 136 ] ],
-        "startTime" : "09:30"
+        "startTime" : "08:30",
+        "endTime" : "09:30",
+        "sessions" : [ [ 200 ] ]
         },
         {
-          "endTime" : "10:50",
-          "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
-          "startTime" : "10:10"
+        "startTime" : "09:30",
+        "endTime" : "12:00",
+        "sessions" : [ [ 210 ], [ 250 ], [ 220 ], [ 230 ], [ 240 ] ]
         },
         {
-          "endTime" : "11:40",
-          "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
-          "startTime" : "11:00"
+        "startTime" : "12:00",
+        "endTime" : "13:00",
+        "sessions" : [ [ 201 ] ]
         },
         {
-          "endTime" : "12:30",
-          "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
-          "startTime" : "11:50"
+        "startTime" : "13:00",
+        "endTime" : "15:30",
+        "sessions" : [ [ 211 ], [ 250 ], [ 221 ], [ 231 ], [ 241 ] ]
         },
         {
-          "endTime" : "14:00",
-          "sessions" : [ [ 134 ] ],
-          "startTime" : "12:30"
+        "startTime" : "15:30",
+        "endTime" : "16:00",
+        "sessions" : [ [ 202 ] ]
         },
         {
-          "endTime" : "14:40",
-          "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
-          "startTime" : "14:00"
+        "startTime" : "16:00",
+        "endTime" : "16:30",
+        "sessions" : [ [ 212 ], [ 251 ] ]
         },
         {
-          "endTime" : "15:30",
-          "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
-          "startTime" : "14:50"
+        "startTime" : "16:30",
+        "endTime" : "17:00",
+        "sessions" : [ [ 213 ] ]
         },
         {
-          "endTime" : "16:00",
-          "sessions" : [ [ 134 ] ],
-          "startTime" : "15:30"
-        },
-        {
-          "endTime" : "16:40",
-          "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
-          "startTime" : "16:00"
-        },
-        {
-          "endTime" : "17:30",
-          "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
-          "startTime" : "16:50"
+        "startTime" : "17:00",
+        "endTime" : "17:30",
+        "sessions" : [ [ 203 ] ]
         }
       ],
       "tracks" : [
         { "title" : "Room A"},
+        { "title" : "Cafeteria" },
         { "title" : "Room B"},
-        { "title" : "Room C" }
+        { "title" : "Room C" },
+        { "title" : "Room D" }
       ]
     }
   ],
 
   "sessions" : {
+
     "101" : {
       "complexity" : "Beginner",
-      "description" : "Opening Keynote: Joshua Gordon",
+      "description" : "A deep dive into recent work in medical imaging, where TensorFlow is used to assist physicians diagnose disease. I'll cover both the technology - and importantly - the problem solving process of thoughtfully applying it to solve a meaningful problem. At the end, I'll close with my favorite educational resources you can use to learn more about this important area.",
       "id" : 101,
       "language" : "English",
       "speakers" : [ 1 ],
       "tags" : [ "Machine Learning" ],
-      "title" : "Opening Keynote"
+      "title" : "Opening Keynote: Detecting Cancer with TensorFlow"
     },
+
     "102" : {
       "complexity" : "Beginner",
       "description" : "Closing Keynote: Pam Selle",
@@ -260,6 +257,7 @@
       "tags" : [ "Serverless", "Web" ],
       "title" : "Closing Keynote"
     },
+
     "103" : {
       "description" : "Day 1 Wrap-Up",
       "id" : 103,
@@ -268,6 +266,7 @@
       "image" : "/images/backgrounds/registration.jpg",
       "title" : "Wrap-Up & Thank You!"
     },
+
     "104" : {
       "complexity" : "Intermediate",
       "description" : "What's new in PWA. From Lighthouse updates to WorkBoxJS",
@@ -278,6 +277,7 @@
       "tags" : [ "pwa", "web" ],
       "title" : "Progressive Web Apps: Tools & Tech"
     },
+
     "105" : {
       "complexity" : "Intermediate",
       "description" : "Building apps with Glitch",
@@ -288,6 +288,7 @@
       "tags" : [ "web" ],
       "title" : "Programming with Glitch"
     },
+
     "106" : {
       "complexity" : "Beginner",
       "description" : "What's New in Web",
@@ -298,6 +299,7 @@
       "tags" : [ "web" ],
       "title" : "What's New In Web"
     },
+
     "107" : {
       "complexity" : "Beginner",
       "description" : "TBD",
@@ -308,6 +310,7 @@
       "tags" : [ "web", "machine learning", "nativescript" ],
       "title" : "TBD"
     },
+
     "108" : {
       "complexity" : "Beginner",
       "description" : "Building apps with Flutter",
@@ -318,6 +321,7 @@
       "tags" : [ "web", "flutter" ],
       "title" : "Building apps with Flutter"
     },
+
     "109" : {
       "complexity" : "Beginner",
       "description" : "TBD",
@@ -328,6 +332,7 @@
       "tags" : [ "mobile", "machine learning" ],
       "title" : "Recaptcha"
     },
+
     "110" : {
       "complexity" : "Intermediate",
       "description" : "Android Instant Apps",
@@ -338,6 +343,7 @@
       "tags" : [ "android" ],
       "title" : "Android Instant Apps"
     },
+
     "111" : {
       "complexity" : "Intermediate",
       "description" : "Android Things",
@@ -348,6 +354,7 @@
       "tags" : [ "android" ],
       "title" : "Android Things"
     },
+
     "112" : {
       "complexity" : "Advanced",
       "description" : "Sentinel: Home Monitoring",
@@ -358,6 +365,7 @@
       "tags" : [ "android" ],
       "title" : "Sentinel: Home Monitoring"
     },
+
     "113" : {
       "complexity" : "Beginner",
       "description" : "Firebase Introduction",
@@ -368,6 +376,7 @@
       "tags" : [ "firebase" ],
       "title" : "Firebase Introduction"
     },
+
     "114" : {
       "complexity" : "Intermediate",
       "description" : "Firebase Cloud Functions",
@@ -378,6 +387,7 @@
       "tags" : [ "firebase" , "googlecloud" ],
       "title" : "Firebase Cloud Functions"
     },
+
     "115" : {
       "complexity" : "Intermediate",
       "description" : "Firebase Analytics",
@@ -388,6 +398,7 @@
       "tags" : [ "android" , "firebase"],
       "title" : "Firebase Analytics"
     },
+
     "116" : {
       "complexity" : "Advanced",
       "description" : "Ishtio: Open Mesh",
@@ -398,6 +409,7 @@
       "tags" : [ "googlecloud", "kubernetes" ],
       "title" : "Ishtio: Open Mesh"
     },
+
     "117" : {
       "complexity" : "Intermediate",
       "description" : "Serverless Cloud Machine Learning",
@@ -408,6 +420,7 @@
       "tags" : [ "android" ],
       "title" : "Serverless & Cloud Machine Learning"
     },
+
     "118" : {
       "complexity" : "Intermediate",
       "description" : "Design for VR",
@@ -418,6 +431,7 @@
       "tags" : [ "android", "vr" ],
       "title" : "Design For VR"
     },
+
     "119" : {
       "complexity" : "Intermediate",
       "description" : "VR",
@@ -428,6 +442,7 @@
       "tags" : [ "vr" ],
       "title" : "VR"
     },
+
     "120" : {
       "complexity" : "Advanced",
       "description" : "Semantic Web & IoT",
@@ -438,6 +453,7 @@
       "tags" : [ "iot" ],
       "title" : "Semantic Web & IoT"
     },
+
     "121" : {
       "complexity" : "Beginner",
       "description" : "Intro to Google Assistant",
@@ -448,6 +464,7 @@
       "tags" : [ "asssistant", "voice", "AI" ],
       "title" : "Intro to Google Assistant"
     },
+
     "122" : {
       "complexity" : "Advanced",
       "description" : "Open SSML",
@@ -458,6 +475,7 @@
       "tags" : [ "voice", "AI" ],
       "title" : "Open SSML"
     },
+
     "123" : {
       "complexity" : "Intermediate",
       "description" : "Converational UI/UX",
@@ -468,6 +486,7 @@
       "tags" : [ "voice", "AI" ],
       "title" : "Conversational UI/UX"
     },
+
     "124" : {
       "complexity" : "Advanced",
       "description" : "VUI in Enterprise",
@@ -478,6 +497,7 @@
       "tags" : [ "voice", "AI" ],
       "title" : "VUI In Enterprise"
     },
+
     "125" : {
       "complexity" : "Intermediate",
       "description" : "PWA Workshop",
@@ -488,6 +508,7 @@
       "tags" : [ "web", "pwa" ],
       "title" : "Progressive Web Apps: Workshop"
     },
+
     "126" : {
       "complexity" : "Intermediate",
       "description" : "Programming with Glitch: Workshop",
@@ -498,6 +519,7 @@
       "tags" : [ "web" ],
       "title" : "Programming with Glitch: Workshop"
     },
+
     "127" : {
       "complexity" : "Intermediate",
       "description" : "Kotlin Workshop",
@@ -508,6 +530,7 @@
       "tags" : [ "android", "kotlin" ],
       "title" : "Kotlin Workshop"
     },
+
     "128" : {
       "complexity" : "Intermediate",
       "description" : "Android Things Workshop",
@@ -518,6 +541,7 @@
       "tags" : [ "android", "iot" ],
       "title" : "Android Things Workshop"
     },
+
     "129" : {
       "complexity" : "Beginner",
       "description" : "Flutter",
@@ -528,6 +552,7 @@
       "tags" : [ "web","flutter" ],
       "title" : "Flutter"
     },
+
     "130" : {
       "complexity" : "Beginner",
       "description" : "Google Assistant",
@@ -538,6 +563,7 @@
       "tags" : [ "voice", "assistant" ],
       "title" : "Google Assistant"
     },
+
     "131" : {
       "complexity" : "Intermediate",
       "description" : "Battle of the NodeBots",
@@ -548,6 +574,7 @@
       "tags" : [ "web", "machine learning" ],
       "title" : "Battle of the NodeBots: Build"
     },
+
     "132" : {
       "complexity" : "",
       "description" : "Battle of the NodeBots",
@@ -558,30 +585,35 @@
       "tags" : [ "web", "machine learning" ],
       "title" : "Battle of the NodeBots: Compete"
     },
+
     "133" : {
       "description" : "Registration & Breakfast",
       "id" : 133,
       "image" : "/images/backgrounds/registration.jpg",
       "title" : "DevFestNYC Day1 Registration"
     },
+
     "134" : {
       "description" : "Foooooooood!",
       "id" : 134,
       "image" : "/images/backgrounds/lunch.jpg",
       "title" : "Lunch"
     },
+
     "135" : {
       "description" : "Break",
       "id" : 135,
       "image" : "/images/backgrounds/coffee-break.jpg",
       "title" : "Break: Drinks and Networking"
     },
+
     "136" : {
       "description" : "Registration & Breakfast",
       "id" : 136,
       "image" : "/images/backgrounds/registration.jpg",
       "title" : "DevFestNYC Day2 Registration"
     },
+
     "137" : {
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "id" : 137,
@@ -589,30 +621,148 @@
       "language" : "English",
       "title" : "GDG DevFest NYC 2016 Opening"
     },
+
     "138" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
       "id" : 138,
       "image" : "/images/backgrounds/party.jpg",
       "title" : "Afterparty & Networking"
     },
+
     "139" : {
       "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
       "id" : 139,
       "image" : "/images/backgrounds/closing.jpg",
       "title" : "Conference closing and contest winners announcements"
     },
+
     "140" : {
       "description" : "Keynote",
       "id" : 140,
       "language" : "English",
       "title" : "Keynote"
     },
+
     "141" : {
       "description" : "TBD",
       "id" : 141,
       "language" : "English",
       "title" : "TBD"
+    },
+
+
+    "200" : {
+      "description" : "Day 2: Registration & Breakfast. Hackathon teams should find their members and get ready to hack. HourOfCode teams, proceed to the Cafeteria area to get started building your bots. Everyone else, pick a workshop and head to that room.",
+      "id" : 200,
+      "language" : "English",
+      "title" : "Day 2: Registration & Breakfast"
+    },
+    "201" : {
+      "description" : "Lunch will be catered and served in the cafeteria area.",
+      "id" : 201,
+      "language" : "English",
+      "title" : "Day 2: Lunch Break"
+    },
+    "202" : {
+      "description" : "This marks the end of the Workshops & Hackathon sessions on Day 2. Attendees are encouraged to head to the Cafeteria area to cheer on the kids in the NodeBots Battles.",
+      "id" : 202,
+      "language" : "English",
+      "title" : "Day 2: Afternoon Break"
+    },
+    "203" : {
+      "description" : "This concludes our DevFest. Thank you all for attending. We hope to see you all again next year.",
+      "id" : 203,
+      "language" : "English",
+      "title" : "Day 2: Wrap-Up & Thanks"
+    },
+
+
+    "210" : {
+      "description" : "This marks the official start of the Hackathon. Ideally you should be in teams by now but if not, use Slack to join one. Start brainstorming ideas and delegating roles. Get hacking!",
+      "id" : 220,
+      "language" : "English",
+      "image" : "/images/dfnyc/pages/appfest.png",
+      "title" : "AppFest Hackathon: Morning Session"
+    },
+    "211" : {
+      "description" : "Continue hacking. At this point, teams must have a fair idea of what they can complete and demonstrate to the judges. So go, go, go!",
+      "id" : 211,
+      "language" : "English",
+      "image" : "/images/dfnyc/pages/appfest.png",
+      "title" : "AppFest Hackathon: Afternoon Session"
+    },
+    "212" : {
+      "description" : "Time to start wrapping up your ideas. Our judges will go around evaluating the applications in preparation for their final decisions.",
+      "id" : 212,
+      "language" : "English",
+      "image" : "/images/dfnyc/pages/appfest.png",
+      "title" : "AppFest Hackathon: Demos and Judging"
+    },
+
+
+    "213" : {
+      "description" : "Come together to celebrate our DevFest attendees. Prizes will be awarded to the winners of the AppFest Hackathon and the NodeBots Battle. We will also have a few prizes to raffle away to attendees so stick around.",
+      "id" : 213,
+      "language" : "English",
+      "title" : "Celebrate: Prizes & Raffles"
+    },
+
+
+    "220" : {
+      "description" : "Progressive Web Apps explore best practices and patterns for building web apps that deliver performant & engaging experiencess comparable to native apps on mobile devices.",
+      "id" : 204,
+      "language" : "English",
+      "title" : "Progressive Web Apps Workshop"
+    },
+    "221" : {
+      "description" : "Glitch is the friendly community where you'll build the app of your dreams. With working example apps to remix, a code editor to modify them, instant hosting and deployment - anybody can build a web app on Glitch, for free. Learn how to build and deploy Glitch-enabled experiences for modern web users.",
+      "id" : 221,
+      "language" : "English",
+      "title" : "Glitch Workshop: Build a Better Web"
+    },
+
+
+    "230" : {
+      "description" : "Kotlin is a new programming language from JetBrains, that is now supported (alongside Java) as a core programming language for Android devices. Kotlin enables concise code without safety or performance. Come learn Kotlin syntax and get started developing a new generation of Android applications.",
+      "id" : 222,
+      "language" : "English",
+      "title" : "Kotlin Workshop"
+    },
+    "231" : {
+      "description" : "Android Things is an extension of the Android platform for IoT and embedded devices, writing IoT apps has been made a lot easier using Android Things. In this workshop, we will first cover what Android Things is and some basic examples of how to use it and then we will go onto building a light powered by motion sensor. Then you will learn to build a motion sensing camera that will take images and send them to your phone.",
+      "id" : 231,
+      "language" : "English",
+      "title" : "Android Things Workshop: Build Motion Sensing Lights & Camera"
+    },
+
+    "240" : {
+      "description" : "Building and maintaining apps for both iOS and Android is a pain for many developers. Flutter, a new native mobile app SDK by Google is looking to solve this problem. In Flutter, you build your native app using one codebase. Flutter compiles it to run native on Android and iOS, giving developers a smooth, fluid 60 fps experience with a native look and feel. In this workshop we will learn how to build Flutter apps from the ground up! No app development experience is necessary. We will learn the fundamentals of Flutter, how to write, debug and deploy Flutter apps. You will leave the workshop with the skills to go out and build real world production ready Flutter apps.",
+      "id" : 240,
+      "language" : "English",
+      "title" : "Flutter Workshop"
+    },
+    "241" : {
+      "description" : "Learn about conversational UI/UX and the Google Assistant architecture. Understand design elements for voice interactions. Then complete codelabs to build your first Assistant experience.",
+      "id" : 222,
+      "language" : "English",
+      "title" : "Google Assistant & DialogFlow Workshop"
+    },
+
+    "250" : {
+      "description" : "Get into teams and start working on your NodeBots robot. Assemble the robot, decorate it, then learn how to program simple controls and motion.",
+      "id" : 222,
+      "language" : "English",
+      "image" : "/images/dfnyc/pages/hoc-nodebots.png",
+      "title" : "HourOfCode: NodeBots Building Time"
+    },
+    "251" : {
+      "description" : "Start the elimination rounds. Teams will battle against each other's robots, using controls to push the competitor off the battle board until there is only one robot left standing!",
+      "id" : 222,
+      "language" : "English",
+      "image" : "/images/dfnyc/pages/hoc-nodebots.png",
+      "title" : "HourOfCode: NodeBots Battle Time!"
     }
+
   },
 
   "speakers" : [
@@ -1406,7 +1556,7 @@
           "name" : "GDG"
         }
       ],
-      "bio"         : "I build performant software and inclusive communities. Polyglot with interest in mobile, web, machine learning & AI. Organize GDG New York City & GDG Hudson Valley. Supporting workforce retraining with StudyCamps. Giving apps a voice at BitNBot.",
+      "bio"         : "Nitya Narasimhan is a PhD and Polyglot who is focused on building better software and more inclusive communities in the Greater New York region. She works with early stage startups and academic institutions to develop mobile, web, machine learning & AI solutions for next-generation consumers. She organizes GDG New York City & GDG Hudson Valley, supports workforce retraining with StudyCamps, and is giving apps a voice at BitNBot.",
       "company"     : "GDG New York City",
       "companyLogo" : "",
       "country"     : "United States",
@@ -1415,7 +1565,7 @@
       "name"        : "Nitya Narasimhan",
       "title"       : "Organizer, DevFestNYC",
       "photoUrl"    : "/images/dfnyc/speakers/28-NityaNarasimhan.png",
-      "shortBio"    : "I build performant software and inclusive communities. Polyglot with interest in mobile, web, machine learning & AI. Organize GDG New York City & GDG Hudson Valley. Creator of StudyCamps. Giving apps a voice at BitNBot.",
+      "shortBio"    : "Nitya Narasimhan is a PhD and Polyglot who is focused on building better software and more inclusive communities in the Greater New York region. She works with early stage startups and academic institutions to develop mobile, web, machine learning & AI solutions for next-generation consumers. ",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1563,7 +1713,7 @@
             "link" : "http://linkedin.com/in/nityan",
             "name" : "LinkedIn"
           } ],
-          "title" : "DevFest Organizer (Speakers, Sponsors, Schedule, Ticketing, Website)"
+          "title" : "Core Organizer (Speakers, Sponsors, Schedule, Ticketing, Website)"
         },
         {
           "name" : "Chinedu Chukwuelue",
