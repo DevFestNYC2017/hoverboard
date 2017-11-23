@@ -623,7 +623,7 @@
       "company"     : "Google",
       "companyLogo" : "/images/dfnyc/logos/company-google.svg",
       "country"     : "New York, United States",
-      "featured"    : false,
+      "featured"    : true,
       "id"          : 1,
       "name"        : "Jeffrey Posnick",
       "photoUrl"    : "/images/dfnyc/speakers/01-JeffPosnick.png",
@@ -1126,7 +1126,7 @@
           "name" : "Twitter"
         },
         {
-          "icon" : "linkedIn",
+          "icon" : "linkedin",
           "link" : "https://www.linkedin.com/in/austinlparker/",
           "name" : "LinkedIn"
         },
@@ -1156,7 +1156,7 @@
       "name"        : "Mike Nakhimovich",
       "title"       : "Android Lead",
       "photoUrl"    : "/images/dfnyc/speakers/18-MikeNakhimovich.png",
-      "shortBio"    : "Mike is Google Developer Expert in Android heavily focused on making performant apps by leveraging functional reactive architectures. He started his Android career 5+ years ago working on logistic software particularly with physical barcode scanners. Since then Mike did a stint at NY's premier Android shop, TouchLab, chased the equity dream at Betterment, fought the good fight at The New York Times and is currently spending his days as the Android Lead at Nike's Digital Innovation Lab S23NC. Mike is also a co-founder of FriendlyRobot.nyc where he helps NY startups turn their dreams into Android realities. In his free time he enjoys writing and speaking about overly complicated concepts at conferences and area meetups, writing for tech blogs and maintaining his open source library TinyDancer, Apollo-Android and NYT Store",
+      "shortBio"    : "Mike is Google Developer Expert in Android heavily focused on making performant apps by leveraging functional reactive architectures. He started his Android career 5+ years ago working on logistic software particularly with physical barcode scanners. Since then Mike did a stint at NY's premier Android shop, TouchLab, chased the equity dream at Betterment, fought the good fight at The New York Times and is currently spending his days as the Android Lead at Nike's Digital Innovation Lab S23NC.",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1187,7 +1187,7 @@
       "name"        : "Brian Plummer",
       "title"       : "Android Engineer",
       "photoUrl"    : "/images/dfnyc/speakers/19-BrianPlummer.png",
-      "shortBio"    : "Brian has been developing Android applications for 7 years.  He started out at TouchLab where he worked on a plethora of applications.  This prepared him for the New York Times where he played a pivotal role in rewriting their application from scratch.  Currently he is at Nike's Digital Innovation Lab S23NC focusing on their core application.  In addition to his day job he is also a co-founder of FriendlyRobot.nyc where he helps NY startups turn their dreams into Android realities. He enjoys speaking at meetups and conferences, and working on his open source libraries; NYT Store, TinyDancer, and Apollo-Android.",
+      "shortBio"    : "Brian has been developing Android applications for 7 years.  He started out at TouchLab where he worked on a plethora of applications.  This prepared him for the New York Times where he played a pivotal role in rewriting their application from scratch.  Currently he is at Nike's Digital Innovation Lab S23NC focusing on their core application.",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1240,37 +1240,66 @@
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
+      "badges" : [
+        {
+          "description" : "Google Developer Group | Phoenix",
+          "link" : "https://www.meetup.com/PHX-Android",
+          "name" : "GDG"
+        }
+      ],
+      "bio"         : "Developer, woodworker, husband and dad. I write code and cut wood to build things",
+      "company"     : "GDG Phoenix",
       "companyLogo" : "",
-      "country"     : "United States",
+      "country"     : "Phoenix, United States",
       "featured"    : false,
       "id"          : 21,
       "name"        : "Sheldon McGee",
-      "title"       : "",
+      "title"       : "Software Engineer & GDG Organizer",
       "photoUrl"    : "/images/dfnyc/speakers/21-SheldonMcGee.png",
-      "shortBio"    : "",
+      "shortBio"    : "Developer, woodworker, husband and dad. Co-organizer of the Google Developer Group Phoenix. I battle NodeBots.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/tooshel",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/tooshel/",
+          "name" : "LinkedIn"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/tooshel",
+          "name" : "GitHub"
         }
       ],
       "tags" : [ "Web", "NodeBots" ]
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
+      "badges" : [
+        {
+          "description" : "Women TechMakers Lead",
+          "link" : "https://www.meetup.com/PHX-Android",
+          "name" : "WTM"
+        } ,
+        {
+          "description" : "Google Developer Group | Phoenix",
+          "link" : "https://www.meetup.com/PHX-Android",
+          "name" : "GDG"
+        }
+      ],
+      "bio"         : "Co-organizer & Women TechMakers Lead, Google Developer Group Phoenix. I battle NodeBots.",
+      "company"     : "GDG Phoenix",
       "companyLogo" : "",
       "country"     : "United States",
       "featured"    : true,
       "id"          : 22,
       "name"        : "Sarah McGee",
-      "title"       : "",
+      "title"       : "Co-organizer & WTM Lead, GDG Phoenix",
       "photoUrl"    : "/images/dfnyc/speakers/22-SarahMcGee.png",
-      "shortBio"    : "",
+      "shortBio"    : "Co-organizer of the Google Developer Group Phoenix. I battle NodeBots.",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1281,110 +1310,135 @@
       "tags" : [ "Web", "NodeBots" ]
     },
 
-
     {
-      "bio"         : "",
-      "company"     : "",
-      "companyLogo" : "",
-      "country"     : "United States",
-      "featured"    : false,
-      "id"          : 23,
-      "name"        : "Ben Halpern",
-      "title"       : "",
-      "photoUrl"    : "/images/dfnyc/speakers/23-BenHalpern.png",
-      "shortBio"    : "",
-      "socials" : [
-        {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/bendhalpern",
-          "name" : "Twitter"
-        }
-      ],
-      "tags" : [ "Web"]
-    },
-
-    {
-      "bio"         : "",
-      "company"     : "",
+      "bio"         : "Andrew has been working with creative technology for decades with brands ranging from The New York Times to Scholastic.  Most recently he has been focused on AR and VR technology. He started NYC's first ARKit Meetup. He also recently released an AR game on iOS called Hide the Hubu.",
+      "company"     : "Independent",
       "companyLogo" : "",
       "country"     : "United States",
       "featured"    : false,
       "id"          : 25,
       "name"        : "Andrew Deutsch",
-      "title"       : "",
+      "title"       : "Creative Developer VR/AR",
       "photoUrl"    : "/images/dfnyc/speakers/25-AndrewDeutsch.png",
-      "shortBio"    : "",
+      "shortBio"    : "Andrew has been working with creative technology for decades with brands ranging from The New York Times to Scholastic.  Most recently he has been focused on AR and VR technology. He started NYC's first ARKit Meetup. He also recently released an AR game on iOS called Hide the Hubu.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/andrewdeutsch",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/andrew-deutsch-a4a0505/",
+          "name" : "LinkedIn"
+        },
+        {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/andrewdaviddeutsch",
+          "name" : "Facebook"
         }
       ],
       "tags" : [ "VR", "Blocks" ]
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
-      "companyLogo" : "",
+      "bio"         : "Yuliya is an Android developer at Jet.com, leading a team of 4 developers whose main focus is to build performant, scalable and cutting-edge Android projects. Yuliya is actively involved at C4Q - non-profit organization, which fosters the tech community in NY and assists in Android mentoring at Access Code Program.",
+      "company"     : "Jet.com",
+      "companyLogo" : "/images/dfnyc/logos/company-jet.svg",
       "country"     : "United States",
       "featured"    : true,
       "id"          : 26,
       "name"        : "Yuliya Kaleda",
-      "title"       : "",
+      "title"       : "Android Developer",
       "photoUrl"    : "/images/dfnyc/speakers/26-YuliyaKaleda.png",
-      "shortBio"    : "",
+      "shortBio"    : "Yuliya is an Android developer at Jet.com, leading a team of 4 developers whose main focus is to build performant, scalable and cutting-edge Android projects. Yuliya is actively involved at C4Q - non-profit organization, which fosters the tech community in NY and assists in Android mentoring at Access Code Program.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/yuliyakaleda",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/yuliya-kaleda-b4525ab1/",
+          "name" : "LinkedIn"
         }
       ],
       "tags" : [ "Android" ]
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
+      "bio"         : "Oscar started coding at 12 and has worked in companies of all sizes across the American continent, he has co-founded startups, and worked with a wide range of technologies, worked as a Java Developer for 10 years and since 2008 he has been creating native iOS and Android apps; software written by him is still installed in 50+ countries and serves millions of users.",
+      "company"     : "BeenVerified",
       "companyLogo" : "",
       "country"     : "United States",
       "featured"    : false,
       "id"          : 27,
       "name"        : "Oscar Salguero",
-      "title"       : "",
+      "title"       : "Senior Android Engineer",
       "photoUrl"    : "/images/dfnyc/speakers/27-OscarSalguero.png",
-      "shortBio"    : "",
+      "shortBio"    : "Oscar started coding at 12 and has worked in companies of all sizes across the American continent, he has co-founded startups, and worked with a wide range of technologies, worked as a Java Developer for 10 years and since 2008 he has been creating native iOS and Android apps; software written by him is still installed in 50+ countries and serves millions of users.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/oscarsalguero",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/oscarsalguero/",
+          "name" : "LinkedIn"
         }
       ],
       "tags" : [ "Android", "IoT" ]
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
+      "badges" : [
+        {
+          "description" : "Women TechMakers Lead",
+          "link" : "https://www.womentechmakers.com/directory/nitya-narasimhan",
+          "name" : "WTM"
+        } ,
+        {
+          "description" : "Google Developer Group | NYC & Hudson Valley",
+          "link" : "https://www.meetup.com/gdgnyc",
+          "name" : "GDG"
+        }
+      ],
+      "bio"         : "I build performant software and inclusive communities. Polyglot with interest in mobile, web, machine learning & AI. Organize GDG New York City & GDG Hudson Valley. Supporting workforce retraining with StudyCamps. Giving apps a voice at BitNBot.",
+      "company"     : "GDG New York City",
       "companyLogo" : "",
       "country"     : "United States",
       "featured"    : false,
       "id"          : 28,
       "name"        : "Nitya Narasimhan",
-      "title"       : "",
+      "title"       : "Organizer, DevFestNYC",
       "photoUrl"    : "/images/dfnyc/speakers/28-NityaNarasimhan.png",
-      "shortBio"    : "",
+      "shortBio"    : "I build performant software and inclusive communities. Polyglot with interest in mobile, web, machine learning & AI. Organize GDG New York City & GDG Hudson Valley. Creator of StudyCamps. Giving apps a voice at BitNBot.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/nitya",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "gitHub",
+          "link" : "https://github.com/nitya",
+          "name" : "GitHub"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://linkedin.com/in/nityan",
+          "name" : "LinkedIn"
+        },
+        {
+          "icon" : "gplus",
+          "link" : "https://google.com/+NityaNarasimhan",
+          "name" : "Google+"
         }
       ],
-      "tags" : [ "Web", "Firebase" ]
+      "tags" : [ "Web", "Firebase", "Assistant" ]
     },
 
     {
@@ -1395,37 +1449,42 @@
           "name" : "GDE"
         }
       ],
-      "bio"         : "",
-      "company"     : "",
+      "bio"         : "Pam Selle is a software engineering lead at IOpipe working with serverless computing as well as a published author and public speaker. She’s author of Beyond the Resume: How to Get Your Next Job as a Developer and lead author of Choosing a JavaScript Framework from Bleeding Edge Press. She’s spoken across the country and internationally, speaking at events including JSConf EU, JSConf US (Last Call), StrangeLoop, and QCon; she also co-founded LibertyJS, Philadelphia’s premier JavaScript conference.",
+      "company"     : "IOPipe",
       "companyLogo" : "",
       "country"     : "Philadelphia, United States",
       "featured"    : true,
       "id"          : 29,
       "name"        : "Pam Selle",
-      "title"       : "",
+      "title"       : "Software Engineering Lead, IOpipe",
       "photoUrl"    : "/images/dfnyc/speakers/29-PamSelle.png",
-      "shortBio"    : "",
+      "shortBio"    : "Pam Selle is a software engineering lead at IOpipe working with serverless computing as well as a published author and public speaker. She’s author of Beyond the Resume: How to Get Your Next Job as a Developer and lead author of Choosing a JavaScript Framework from Bleeding Edge Press.",
       "socials" : [
         {
           "icon" : "twitter",
           "link" : "https://twitter.com/pamasaur",
           "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/pamelaselle/",
+          "name" : "LinkedIn"
         }
       ],
       "tags" : [ "Web", "Serverless" ]
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
-      "companyLogo" : "",
-      "country"     : "United States",
-      "featured"    : false,
+      "bio"         : "Josh Gordon is a Developer Advocate at Google. He's passionate about teaching and education. His interests include Ubiquitous Computing, Machine Learning, and exploring the great outdoors.",
+      "company"     : "Google",
+      "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+      "country"     : "New York, United States",
+      "featured"    : true,
       "id"          : 30,
       "name"        : "Joshua Gordon",
-      "title"       : "",
+      "title"       : "Developer Advocate, TensorFlow",
       "photoUrl"    : "/images/dfnyc/speakers/30-JoshuaGordon.png",
-      "shortBio"    : "",
+      "shortBio"    : "Josh Gordon is a Developer Advocate at Google. He's passionate about teaching and education. His interests include Ubiquitous Computing, Machine Learning, and exploring the great outdoors.",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1437,16 +1496,17 @@
     },
 
     {
-      "bio"         : "",
-      "company"     : "",
-      "companyLogo" : "",
+      "bio"         : "Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Compute Engine, machine learning APIs, Firebase and more. He's currently an aspiring Node.js developer. Prior to Google, Bret worked in the cloud industry at Rackspace as a software engineer building the RackConnect hybrid hosting product. Before that, he led engineering teams at e-commerce, non-profit and tried his hand at creating two startups. He's often on the running trail, volleyball court or kickball field. Bret earned a bachelor’s degree in computer science from Texas A&M University.",
+      "company"     : "Google",
+      "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+      "country"     : "New York, United States",
       "country"     : "United States",
-      "featured"    : false,
+      "featured"    : true,
       "id"          : 31,
       "name"        : "Bret McGowen",
-      "title"       : "",
+      "title"       : "Developer Advocate, Google Cloud",
       "photoUrl"    : "/images/dfnyc/speakers/31-BretMcGowen.png",
-      "shortBio"    : "",
+      "shortBio"    : "Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Compute Engine, machine learning APIs, Firebase and more",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1455,8 +1515,33 @@
         }
       ],
       "tags" : [ "Cloud", "MachineLearning" ]
-    }
+    },
 
+    {
+      "bio"         : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+      "company"     : "Dev.TO",
+      "companyLogo" : "",
+      "country"     : "United States",
+      "featured"    : false,
+      "id"          : 23,
+      "name"        : "Ben Halpern",
+      "title"       : "Creator, Founder & Webmaster",
+      "photoUrl"    : "/images/dfnyc/speakers/23-BenHalpern.png",
+      "shortBio"    : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/bendhalpern",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/ben-halpern-3a1aa731/",
+          "name" : "LinkedIn"
+        }
+      ],
+      "tags" : [ "Web", "Track MC"]
+    }
   ],
 
   "team" : [
@@ -1493,9 +1578,23 @@
             "name" : "Twitter"
           } ],
           "title" : "Website"
+        },
+        {
+          "name" : "Lakshma Devarapalli",
+          "photoUrl" : "/images/dfnyc/speakers/99-LakshmaDevarapalli.png",
+          "socials" : [ {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/113620150591181554947",
+            "name" : "Google+"
+          }, {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/luckyy143",
+            "name" : "Twitter"
+          } ],
+          "title" : "Event Logistics"
         }
       ],
-      "title" : "Core Team"
+      "title" : "Team"
     }
   ],
 

@@ -1563,7 +1563,7 @@
             "link" : "http://linkedin.com/in/nityan",
             "name" : "LinkedIn"
           } ],
-          "title" : "DevFest Organizer (Speakers, Sponsors, Schedule, Ticketing, Website)"
+          "title" : "Core Organizer (Speakers, Sponsors, Schedule, Ticketing, Website)"
         },
         {
           "name" : "Chinedu Chukwuelue",
@@ -1578,9 +1578,23 @@
             "name" : "Twitter"
           } ],
           "title" : "Website"
+        },
+        {
+          "name" : "Lakshma Devarapalli",
+          "photoUrl" : "/images/dfnyc/speakers/99-LakshmaDevarapalli.png",
+          "socials" : [ {
+            "icon" : "gplus",
+            "link" : "https://plus.google.com/113620150591181554947",
+            "name" : "Google+"
+          }, {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/luckyy143",
+            "name" : "Twitter"
+          } ],
+          "title" : "Event Logistics"
         }
       ],
-      "title" : "Core Team"
+      "title" : "Team"
     }
   ],
 

@@ -1,0 +1,68 @@
+[debug] [2017-11-23T18:18:57.723Z] ----------------------------------------------------------------------
+[debug] [2017-11-23T18:18:57.727Z] Command:       /Users/nitya/.nvm/versions/node/v8.1.3/bin/node /Users/nitya/.nvm/versions/node/v8.1.3/bin/firebase deploy
+[debug] [2017-11-23T18:18:57.727Z] CLI Version:   3.13.1
+[debug] [2017-11-23T18:18:57.727Z] Platform:      darwin
+[debug] [2017-11-23T18:18:57.727Z] Node Version:  v8.1.3
+[debug] [2017-11-23T18:18:57.728Z] Time:          Thu Nov 23 2017 13:18:57 GMT-0500 (EST)
+[debug] [2017-11-23T18:18:57.728Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-23T18:18:57.751Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-23T18:18:57.752Z] > authorizing via signed-in user
+[debug] [2017-11-23T18:18:57.756Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-11-23T18:18:57.756Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/weFRFP8YbRhTgdaOK2qsGBHcItZcrEf86LkZNPolD0Mn3OfysvIvInh1VLxm5k43',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Thu Nov 23 2017 13:18:57 GMT-0500 (EST)
+[debug] [2017-11-23T18:18:58.056Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-23T18:18:58.084Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/devfestnyc-2017  
+ Thu Nov 23 2017 13:18:58 GMT-0500 (EST)
+[debug] [2017-11-23T18:18:58.495Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-23T18:18:58.496Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/devfestnyc-2017/tokens  
+ Thu Nov 23 2017 13:18:58 GMT-0500 (EST)
+[debug] [2017-11-23T18:18:59.143Z] <<< HTTP RESPONSE 200
+[info] 2
+[info] 
+[info] === Deploying to 'devfestnyc-2017'...
+[info] 
+[info] i  deploying database, hosting
+[info] i  database: checking rules syntax...
+[debug] [2017-11-23T18:18:59.726Z] >>> HTTP REQUEST PUT https://devfestnyc-2017.firebaseio.com/.settings/rules.json?dryRun=true {
+  "rules": {
+    ".read": true,
+    ".write": false,
+    "ratings": {
+      ".read": false,
+      ".write": false,
+      "$uid": {
+        ".read": "auth.uid === $uid",
+        ".write": "auth.uid === $uid"
+      }
+    },
+    "userSessions": {
+      ".read": false,
+      ".write": false,
+      "$uid": {
+        ".read": "auth.uid === $uid",
+        ".write": "auth.uid === $uid"
+      }
+    },
+    "speakers": {
+      ".read": true,
+      ".write": "root.child('users').child(auth.uid).child('rules').child('speakers').val() === true"
+    }
+  }
+}
+ 
+ Thu Nov 23 2017 13:18:59 GMT-0500 (EST)
+[debug] [2017-11-23T18:18:59.952Z] <<< HTTP RESPONSE 200
+[info] ✔  database: rules syntax is valid
+[info] i  hosting: preparing ./build directory for upload...
+[debug] [2017-11-23T18:19:01.166Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/devfestnyc-2017/uploads/-Kze5fNcrHphtu18SoBA?fileCount=118&message=  
+ Thu Nov 23 2017 13:19:01 GMT-0500 (EST)
+[debug] [2017-11-23T19:17:07.629Z] Error: write EPIPE
+    at exports._errnoException (util.js:1022:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:851:14)
+[error] 
+[error] Error: Server Error. write EPIPE
