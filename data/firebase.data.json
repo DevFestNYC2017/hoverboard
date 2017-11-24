@@ -107,71 +107,92 @@
       "date" : "2017-12-02",
       "dateReadable" : "December 2",
       "timeslots" : [
-          {
-            "endTime" : "09:30",
-            "sessions" : [ [ 133 ] ],
-            "startTime" : "08:30"
-          },
-          {
-            "endTime" : "10:15",
-            "sessions" : [ [ 101 ] ],
-            "startTime" : "09:30"
-          },
-          {
-            "endTime" : "11:00",
-            "sessions" : [ [ 115 ] ],
-            "startTime" : "10:15"
-          },
-          {
-            "endTime" : "11:40",
-            "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
-            "startTime" : "11:00"
-          },
-          {
-            "endTime" : "12:30",
-            "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
-            "startTime" : "11:50"
-          },
-          {
-            "endTime" : "14:00",
-            "sessions" : [ [ 134 ] ],
-            "startTime" : "12:30"
-          },
-          {
-            "endTime" : "14:40",
-            "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
-            "startTime" : "14:00"
-          },
-          {
-            "endTime" : "15:30",
-            "sessions" : [ [ 110 ], [ 126 ], [ 107 ] ],
-            "startTime" : "14:50"
-          },
-          {
-            "endTime" : "16:00",
-            "sessions" : [ [ 134 ] ],
-            "startTime" : "15:30"
-          },
-          {
-            "endTime" : "16:40",
-            "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
-            "startTime" : "16:00"
-          },
-          {
-            "endTime" : "17:30",
-            "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
-            "startTime" : "16:50"
-          },
-          {
-            "endTime" : "18:20",
-            "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
-            "startTime" : "17:40"
-          },
-          {
-            "endTime" : "22:30",
-            "sessions" : [ [ 137 ] ],
-            "startTime" : "18:30"
-          }
+
+        {
+          "startTime" : "08:30",
+          "endTime"   : "09:30",
+          "sessions"  : [ [ 100 ] ]
+        },
+        {
+          "startTime" : "9:30",
+          "endTime"   : "10:30",
+          "sessions"  : [ [ 101 ] ]
+        },
+
+        {
+          "startTime" : "10:30",
+          "endTime"   : "11:00",
+          "sessions"  : [ [ 102 ] ]
+        },
+        {
+          "startTime" : "11:00",
+          "endTime" : "11:45",
+          "sessions" : [ [ 110 ], [ 120 ], [ 130 ] ]
+        },
+        {
+          "startTime" : "11:45",
+          "endTime" : "12:30",
+          "sessions" : [ [ 111 ], [ 121 ], [ 131 ] ]
+        },
+
+
+
+        {
+          "startTime" : "12:30",
+          "endTime"   : "13:30",
+          "sessions"  : [ [ 103 ] ]
+        },
+        {
+          "startTime" : "13:30",
+          "endTime" : "14:15",
+          "sessions" : [ [ 112 ], [ 122 ], [ 132 ] ]
+        },
+        {
+          "startTime" : "14:15",
+          "endTime" : "15:00",
+          "sessions" : [ [ 113 ], [ 123 ], [ 133 ] ]
+        },
+        {
+          "startTime" : "15:00",
+          "endTime" : "15:45",
+          "sessions" : [ [ 114 ], [ 124 ], [ 134 ] ]
+        },
+
+
+
+        {
+          "startTime" : "15:45",
+          "endTime"   : "16:15",
+          "sessions"  : [ [ 104 ] ]
+        },
+        {
+          "startTime" : "16:15",
+          "endTime"   : "17:00",
+          "sessions"  : [ [ 115 ], [ 125 ], [ 135 ] ]
+        },
+        {
+          "startTime" : "17:00",
+          "endTime"   : "17:45",
+          "sessions"  : [ [ 116 ], [ 126 ], [ 136 ] ]
+        },
+
+
+
+        {
+          "startTime" : "17:45",
+          "endTime"   : "18:00",
+          "sessions"  : [ [ 105 ] ]
+        },
+        {
+          "startTime" : "18:00",
+          "endTime"   : "18:45",
+          "sessions"  : [ [ 106 ] ]
+        },
+        {
+          "startTime" : "18:45",
+          "endTime"   : "19:00",
+          "sessions"  : [ [ 107 ] ]
+        }
       ],
       "tracks" : [
         { "title" : "Room A"},
@@ -237,6 +258,17 @@
   ],
 
   "sessions" : {
+
+
+    "100" : {
+      "complexity" : "Beginner",
+      "description" : "A deep dive into recent work in medical imaging, where TensorFlow is used to assist physicians diagnose disease. I'll cover both the technology - and importantly - the problem solving process of thoughtfully applying it to solve a meaningful problem. At the end, I'll close with my favorite educational resources you can use to learn more about this important area.",
+      "id" : 101,
+      "language" : "English",
+      "speakers" : [ 1 ],
+      "tags" : [ "Machine Learning" ],
+      "title" : "Opening Keynote: Detecting Cancer with TensorFlow"
+    },
 
     "101" : {
       "complexity" : "Beginner",
@@ -651,11 +683,14 @@
     },
 
 
+
     "200" : {
       "description" : "Day 2: Registration & Breakfast. Hackathon teams should find their members and get ready to hack. HourOfCode teams, proceed to the Cafeteria area to get started building your bots. Everyone else, pick a workshop and head to that room.",
       "id" : 200,
       "language" : "English",
-      "title" : "Day 2: Registration & Breakfast"
+      "title" : "Day 2: Welcome & Registration",
+      "speakers" : [ 28 ],
+      "tags" : [ "Machine Learning" ]
     },
     "201" : {
       "description" : "Lunch will be catered and served in the cafeteria area.",
@@ -673,7 +708,9 @@
       "description" : "This concludes our DevFest. Thank you all for attending. We hope to see you all again next year.",
       "id" : 203,
       "language" : "English",
-      "title" : "Day 2: Wrap-Up & Thanks"
+      "title" : "Day 2: Wrap-Up & Thanks",
+      "speakers" : [ 28 ],
+      "tags" : [ "Track MC" ]
     },
 
 
@@ -681,22 +718,28 @@
       "description" : "This marks the official start of the Hackathon. Ideally you should be in teams by now but if not, use Slack to join one. Start brainstorming ideas and delegating roles. Get hacking!",
       "id" : 220,
       "language" : "English",
-      "image" : "/images/dfnyc/pages/appfest.png",
-      "title" : "AppFest Hackathon: Morning Session"
+      "image" : "/images/backgrounds/appfest.png",
+      "title" : "AppFest Hackathon: Morning Session",
+      "speakers" : [ 9, 10, 32 ],
+      "tags" : [ "Firebase", "Cloud", "Hackathon" ]
     },
     "211" : {
       "description" : "Continue hacking. At this point, teams must have a fair idea of what they can complete and demonstrate to the judges. So go, go, go!",
       "id" : 211,
       "language" : "English",
-      "image" : "/images/dfnyc/pages/appfest.png",
-      "title" : "AppFest Hackathon: Afternoon Session"
+      "image" : "/images/backgrounds/appfest.png",
+      "title" : "AppFest Hackathon: Afternoon Session",
+      "speakers" : [ 9, 10, 32 ],
+      "tags" : [ "Firebase", "Cloud", "Hackathon" ]
     },
     "212" : {
       "description" : "Time to start wrapping up your ideas. Our judges will go around evaluating the applications in preparation for their final decisions.",
       "id" : 212,
       "language" : "English",
-      "image" : "/images/dfnyc/pages/appfest.png",
-      "title" : "AppFest Hackathon: Demos and Judging"
+      "image" : "/images/backgrounds/appfest.png",
+      "title" : "AppFest Hackathon: Demos and Judging",
+      "speakers" : [ 9, 10, 32 ],
+      "tags" : [ "Firebase", "Cloud", "Hackathon" ]
     },
 
 
@@ -704,7 +747,9 @@
       "description" : "Come together to celebrate our DevFest attendees. Prizes will be awarded to the winners of the AppFest Hackathon and the NodeBots Battle. We will also have a few prizes to raffle away to attendees so stick around.",
       "id" : 213,
       "language" : "English",
-      "title" : "Celebrate: Prizes & Raffles"
+      "title" : "Celebrate: Prizes & Raffles",
+      "speakers" : [ 9, 10, 32, 21, 22 ],
+      "tags" : [ "Firebase", "Cloud", "Hackathon", "NodeBots", "HourOfCode" ]
     },
 
 
@@ -712,13 +757,17 @@
       "description" : "Progressive Web Apps explore best practices and patterns for building web apps that deliver performant & engaging experiencess comparable to native apps on mobile devices.",
       "id" : 204,
       "language" : "English",
-      "title" : "Progressive Web Apps Workshop"
+      "title" : "Progressive Web Apps Workshop",
+      "speakers" : [ 3 ],
+      "tags" : [ "Web", "PWA" ]
     },
     "221" : {
       "description" : "Glitch is the friendly community where you'll build the app of your dreams. With working example apps to remix, a code editor to modify them, instant hosting and deployment - anybody can build a web app on Glitch, for free. Learn how to build and deploy Glitch-enabled experiences for modern web users.",
       "id" : 221,
       "language" : "English",
-      "title" : "Glitch Workshop: Build a Better Web"
+      "title" : "Glitch Workshop: Build a Better Web",
+      "speakers" : [ 2 ],
+      "tags" : [ "Web", "PWA", "Platform" ]
     },
 
 
@@ -726,43 +775,55 @@
       "description" : "Kotlin is a new programming language from JetBrains, that is now supported (alongside Java) as a core programming language for Android devices. Kotlin enables concise code without safety or performance. Come learn Kotlin syntax and get started developing a new generation of Android applications.",
       "id" : 222,
       "language" : "English",
-      "title" : "Kotlin Workshop"
+      "title" : "Kotlin Workshop",
+      "speakers" : [ 18, 19, 20 ],
+      "tags" : [ "Android", "Kotlin" ]
     },
     "231" : {
       "description" : "Android Things is an extension of the Android platform for IoT and embedded devices, writing IoT apps has been made a lot easier using Android Things. In this workshop, we will first cover what Android Things is and some basic examples of how to use it and then we will go onto building a light powered by motion sensor. Then you will learn to build a motion sensing camera that will take images and send them to your phone.",
       "id" : 231,
       "language" : "English",
-      "title" : "Android Things Workshop: Build Motion Sensing Lights & Camera"
+      "title" : "Android Things Workshop: Build Motion Sensing Lights & Camera",
+      "speakers" : [ 13 ],
+      "tags" : [ "Android", "IoT" ]
     },
+
 
     "240" : {
       "description" : "Building and maintaining apps for both iOS and Android is a pain for many developers. Flutter, a new native mobile app SDK by Google is looking to solve this problem. In Flutter, you build your native app using one codebase. Flutter compiles it to run native on Android and iOS, giving developers a smooth, fluid 60 fps experience with a native look and feel. In this workshop we will learn how to build Flutter apps from the ground up! No app development experience is necessary. We will learn the fundamentals of Flutter, how to write, debug and deploy Flutter apps. You will leave the workshop with the skills to go out and build real world production ready Flutter apps.",
       "id" : 240,
       "language" : "English",
-      "title" : "Flutter Workshop"
+      "title" : "Flutter Workshop",
+      "speakers" : [ 5 ],
+      "tags" : [ "Dart", "Flutter" ]
     },
     "241" : {
       "description" : "Learn about conversational UI/UX and the Google Assistant architecture. Understand design elements for voice interactions. Then complete codelabs to build your first Assistant experience.",
-      "id" : 222,
+      "id" : 241,
       "language" : "English",
-      "title" : "Google Assistant & DialogFlow Workshop"
+      "title" : "Google Assistant & DialogFlow Workshop",
+      "speakers" : [ 14 ],
+      "tags" : [ "Assistant" ]
     },
 
     "250" : {
       "description" : "Get into teams and start working on your NodeBots robot. Assemble the robot, decorate it, then learn how to program simple controls and motion.",
-      "id" : 222,
+      "id" : 250,
       "language" : "English",
       "image" : "/images/dfnyc/pages/hoc-nodebots.png",
-      "title" : "HourOfCode: NodeBots Building Time"
+      "title" : "HourOfCode: NodeBots Building Time",
+      "speakers" : [ 21, 22 ],
+      "tags" : [ "NodeBots", "HourOfCode", "Robotics" ]
     },
     "251" : {
       "description" : "Start the elimination rounds. Teams will battle against each other's robots, using controls to push the competitor off the battle board until there is only one robot left standing!",
-      "id" : 222,
+      "id" : 251,
       "language" : "English",
       "image" : "/images/dfnyc/pages/hoc-nodebots.png",
-      "title" : "HourOfCode: NodeBots Battle Time!"
+      "title" : "HourOfCode: NodeBots Battle Time!",
+      "speakers" : [ 21, 22 ],
+      "tags" : [ "NodeBots", "HourOfCode", "Robotics" ]
     }
-
   },
 
   "speakers" : [
@@ -1255,7 +1316,7 @@
           "name" : "LinkedIn"
         }
       ],
-      "tags" : [ "machine-learning", "ai" ]
+      "tags" : [ "Machine Learning", "AI" ]
     },
 
     {
@@ -1642,7 +1703,7 @@
           "name" : "Twitter"
         }
       ],
-      "tags" : [ "TensorFlow", "MachineLearning" ]
+      "tags" : [ "Tensor Flow", "Machine Learning" ]
     },
 
     {
@@ -1664,7 +1725,33 @@
           "name" : "Twitter"
         }
       ],
-      "tags" : [ "Cloud", "MachineLearning" ]
+      "tags" : [ "Cloud", "Machine Learning" ]
+    },
+
+    {
+      "bio"         : "Engineer at Firebase/Google, formerly at Parse, Facebook, Microsoft, and Google. Software, word play, and singing in tight harmony are among my interests.",
+      "company"     : "Google",
+      "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+      "country"     : "Mountain View, United States",
+      "featured"    : true,
+      "id"          : 32,
+      "name"        : "David Poll",
+      "title"       : "Engineering Lead, Firebase SDKs",
+      "photoUrl"    : "/images/dfnyc/speakers/32-DavidPoll.png",
+      "shortBio"    : "Engineer at Firebase/Google, formerly at Parse, Facebook, Microsoft, and Google. Software, word play, and singing in tight harmony are among my interests.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/depoll",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://linkedin.com/in/depoll",
+          "name" : "LinkedIn"
+        }
+      ],
+      "tags" : [ "Firebase", "Cloud" ]
     },
 
     {
