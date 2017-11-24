@@ -413,7 +413,7 @@
       "speakers" : [ 13 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "Android", "Assistant", "IoT" ],
+      "tags" : [ "Android", "AI", "IOT" ],
       "presentation" : ""
     },
 
@@ -424,7 +424,7 @@
       "speakers" : [ 27 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "Android", "IoT", "Firebase" ],
+      "tags" : [ "Android", "IOT", "Firebase" ],
       "presentation" : ""
     },
 
@@ -487,78 +487,78 @@
 
     "130" : {
       "id" : 130,
-      "title" : "",
-      "description" : "",
+      "title" : "Design for the Virtual World",
+      "description" : "We are used to create 2D flat environments but we rarely had the experience of designing for the 3D world. For my talk, I will be covering my experiences with working with successful VR titles for commercial products such as Sylvania and insidious 3. There are many factors we learnt from user testing and consumer feedbacks. As a developer, we had to consistently making changes and updates to our softwares to adopt of the hardware platform changes.",
       "speakers" : [ 12 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "VR", "Design" ],
       "presentation" : ""
     },
 
     "131" : {
       "id" : 131,
-      "title" : "",
-      "description" : "",
+      "title" : "Creating with VR",
+      "description" : "Andrew will discuss his VR and AR work, from 360 videos to ARKit apps, that has utilized VR content creation tools such as Gravity Sketch and Google Blocks in the development process. Almost 2 years ago, Andrew's head blew up when he tried the HTC Vive for the first time. Ever since, he's been delving into the VR tools available for creative development to see how this new method of creation can inspire him. During this talk he'll discuss creating with tools such as these, and how he imagines the democratization of 3D development evolving.He'll also discuss his experiences building his new AR app, Hide the Hubu.",
       "speakers" : [ 25 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "VR" ],
       "presentation" : ""
     },
 
     "132" : {
       "id" : 132,
-      "title" : "",
-      "description" : "",
+      "title" : "A Semantic Internet of Things ",
+      "description" : "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web. In this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT. `Devices are so 2017, the future is a semantic Internet of Things`",
       "speakers" : [ 6 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "IOT", "Web" ],
       "presentation" : ""
     },
 
     "133" : {
       "id" : 133,
-      "title" : "",
-      "description" : "",
+      "title" : "Building Conversational Apps for the Google Assistant",
+      "description" : "Interested in building for Google Home or the Google Assistant? Already have an Action and want to take it to the next level? We’ll explore how to build an Action with API.AI and Firebase Functions, and then make it even better with other Firebase components such as Firebase Hosting and the Firebase Real-Time Database.",
       "speakers" : [ 14 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "AI", "Firebase", "Assistant" ],
       "presentation" : ""
     },
 
     "134" : {
       "id" : 134,
-      "title" : "",
+      "title" : "SSML - Connecting users to the device",
       "description" : "",
       "speakers" : [ 15 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "AI", "Alexa", "OpenSource" ],
       "presentation" : ""
     },
 
     "135" : {
       "id" : 135,
-      "title" : "",
+      "title" : "Conversational UI: Past, Present and Future",
       "description" : "",
-      "speakers" : [ 16 ],
+      "speakers" : [ 17 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "AI", "Enterprise"],
       "presentation" : ""
     },
 
     "136" : {
       "id" : 136,
-      "title" : "",
-      "description" : "",
-      "speakers" : [ 17 ],
+      "title" : "OK, Computer; Introducing smart assistants to enterprise software development",
+      "description" : "Assistant, Alexa, Siri, oh my! The proliferation of smart voice assistant technology has started to touch every aspect of our lives. We're scheduling, sending messages, getting recipes, and more these days - all through a simple spoken command. These technologies are bridging the gap between user and computer, enabling us to communicate with complex systems through fluent voice commands. However, the adoption of these technologies in the enterprise for software development lifecycle tasks has been slower. In this presentation, we'll demonstrate an implementation of a voice assistant to improve agility in software development by allowing for users to communicate with Amazon's Alexa voice assistant to get information from a CI server. Further, we'll discuss some of the challenges and opportunities in this space.",
+      "speakers" : [ 16 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "" ],
+      "tags" : [ "AI", "Enterprise", "Assistant" ],
       "presentation" : ""
     },
 
