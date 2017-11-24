@@ -332,8 +332,8 @@
       "title" : "Workbox: Flexible PWA Libraries & Beyond",
       "description" : "Workbox is a set of libraries that work together to power your progressive web app's service worker. Learn about what we've been working on for the v3 release, and see how the flexibility Workbox offers has solved real-world problems for top partners as they build their own PWAs.",
       "speakers" : [ 1 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Progressive Web Apps", "Web" ],
       "presentation" : ""
     },
@@ -343,8 +343,8 @@
       "title" : "Building a better web with Glitch",
       "description" : "Glitch is the friendly community where you'll build the app of your dreams. Learn how you can apps build better apps by remixing working apps, editing code in the browser, hosting and deploying instantly - all for free. And, with Glitch for Platforms, you also have tools to measure and improve developer adoption of your API",
       "speakers" : [ 2 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Web", "Platforms" ],
       "presentation" : ""
     },
@@ -354,8 +354,8 @@
       "title" : "Hello, it's your Modern Web Platform!",
       "description" : "",
       "speakers" : [ 3 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Web", "Progressive Web Apps" ],
       "presentation" : ""
     },
@@ -365,8 +365,8 @@
       "title" : "Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript",
       "description" : "Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘intelligence’!",
       "speakers" : [ 4 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Web", "Machine Learning", "NativeScript" ],
       "presentation" : ""
     },
@@ -376,8 +376,8 @@
       "title" : "Flutter: Reactive Composition for Mobile UIs",
       "description" : "Flutter is a new reactive widget framework and mobile app SDK from Google. Architected with many customizable (and replaceable!) layers, Flutter believes that everything is a widget, and delivers an entire reactive framework, gesture recognizer, compositor, animation system, material widgets, and iOS widgets, all in Dart, solely for mobile. Flutter shows us that beautiful, natural mobile apps don't have to come from OEM toolkits.",
       "speakers" : [ 5 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Android", "Flutter", "Web" ],
       "presentation" : ""
     },
@@ -387,8 +387,8 @@
       "title" : "reCAPTCHA: Tough on Bots, Easy on Humans, Great on Mobile",
       "description" : "The new reCAPTCHA is here. A significant number of your users can now attest they are human without having to solve a CAPTCHA. Instead with just a single click they’ll confirm they are not a robot. We’re calling it the No CAPTCHA reCAPTCHA experience. Learn how it works and how you can leverage it in your apps.",
       "speakers" : [ 7 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Android", "Security", "Web" ],
       "presentation" : ""
     },
@@ -398,8 +398,8 @@
       "title" : "Make Your (Android) App Instant",
       "description" : "Jet.com’s Android team was one of Google’s early partners with access to Instant Apps API and development tools at the experimental stage. We launched the first multi-feature Instant App at the beginning of the year, which turned out to be a huge success. Instant Apps are designed with speed, light weight, best UX and modularity in mind. We migrated from a monolithic app module to multi-module project structure and reduced the size of our app significantly. During the talk we will walk through the process how to build Instant Apps step by step. The talk will also cover Instant Apps types, architecture changes, project structure, size and feature constraints, practical tips to slim down the application, lessons learnt, issues we ran into and benefits gained.",
       "speakers" : [ 26 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "Android" ],
       "presentation" : ""
     },
@@ -408,78 +408,78 @@
 
     "120" : {
       "id" : 120,
-      "title" : "",
-      "description" : "",
+      "title" : "Ok Google, Make an Android Things Product",
+      "description" : "In this presentation, Rebecca will cover the basics of Android Things and take you on a journey to building your own Android Things Product. With everything you will need to know in order to get started with Android Things including how to leverage and build a Google Smart Home app.",
       "speakers" : [ 13 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Android", "Assistant", "IoT" ],
       "presentation" : ""
     },
 
     "121" : {
       "id" : 121,
-      "title" : "",
-      "description" : "",
+      "title" : "Sentinel, the first home security robot powered by Android Things.",
+      "description" : "On this talk, Oscar tells us about the development of Sentinel, the first home security robot powered by Android Things, and how hardware, software, Firebase and the Google Cloud Platform integrate into Sentinel to `bring it to life`.",
       "speakers" : [ 27 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Android", "IoT", "Firebase" ],
       "presentation" : ""
     },
 
     "122" : {
       "id" : 122,
-      "title" : "",
-      "description" : "",
+      "title" : "Intro To Firebase: Zero To App",
+      "description" : "Doug will provide an introduction to Firebase, illustrating how you can go from idea to implmentation in fairly short order. And learn what's new in Firebase since the Firebase Dev Summit in October.",
       "speakers" : [ 9 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Firebase", "Android", "Web" ],
       "presentation" : ""
     },
 
     "123" : {
       "id" : 123,
-      "title" : "",
-      "description" : "",
+      "title" : "Supercharge your app with Firebase and Cloud Functions",
+      "description" : "Cloud Functions for Firebase lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. In this talk, Kat will describe how Cloud Functions work and how you can leverage them in your mobile or web apps to craft custom server-side code.",
       "speakers" : [ 10 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Firebase", "Google Cloud", "Serverless"],
       "presentation" : ""
     },
 
     "124" : {
       "id" : 124,
-      "title" : "",
-      "description" : "",
+      "title" : "Analytics Done Easy : Firebase Analytics LIVE!",
+      "description" : "Firebase is best known for being your real-time online database, but IMO the `Killer App` of the Firebase platform is for Analytics. Analytics is the main tool needed to do User-Centered Design, User Conversion, User categorization, and Feature performance.  In comparison with what the market has to offer, nothing is more easy to implement or more feature rich. The best part? Its FREE!  This full live-coding demo will show you how to use Firebase Analytics, implement in your Android app, add your own custom events, custom user parameters, ins and outs of the dashboard, and even some business-centered features. You can follow along  LIVE with the code here:  https://github.com/childofthehorn/AndroidFirebaseAnalyticsWorkshop  ",
       "speakers" : [ 11 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
-      "presentation" : ""
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Firebase", "Analytics", "Android"],
+      "presentation" : "http://bit.ly/FBAnalyticsWorkshop"
     },
 
     "125" : {
       "id" : 125,
-      "title" : "",
-      "description" : "",
+      "title" : "Kubernetes: Istio Service Mesh",
+      "description" : "Microservices are here to stay. When applied properly, microservices techniques and culture ultimately help us continuously improve business at a faster pace than traditional architecture. However, microservices architecture itself can be complex to configure. All of a sudden, we are faced with the need for a service discovery server, how do we store service metadata, make decisions on whether to use client side load balancing or server side load balancing, deal with network resiliency, think how do we enforce service policies and audit, trace nested services calls…. The list goes on. In this talk, Ray will introduce Istio, an open source service mesh framework created by Google, IBM, and Lyft. We’ll see how the service mesh work, the technology behind it, and how it addresses aforementioned concerns",
       "speakers" : [ 8 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Cloud", "Microservices" ],
       "presentation" : ""
     },
 
     "126" : {
       "id" : 126,
-      "title" : "",
+      "title" : "Going Serverless with Cloud Machine Learning",
       "description" : "",
       "speakers" : [ 31 ],
-      "complexity" : "Beginner",
-      "language" : "English",
-      "tags" : [ "" ],
+      "complexity" : "",
+      "language" : "",
+      "tags" : [ "Cloud", "Machine Learning", "Serverless" ],
       "presentation" : ""
     },
 
@@ -490,8 +490,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 12 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -501,8 +501,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 25 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -512,8 +512,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 6 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -523,8 +523,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 14 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -534,8 +534,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 15 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -545,8 +545,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 16 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -556,8 +556,8 @@
       "title" : "",
       "description" : "",
       "speakers" : [ 17 ],
-      "complexity" : "Beginner",
-      "language" : "English",
+      "complexity" : "",
+      "language" : "",
       "tags" : [ "" ],
       "presentation" : ""
     },
@@ -629,7 +629,7 @@
       "id" : 213,
       "language" : "English",
       "title" : "Celebrate: Prizes & Raffles",
-      "speakers" : [ 9, 10, 32, 21, 22 ],
+      "speakers" : [ 9, 10, 32, 21, 22, 28 ],
       "tags" : [ "Firebase", "Cloud", "Hackathon", "NodeBots", "HourOfCode" ]
     },
 
@@ -977,7 +977,7 @@
     },
 
     {
-      "bio"         : "Kat is the Tech Lead of Cloud Storage for Firebase, previously working on the iOS SDK and backend for the Realtime Database. Kat graduated from MIT with a bachelor's and master's degree in Electrical Engineering and Computer Science. When she's unplugged, she spends her time dancing, figure skating, and escaping rooms. ",
+      "bio"         : "Kat is the Tech Lead for Cloud Storage for Firebase, previously working on the iOS SDK and backend for the Realtime Database. Kat graduated from MIT with bachelor's and master's degrees in Electrical Engineering and Computer Science. When she's unplugged, she spends her time dancing, skating, and playing escape-the-room puzzle games.",
       "company"     : "Google",
       "companyLogo" : "/images/dfnyc/logos/company-google.svg",
       "country"     : "Mountain View, United States",
