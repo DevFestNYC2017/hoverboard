@@ -520,8 +520,8 @@
 
     "133" : {
       "id" : 133,
-      "title" : "Building Conversational Apps for the Google Assistant",
-      "description" : "Interested in building for Google Home or the Google Assistant? Already have an Action and want to take it to the next level? We’ll explore how to build an Action with API.AI and Firebase Functions, and then make it even better with other Firebase components such as Firebase Hosting and the Firebase Real-Time Database.",
+      "title" : "Engage with the Google Assistant",
+      "description" : "Interested in building for Google Home or the Google Assistant? We’ll get an introduction to some of the tools needed to build your first Action and what you need to do to get started and take it to the next level. (Join me on Day 2 for a deeper-dive coding workshop)",
       "speakers" : [ 14 ],
       "complexity" : "",
       "language" : "",
@@ -597,7 +597,7 @@
 
     "210" : {
       "description" : "This marks the official start of the Hackathon. Ideally you should be in teams by now but if not, use Slack to join one. Start brainstorming ideas and delegating roles. Get hacking!",
-      "id" : 220,
+      "id" : 210,
       "language" : "English",
       "image" : "/images/backgrounds/appfest.png",
       "title" : "AppFest Hackathon: Morning Session",
@@ -636,7 +636,7 @@
 
     "220" : {
       "description" : "Progressive Web Apps explore best practices and patterns for building web apps that deliver performant & engaging experiencess comparable to native apps on mobile devices.",
-      "id" : 204,
+      "id" : 220,
       "language" : "English",
       "title" : "Progressive Web Apps Workshop",
       "speakers" : [ 3 ],
@@ -680,12 +680,12 @@
       "tags" : [ "Dart", "Flutter" ]
     },
     "241" : {
-      "description" : "Learn about conversational UI/UX and the Google Assistant architecture. Understand design elements for voice interactions. Then complete codelabs to build your first Assistant experience.",
+      "description" : "We'll start with a codelab to get everyone started building a simple conversation for the Google Assistant with Dialogflow and testing it with the Action Simulator. We'll then discuss how to build on this conversation through Firebase Functions or your own fulfillment server. Participants should have a version of node.js setup on their machine and should have installed the firebase-tools module via npm.",
       "id" : 241,
       "language" : "English",
-      "title" : "Google Assistant & DialogFlow Workshop",
+      "title" : "Google Assistant with DialogFlow",
       "speakers" : [ 14 ],
-      "tags" : [ "Assistant" ]
+      "tags" : [ "AI", "Assistant" ]
     },
 
     "250" : {
@@ -695,7 +695,7 @@
       "image" : "/images/dfnyc/pages/hoc-nodebots.png",
       "title" : "HourOfCode: NodeBots Building Time",
       "speakers" : [ 21, 22 ],
-      "tags" : [ "NodeBots", "HourOfCode", "Robotics" ]
+      "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ]
     },
     "251" : {
       "description" : "Start the elimination rounds. Teams will battle against each other's robots, using controls to push the competitor off the battle board until there is only one robot left standing!",
@@ -704,7 +704,7 @@
       "image" : "/images/dfnyc/pages/hoc-nodebots.png",
       "title" : "HourOfCode: NodeBots Battle Time!",
       "speakers" : [ 21, 22 ],
-      "tags" : [ "NodeBots", "HourOfCode", "Robotics" ]
+      "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ]
     }
   },
 
@@ -1593,7 +1593,6 @@
       "company"     : "Google",
       "companyLogo" : "/images/dfnyc/logos/company-google.svg",
       "country"     : "New York, United States",
-      "country"     : "United States",
       "featured"    : true,
       "id"          : 31,
       "name"        : "Bret McGowen",
