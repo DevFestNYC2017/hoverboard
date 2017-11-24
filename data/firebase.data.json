@@ -261,13 +261,11 @@
 
 
     "100" : {
-      "complexity" : "Beginner",
-      "description" : "A deep dive into recent work in medical imaging, where TensorFlow is used to assist physicians diagnose disease. I'll cover both the technology - and importantly - the problem solving process of thoughtfully applying it to solve a meaningful problem. At the end, I'll close with my favorite educational resources you can use to learn more about this important area.",
-      "id" : 101,
+      "description" : "Day 1: Registration & Breakfast.",
+      "id" : 100,
       "language" : "English",
-      "speakers" : [ 1 ],
-      "tags" : [ "Machine Learning" ],
-      "title" : "Opening Keynote: Detecting Cancer with TensorFlow"
+      "image" : "/images/backgrounds/home.png",
+      "title" : "Day 1: Registration"
     },
 
     "101" : {
@@ -275,413 +273,294 @@
       "description" : "A deep dive into recent work in medical imaging, where TensorFlow is used to assist physicians diagnose disease. I'll cover both the technology - and importantly - the problem solving process of thoughtfully applying it to solve a meaningful problem. At the end, I'll close with my favorite educational resources you can use to learn more about this important area.",
       "id" : 101,
       "language" : "English",
-      "speakers" : [ 1 ],
+      "speakers" : [ 30 ],
       "tags" : [ "Machine Learning" ],
       "title" : "Opening Keynote: Detecting Cancer with TensorFlow"
     },
 
     "102" : {
-      "complexity" : "Beginner",
-      "description" : "Closing Keynote: Pam Selle",
+      "description" : "Pick your track (mobile/web, cloud/machine-learning or emerging-tech) then find the room to match.",
       "id" : 102,
       "language" : "English",
-      "speakers" : [ 2 ],
-      "tags" : [ "Serverless", "Web" ],
-      "title" : "Closing Keynote"
+      "image"    : "/images/backgrounds/home.png",
+      "title"    : "Break"
     },
 
     "103" : {
-      "description" : "Day 1 Wrap-Up",
-      "id" : 103,
-      "language" : "English",
-      "speakers" : [ 1 ],
-      "image" : "/images/backgrounds/registration.jpg",
-      "title" : "Wrap-Up & Thank You!"
+      "id"           : 103,
+      "title"        : "Lunch",
+      "description"  : "Lunch will be served in the cafeteria buffet-style.",
+      "image"        : "/images/backgrounds/home.png"
     },
 
     "104" : {
-      "complexity" : "Intermediate",
-      "description" : "What's new in PWA. From Lighthouse updates to WorkBoxJS",
-      "id" : 104,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "pwa", "web" ],
-      "title" : "Progressive Web Apps: Tools & Tech"
+      "id"           : 104,
+      "title"        : "Break",
+      "description"  : "Coffee & Snacks are self-serve in the Cafeteria.",
+      "image"        : "/images/backgrounds/home.png"
     },
 
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "Building apps with Glitch",
-      "id" : 105,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "web" ],
-      "title" : "Programming with Glitch"
+      "id"           : 105,
+      "title"        : "Break",
+      "description"  : "Grab drinks & snacks. Network. And head back to the main Room for our closing keynote and wrap-up.",
+      "image"        : "/images/backgrounds/home.png"
     },
 
     "106" : {
-      "complexity" : "Beginner",
-      "description" : "What's New in Web",
-      "id" : 106,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "web" ],
-      "title" : "What's New In Web"
+      "id"          : 106,
+      "title"       : "Closing Keynote: Welcome to the Serverless Revolution",
+      "speakers"    : [ 29 ],
+      "complexity"  : "Intermediate",
+      "description" : "Serverless computing—using platforms like AWS Lambda, Google Cloud Functions, or Azure Functions—takes your microservices architecture and brings it into a new age of operations. It's changing the way we architect our applications across the board and enabling new possibilities. The iron age of compute is well behind us, and new adventures, and challenges, lie before us in the serverless world.",
+      "language"    : "English",
+      "presentation" : "http://bit.ly/pamasaur-serverless-2017",
+      "tags" : [ "web" ]
     },
 
     "107" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 107,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "web", "machine learning", "nativescript" ],
-      "title" : "TBD"
+      "id"           : 107,
+      "title"        : "Day 1: Wrap-Up & Thank You!",
+      "description"  : "Those attending Day 2 are requested to be here by 9:30am when both workshops and hackathon will kick off.",
+      "image"        : "/images/backgrounds/home.png"
     },
 
-    "108" : {
-      "complexity" : "Beginner",
-      "description" : "Building apps with Flutter",
-      "id" : 108,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "web", "flutter" ],
-      "title" : "Building apps with Flutter"
-    },
 
-    "109" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 109,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "mobile", "machine learning" ],
-      "title" : "Recaptcha"
-    },
 
     "110" : {
-      "complexity" : "Intermediate",
-      "description" : "Android Instant Apps",
       "id" : 110,
+      "title" : "Workbox: Flexible PWA Libraries & Beyond",
+      "description" : "Workbox is a set of libraries that work together to power your progressive web app's service worker. Learn about what we've been working on for the v3 release, and see how the flexibility Workbox offers has solved real-world problems for top partners as they build their own PWAs.",
+      "speakers" : [ 1 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "android" ],
-      "title" : "Android Instant Apps"
+      "tags" : [ "Progressive Web Apps", "Web" ],
+      "presentation" : ""
     },
 
     "111" : {
-      "complexity" : "Intermediate",
-      "description" : "Android Things",
       "id" : 111,
+      "title" : "Building a better web with Glitch",
+      "description" : "Glitch is the friendly community where you'll build the app of your dreams. Learn how you can apps build better apps by remixing working apps, editing code in the browser, hosting and deploying instantly - all for free. And, with Glitch for Platforms, you also have tools to measure and improve developer adoption of your API",
+      "speakers" : [ 2 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "android" ],
-      "title" : "Android Things"
+      "tags" : [ "Web", "Platforms" ],
+      "presentation" : ""
     },
 
     "112" : {
-      "complexity" : "Advanced",
-      "description" : "Sentinel: Home Monitoring",
       "id" : 112,
+      "title" : "Hello, it's your Modern Web Platform!",
+      "description" : "",
+      "speakers" : [ 3 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "android" ],
-      "title" : "Sentinel: Home Monitoring"
+      "tags" : [ "Web", "Progressive Web Apps" ],
+      "presentation" : ""
     },
 
     "113" : {
-      "complexity" : "Beginner",
-      "description" : "Firebase Introduction",
       "id" : 113,
+      "title" : "Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript",
+      "description" : "Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘intelligence’!",
+      "speakers" : [ 4 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "firebase" ],
-      "title" : "Firebase Introduction"
+      "tags" : [ "Web", "Machine Learning", "NativeScript" ],
+      "presentation" : ""
     },
 
     "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Firebase Cloud Functions",
       "id" : 114,
+      "title" : "Flutter: Reactive Composition for Mobile UIs",
+      "description" : "Flutter is a new reactive widget framework and mobile app SDK from Google. Architected with many customizable (and replaceable!) layers, Flutter believes that everything is a widget, and delivers an entire reactive framework, gesture recognizer, compositor, animation system, material widgets, and iOS widgets, all in Dart, solely for mobile. Flutter shows us that beautiful, natural mobile apps don't have to come from OEM toolkits.",
+      "speakers" : [ 5 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "firebase" , "googlecloud" ],
-      "title" : "Firebase Cloud Functions"
+      "tags" : [ "Android", "Flutter", "Web" ],
+      "presentation" : ""
     },
 
     "115" : {
-      "complexity" : "Intermediate",
-      "description" : "Firebase Analytics",
       "id" : 115,
+      "title" : "reCAPTCHA: Tough on Bots, Easy on Humans, Great on Mobile",
+      "description" : "The new reCAPTCHA is here. A significant number of your users can now attest they are human without having to solve a CAPTCHA. Instead with just a single click they’ll confirm they are not a robot. We’re calling it the No CAPTCHA reCAPTCHA experience. Learn how it works and how you can leverage it in your apps.",
+      "speakers" : [ 7 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "android" , "firebase"],
-      "title" : "Firebase Analytics"
+      "tags" : [ "Android", "Security", "Web" ],
+      "presentation" : ""
     },
 
     "116" : {
-      "complexity" : "Advanced",
-      "description" : "Ishtio: Open Mesh",
       "id" : 116,
+      "title" : "Make Your (Android) App Instant",
+      "description" : "Jet.com’s Android team was one of Google’s early partners with access to Instant Apps API and development tools at the experimental stage. We launched the first multi-feature Instant App at the beginning of the year, which turned out to be a huge success. Instant Apps are designed with speed, light weight, best UX and modularity in mind. We migrated from a monolithic app module to multi-module project structure and reduced the size of our app significantly. During the talk we will walk through the process how to build Instant Apps step by step. The talk will also cover Instant Apps types, architecture changes, project structure, size and feature constraints, practical tips to slim down the application, lessons learnt, issues we ran into and benefits gained.",
+      "speakers" : [ 26 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "googlecloud", "kubernetes" ],
-      "title" : "Ishtio: Open Mesh"
+      "tags" : [ "Android" ],
+      "presentation" : ""
     },
 
-    "117" : {
-      "complexity" : "Intermediate",
-      "description" : "Serverless Cloud Machine Learning",
-      "id" : 117,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "android" ],
-      "title" : "Serverless & Cloud Machine Learning"
-    },
 
-    "118" : {
-      "complexity" : "Intermediate",
-      "description" : "Design for VR",
-      "id" : 118,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "android", "vr" ],
-      "title" : "Design For VR"
-    },
-
-    "119" : {
-      "complexity" : "Intermediate",
-      "description" : "VR",
-      "id" : 119,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "vr" ],
-      "title" : "VR"
-    },
 
     "120" : {
-      "complexity" : "Advanced",
-      "description" : "Semantic Web & IoT",
       "id" : 120,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 13 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "iot" ],
-      "title" : "Semantic Web & IoT"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "121" : {
-      "complexity" : "Beginner",
-      "description" : "Intro to Google Assistant",
       "id" : 121,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 27 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "asssistant", "voice", "AI" ],
-      "title" : "Intro to Google Assistant"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "122" : {
-      "complexity" : "Advanced",
-      "description" : "Open SSML",
       "id" : 122,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 9 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "voice", "AI" ],
-      "title" : "Open SSML"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "123" : {
-      "complexity" : "Intermediate",
-      "description" : "Converational UI/UX",
       "id" : 123,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 10 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1 ],
-      "tags" : [ "voice", "AI" ],
-      "title" : "Conversational UI/UX"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "124" : {
-      "complexity" : "Advanced",
-      "description" : "VUI in Enterprise",
       "id" : 124,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 11 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "voice", "AI" ],
-      "title" : "VUI In Enterprise"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "125" : {
-      "complexity" : "Intermediate",
-      "description" : "PWA Workshop",
       "id" : 125,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 8 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2, 1 ],
-      "tags" : [ "web", "pwa" ],
-      "title" : "Progressive Web Apps: Workshop"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Programming with Glitch: Workshop",
       "id" : 126,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 2 ],
-      "tags" : [ "web" ],
-      "title" : "Programming with Glitch: Workshop"
-    },
-
-    "127" : {
-      "complexity" : "Intermediate",
-      "description" : "Kotlin Workshop",
-      "id" : 127,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 11, 14, 99 ],
-      "tags" : [ "android", "kotlin" ],
-      "title" : "Kotlin Workshop"
-    },
-
-    "128" : {
-      "complexity" : "Intermediate",
-      "description" : "Android Things Workshop",
-      "id" : 128,
-      "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 11 ],
-      "tags" : [ "android", "iot" ],
-      "title" : "Android Things Workshop"
-    },
-
-    "129" : {
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 31 ],
       "complexity" : "Beginner",
-      "description" : "Flutter",
-      "id" : 129,
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 11 ],
-      "tags" : [ "web","flutter" ],
-      "title" : "Flutter"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
+
+
 
     "130" : {
-      "complexity" : "Beginner",
-      "description" : "Google Assistant",
       "id" : 130,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 12 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 14 ],
-      "tags" : [ "voice", "assistant" ],
-      "title" : "Google Assistant"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "131" : {
-      "complexity" : "Intermediate",
-      "description" : "Battle of the NodeBots",
-      "id" : 250,
+      "id" : 131,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 25 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1, 2 ],
-      "tags" : [ "web", "machine learning" ],
-      "title" : "Battle of the NodeBots: Build"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "132" : {
-      "complexity" : "",
-      "description" : "Battle of the NodeBots",
       "id" : 132,
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 6 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "presentation" : "https://slides.link.here",
-      "speakers" : [ 1, 2 ],
-      "tags" : [ "web", "machine learning" ],
-      "title" : "Battle of the NodeBots: Compete"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "133" : {
-      "description" : "Registration & Breakfast",
       "id" : 133,
-      "image" : "/images/backgrounds/registration.jpg",
-      "title" : "DevFestNYC Day1 Registration"
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 14 ],
+      "complexity" : "Beginner",
+      "language" : "English",
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "134" : {
-      "description" : "Foooooooood!",
       "id" : 134,
-      "image" : "/images/backgrounds/lunch.jpg",
-      "title" : "Lunch"
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 15 ],
+      "complexity" : "Beginner",
+      "language" : "English",
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "135" : {
-      "description" : "Break",
       "id" : 135,
-      "image" : "/images/backgrounds/coffee-break.jpg",
-      "title" : "Break: Drinks and Networking"
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 16 ],
+      "complexity" : "Beginner",
+      "language" : "English",
+      "tags" : [ "" ],
+      "presentation" : ""
     },
 
     "136" : {
-      "description" : "Registration & Breakfast",
       "id" : 136,
-      "image" : "/images/backgrounds/registration.jpg",
-      "title" : "DevFestNYC Day2 Registration"
-    },
-
-    "137" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "id" : 137,
-      "image" : "/images/backgrounds/opening.jpg",
+      "title" : "",
+      "description" : "",
+      "speakers" : [ 17 ],
+      "complexity" : "Beginner",
       "language" : "English",
-      "title" : "GDG DevFest NYC 2016 Opening"
+      "tags" : [ "" ],
+      "presentation" : ""
     },
-
-    "138" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "id" : 138,
-      "image" : "/images/backgrounds/party.jpg",
-      "title" : "Afterparty & Networking"
-    },
-
-    "139" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "id" : 139,
-      "image" : "/images/backgrounds/closing.jpg",
-      "title" : "Conference closing and contest winners announcements"
-    },
-
-    "140" : {
-      "description" : "Keynote",
-      "id" : 140,
-      "language" : "English",
-      "title" : "Keynote"
-    },
-
-    "141" : {
-      "description" : "TBD",
-      "id" : 141,
-      "language" : "English",
-      "title" : "TBD"
-    },
-
 
 
     "200" : {
@@ -690,27 +569,29 @@
       "language" : "English",
       "title" : "Day 2: Welcome & Registration",
       "speakers" : [ 28 ],
-      "tags" : [ "Machine Learning" ]
+      "image"        : "/images/backgrounds/home.png"
     },
     "201" : {
       "description" : "Lunch will be catered and served in the cafeteria area.",
       "id" : 201,
       "language" : "English",
+      "image"        : "/images/backgrounds/home.png",
       "title" : "Day 2: Lunch Break"
     },
     "202" : {
       "description" : "This marks the end of the Workshops & Hackathon sessions on Day 2. Attendees are encouraged to head to the Cafeteria area to cheer on the kids in the NodeBots Battles.",
       "id" : 202,
       "language" : "English",
+      "image"        : "/images/backgrounds/home.png",
       "title" : "Day 2: Afternoon Break"
     },
     "203" : {
       "description" : "This concludes our DevFest. Thank you all for attending. We hope to see you all again next year.",
       "id" : 203,
       "language" : "English",
-      "title" : "Day 2: Wrap-Up & Thanks",
-      "speakers" : [ 28 ],
-      "tags" : [ "Track MC" ]
+      "image"        : "/images/backgrounds/home.png",
+      "title" : "Day 2: Thank You & Goodbye!",
+      "speakers" : [ 28 ]
     },
 
 
@@ -767,6 +648,7 @@
       "language" : "English",
       "title" : "Glitch Workshop: Build a Better Web",
       "speakers" : [ 2 ],
+      "presentation" : "https://glitch.com/~empireconf-workshop",
       "tags" : [ "Web", "PWA", "Platform" ]
     },
 
@@ -1752,32 +1634,6 @@
         }
       ],
       "tags" : [ "Firebase", "Cloud" ]
-    },
-
-    {
-      "bio"         : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
-      "company"     : "Dev.TO",
-      "companyLogo" : "",
-      "country"     : "United States",
-      "featured"    : false,
-      "id"          : 23,
-      "name"        : "Ben Halpern",
-      "title"       : "Creator, Founder & Webmaster",
-      "photoUrl"    : "/images/dfnyc/speakers/23-BenHalpern.png",
-      "shortBio"    : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
-      "socials" : [
-        {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/bendhalpern",
-          "name" : "Twitter"
-        },
-        {
-          "icon" : "linkedin",
-          "link" : "https://www.linkedin.com/in/ben-halpern-3a1aa731/",
-          "name" : "LinkedIn"
-        }
-      ],
-      "tags" : [ "Web", "Track MC"]
     }
   ],
 
@@ -1831,7 +1687,60 @@
           "title" : "Event Logistics"
         }
       ],
-      "title" : "Team"
+      "title" : "Organizing Team"
+    },
+
+    {
+      "members" : [
+        {
+          "bio"         : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+          "company"     : "Dev.TO",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : false,
+          "id"          : 23,
+          "name"        : "Ben Halpern",
+          "title"       : "MC (Cloud & ML Track)",
+          "photoUrl"    : "/images/dfnyc/speakers/23-BenHalpern.png",
+          "shortBio"    : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/bendhalpern",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/ben-halpern-3a1aa731/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Web", "Track MC"]
+        },
+        {
+          "name"        : "Amal Hussein",
+          "title"       : "MC (Mobile & Web Track)",
+          "photoUrl"    : "/images/dfnyc/speakers/03-AmalHussein.png",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/nomadtechie",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/amalahussein/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/amalahussein/",
+              "name" : "GitHub"
+            }
+          ]
+        }
+      ],
+      "title" : "Track MCs"
     }
   ],
 
