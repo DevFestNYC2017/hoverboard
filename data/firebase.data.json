@@ -79,6 +79,11 @@
           "logoUrl" : "../images/dfnyc/logos/assistant.png",
           "name" : "Actions on Google",
           "url" : "https://developers.google.com/actions/"
+        },
+        {
+          "logoUrl" : "../images/logos/company-apprenda.png",
+          "name" : "Apprenda",
+          "url" : "https://apprenda.com/"
         }
       ],
       "title" : "Speaker & Diversity Sponsors"
@@ -531,8 +536,8 @@
 
     "134" : {
       "id" : 134,
-      "title" : "SSML - Connecting users to the device",
-      "description" : "",
+      "title" : "SSML - When words are not enough. Create, Compose and Control your own voice",
+      "description" : "In this presentation, Mandy will help make your voice applications stand out from the crowd by using SSML to its fullest. She will take dry plain SSML examples that we all create, and then give them life by using compositional SSML! Join her in seeing how you can upgrade your voice application with some amusing demos!",
       "speakers" : [ 15 ],
       "complexity" : "",
       "language" : "",
@@ -847,7 +852,7 @@
       ],
       "bio"         : "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack. Currently Faisal is a Senior Engineer at Zoom.ai, as well as working on side projects in Machine Learning, Android, Dart and Flutter.",
       "company"     : "Zoom.AI",
-      "companyLogo" : "/images/dfnyc/logos/company-zoomai",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "Toronto, Canada",
       "featured"    : false,
       "id"          : 5,
@@ -875,7 +880,7 @@
       ],
        "bio"        : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github. More info at https://en.wikipedia.org/wiki/Bob_van_Luijt​",
       "company"     : "Kubrickology",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "Netherlands",
       "featured"    : false,
       "id"          : 6,
@@ -1055,7 +1060,7 @@
       ],
       "bio"         : "Macy Kuang is not just the producer and host of her own YouTube technology tips and tricks show - CodeToCreate, she is also the founder of Miaomiao Games. She is on the organizing committee for AndroidTO, the annual Android conference, and the co-organizer of the Toronto Google Developer Group. Macy became a Google Developer Expert for Wearable since 2014 and is now an IoT Pioneer. In early 2017, Macy joins the intel innovator program as an robotic, IoT and VR expert.",
       "company"     : "Miaomiao Games",
-      "companyLogo" : "/images/dfnyc/logos/company-miaomiaogames.png",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "Toronto, Canada",
       "featured"    : true,
       "id"          : 12,
@@ -1088,7 +1093,7 @@
       ],
       "bio"         : "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications. In March 2016, she was awarded with the status of Google Developer Expert for Android. In her spare time, she works with Book Dash – a Non Profit Organisation – developing an Android app to showcase their free children’s books. She enjoys public speaking and frequently speak at conferences and local meetups. Her blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian’s Top 200 Young South Africans.",
       "company"     : "Dynamic Visual Technologies",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "Johannesburg, South Africa",
       "featured"    : true,
       "id"          : 13,
@@ -1121,7 +1126,7 @@
       ],
       "bio"         : "Allen is a Senior Project Guru at Objective Consulting (https://spiders.com) where he focuses on helping clients improve their workflows and address their users’ needs using new and upcoming technologies from web, to mobile, to ubiquitous platforms. He has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant. If you’re looking for him around the conference, you can easily spot him by his blue shirt, his blue Google Glass, and his passion for humanizing technology.",
       "company"     : "Objective Consulting",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "New York, United States",
       "featured"    : false,
       "id"          : 14,
@@ -1145,7 +1150,7 @@
     },
 
     {
-      "bio"         : "Mandy Chan is a passionate software engineer who absolutely loves learning and inspiring others to build amazing products. She has developed more than a dozen Alexa skills now and growing number of Actions on Google. Mandy is one of the Alexa Champions since November 2016 because of her early contributions in the Voice Open Source community. One of her most frequently downloaded open source projects is called the SSML-Builder which creates well-formed Speech Synthesis Markup Language without worrying about string concatenations. She continues to share her passion for the voice space by working on her second open source project - SSML-Builder in JAVA. She is also a co-organizer of the NYC Voice Assistant Meetup. You can learn more about Mandy @MandyChanNYC",
+      "bio"         : "Mandy Chan is a software engineer who is passionate about voice applications and building a community around voice. Mandy has developed voice applications across multiple platforms such as Amazon Alexa and Actions on Google. She is also an Alexa Champion because of her early contributions in the Voice Open Source community. One of her most frequently downloaded open source projects is called the SSML-Builder which creates well-formed Speech Synthesis Markup Language. She is also a co-organizer of the NYC Voice Assistant Meetup. You can stalk her on Twitter @MandyChanNYC",
       "company"     : "",
       "companyLogo" : "",
       "country"     : "United States",
@@ -1154,7 +1159,7 @@
       "name"        : "Mandy Chan",
       "title"       : "Amazon Alexa Champion, Creator of Open Source SSML-Builder",
       "photoUrl"    : "/images/dfnyc/speakers/15-MandyChan.png",
-      "shortBio"    : "Mandy Chan is a passionate software engineer who absolutely loves learning and inspiring others to build amazing products. She has developed more than a dozen Alexa skills now and growing number of Actions on Google. Mandy is one of the Alexa Champions since November 2016 because of her early contributions in the Voice Open Source community.",
+      "shortBio"    : "Mandy Chan is a software engineer who is passionate about voice applications and building a community around voice. Mandy has developed voice applications across multiple platforms such as Amazon Alexa and Actions on Google. She is also an Alexa Champion because of her early contributions in the Voice Open Source community. One of her most frequently downloaded open source projects is called the SSML-Builder which creates well-formed Speech Synthesis Markup Language. She is also a co-organizer of the NYC Voice Assistant Meetup. You can stalk her on Twitter @MandyChanNYC",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1178,7 +1183,7 @@
     {
       "bio"         : "Jeff Smith leads the team that builds Amelia, the most comprehensive AI platform for enterprises. He has built bleeding edge technology and awesome teams at various tech organizations across New York, San Francisco, and Hong Kong. He’s a frequent speaker and the author of Reactive Machine Learning Systems, a book on how to build real-world machine learning systems, published by Manning.",
       "company"     : "IPSoft",
-      "companyLogo" : "",
+      "companyLogo" : "/images/dfnyc/logos/company-ipsoft.png",
       "country"     : "New York, United States",
       "featured"    : false,
       "id"          : 16,
@@ -1204,7 +1209,7 @@
     {
       "bio"         : "Austin is a irredeemable computer nerd who has convinced someone to pay him for it. These days, he's working at the intersection of developing technologies and the enterprise. Outside of that, he's a big fan of live music, road trips, and national parks.",
       "company"     : "Apprenda",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/company-apprenda.png",
       "country"     : "United States",
       "featured"    : false,
       "id"          : 17,
@@ -1242,7 +1247,7 @@
       ],
       "bio"         : "Mike is Google Developer Expert in Android heavily focused on making performant apps by leveraging functional reactive architectures. He started his Android career 5+ years ago working on logistic software particularly with physical barcode scanners. Since then Mike did a stint at NY's premier Android shop, TouchLab, chased the equity dream at Betterment, fought the good fight at The New York Times and is currently spending his days as the Android Lead at Nike's Digital Innovation Lab S23NC. Mike is also a co-founder of FriendlyRobot.nyc where he helps NY startups turn their dreams into Android realities. In his free time he enjoys writing and speaking about overly complicated concepts at conferences and area meetups, writing for tech blogs and maintaining his open source library TinyDancer, Apollo-Android and NYT Store",
       "company"     : "Nike Digital Innovation Lab",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "New York, United States",
       "featured"    : false,
       "id"          : 18,
@@ -1544,7 +1549,7 @@
       ],
       "bio"         : "Pam Selle is a software engineering lead at IOpipe working with serverless computing as well as a published author and public speaker. She’s author of Beyond the Resume: How to Get Your Next Job as a Developer and lead author of Choosing a JavaScript Framework from Bleeding Edge Press. She’s spoken across the country and internationally, speaking at events including JSConf EU, JSConf US (Last Call), StrangeLoop, and QCon; she also co-founded LibertyJS, Philadelphia’s premier JavaScript conference.",
       "company"     : "IOPipe",
-      "companyLogo" : "",
+      "companyLogo" : "/images/logos/gde.png",
       "country"     : "Philadelphia, United States",
       "featured"    : true,
       "id"          : 29,
