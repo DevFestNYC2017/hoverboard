@@ -4,3 +4,6 @@ node_modules
 .idea/
 .temp/
 .firebaserc
+build/
+firebase-debug.log
+package-lock.json
