@@ -542,9 +542,9 @@
 
     "135" : {
       "id" : 135,
-      "title" : "Conversational UI: Past, Present and Future",
-      "description" : "",
-      "speakers" : [ 17 ],
+      "title" : "At the Edge of AI: The future of sensors and actuators",
+      "description" : "While advances in learning techniques like deep neural networks get lots of attention within the field of AI, most of what we can actually accomplish with AI is limited by two components of an AI that get far less attention: sensors and actuators. An AI can only learn from what its sensors can perceive. An AI can only act on the outside world via its actuators. Using voice as our running example, we'll look at recent advances in sensors and actuators and how they affect the design of AI architectures. Then we'll turn our focus to the future, to see how possible advances could make new types of AI products possible.",
+      "speakers" : [ 16 ],
       "complexity" : "",
       "language" : "",
       "tags" : [ "AI", "Enterprise"],
@@ -555,10 +555,10 @@
       "id" : 136,
       "title" : "OK, Computer; Introducing smart assistants to enterprise software development",
       "description" : "Assistant, Alexa, Siri, oh my! The proliferation of smart voice assistant technology has started to touch every aspect of our lives. We're scheduling, sending messages, getting recipes, and more these days - all through a simple spoken command. These technologies are bridging the gap between user and computer, enabling us to communicate with complex systems through fluent voice commands. However, the adoption of these technologies in the enterprise for software development lifecycle tasks has been slower. In this presentation, we'll demonstrate an implementation of a voice assistant to improve agility in software development by allowing for users to communicate with Amazon's Alexa voice assistant to get information from a CI server. Further, we'll discuss some of the challenges and opportunities in this space.",
-      "speakers" : [ 16 ],
+      "speakers" : [ 17 ],
       "complexity" : "",
       "language" : "",
-      "tags" : [ "AI", "Enterprise", "Assistant" ],
+      "tags" : [ "AI", "Enterprise", "Alexa" ],
       "presentation" : ""
     },
 
