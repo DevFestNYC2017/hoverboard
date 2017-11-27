@@ -1751,28 +1751,28 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "$",
-      "ends" : "Dec 2",
+      "ends" : "",
       "info" : "SATURDAY SESSIONS ONLY",
       "name" : "Tech Talks",
       "price" : 50,
       "soldOut" : false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 2"
     }, {
       "currency" : "$",
-      "ends" : "Dec 3",
+      "ends" : "",
       "info" : "SUNDAY SESSIONS ONLY",
       "name" : "Workshops",
       "price" : 50,
       "soldOut" :false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 3"
     }, {
       "currency" : "$",
-      "ends" : "Dec 2",
+      "ends" : "Dec 3",
       "info" : "SATURDAY & SUNDAY SESSIONS",
       "name" : "All Access",
       "price" : 90,
       "soldOut" : false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 2"
     } ],
     "url" : "http://bit.ly/devfestnyc17-tix"
   },
