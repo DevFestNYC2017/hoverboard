@@ -71,7 +71,7 @@
           "url" : "https://www.google.com.ua/intl/en/about/"
         },
         {
-          "logoUrl" : "../images/dfnyc/logos/gdgnyc.jpeg",
+          "logoUrl" : "../images/dfnyc/logos/gdgnyc.png",
           "name" : "GDG NYC Community",
           "url" : "https://www.meetup.com/gdgnyc/"
         },
@@ -132,12 +132,12 @@
         {
           "startTime" : "11:00",
           "endTime" : "11:45",
-          "sessions" : [ [ 110 ], [ 120 ], [ 130 ] ]
+          "sessions" : [ [ 112 ], [ 120 ], [ 130 ] ]
         },
         {
           "startTime" : "11:45",
           "endTime" : "12:30",
-          "sessions" : [ [ 111 ], [ 121 ], [ 131 ] ]
+          "sessions" : [ [ 110 ], [ 121 ], [ 131 ] ]
         },
 
 
@@ -150,7 +150,7 @@
         {
           "startTime" : "13:30",
           "endTime" : "14:15",
-          "sessions" : [ [ 112 ], [ 122 ], [ 132 ] ]
+          "sessions" : [ [ 111 ], [ 122 ], [ 132 ] ]
         },
         {
           "startTime" : "14:15",
@@ -468,7 +468,7 @@
 
     "125" : {
       "id" : 125,
-      "title" : "Kubernetes: Istio Service Mesh",
+      "title" : "Making microservices micro with Istio Service Mesh & Kubernetes",
       "description" : "Microservices are here to stay. When applied properly, microservices techniques and culture ultimately help us continuously improve business at a faster pace than traditional architecture. However, microservices architecture itself can be complex to configure. All of a sudden, we are faced with the need for a service discovery server, how do we store service metadata, make decisions on whether to use client side load balancing or server side load balancing, deal with network resiliency, think how do we enforce service policies and audit, trace nested services calls…. The list goes on. In this talk, Ray will introduce Istio, an open source service mesh framework created by Google, IBM, and Lyft. We’ll see how the service mesh work, the technology behind it, and how it addresses aforementioned concerns",
       "speakers" : [ 8 ],
       "complexity" : "",
@@ -648,10 +648,10 @@
       "tags" : [ "Web", "PWA" ]
     },
     "221" : {
-      "description" : "Glitch is the friendly community where you'll build the app of your dreams. With working example apps to remix, a code editor to modify them, instant hosting and deployment - anybody can build a web app on Glitch, for free. Learn how to build and deploy Glitch-enabled experiences for modern web users.",
-      "id" : 221,
+      "description" : "Have an app or website you are working on but need a free place to deploy it? Want to make your first twitter bot but don't know where to start? Bring your projects and/or ideas to this session. Glitch Community Engineer, Jenn Schiffer, will be there to help you use Glitch to deploy your apps or remix others to get started on something cool!",
+       "id" : 221,
       "language" : "English",
-      "title" : "Glitch Workshop: Build a Better Web",
+      "title" : "Build the App of Your Dreams on Glitch",
       "speakers" : [ 2 ],
       "presentation" : "https://glitch.com/~empireconf-workshop",
       "tags" : [ "Web", "PWA", "Platform" ]
@@ -748,7 +748,7 @@
     },
 
     {
-      "bio"         : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS, a JavaScript meetup for New York's favorite borough. She is incredibly strong and runs very fast",
+      "bio"         : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS. She is incredibly strong and runs very fast",
       "company"     : "Fog Creek Software",
       "companyLogo" : "/images/dfnyc/logos/company-glitch.svg",
       "country"     : "New York, United States",
@@ -757,7 +757,7 @@
       "name"        : "Jenn Schiffer",
       "title"       : "Community Engineer, Glitch.com",
       "photoUrl"    : "/images/dfnyc/speakers/02-JennSchiffer.png",
-      "shortBio"    : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS, a JavaScript meetup for New York's favorite borough. She is incredibly strong and runs very fast.",
+      "shortBio"    : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS. She is incredibly strong and runs very fast.",
       "socials" : [
         {
           "icon" : "twitter",
@@ -1506,7 +1506,7 @@
       ],
       "bio"         : "Nitya Narasimhan is a PhD and Polyglot who is focused on building better software and more inclusive communities in the Greater New York region. She works with early stage startups and academic institutions to develop mobile, web, machine learning & AI solutions for next-generation consumers. She organizes GDG New York City & GDG Hudson Valley, supports workforce retraining with StudyCamps, and is giving apps a voice at BitNBot.",
       "company"     : "GDG New York City",
-      "companyLogo" : "",
+      "companyLogo" : "/images/dfnyc/logos/gdgnyc.png",
       "country"     : "United States",
       "featured"    : false,
       "id"          : 28,
@@ -1751,28 +1751,28 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "$",
-      "ends" : "Dec 2",
+      "ends" : "",
       "info" : "SATURDAY SESSIONS ONLY",
       "name" : "Tech Talks",
       "price" : 50,
       "soldOut" : false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 2"
     }, {
       "currency" : "$",
-      "ends" : "Dec 3",
+      "ends" : "",
       "info" : "SUNDAY SESSIONS ONLY",
       "name" : "Workshops",
       "price" : 50,
       "soldOut" :false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 3"
     }, {
       "currency" : "$",
-      "ends" : "Dec 2",
+      "ends" : "Dec 3",
       "info" : "SATURDAY & SUNDAY SESSIONS",
       "name" : "All Access",
       "price" : 90,
       "soldOut" : false,
-      "starts" : "Aug 1"
+      "starts" : "Dec 2"
     } ],
     "url" : "http://bit.ly/devfestnyc17-tix"
   },
