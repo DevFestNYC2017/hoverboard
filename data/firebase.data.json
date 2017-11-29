@@ -119,7 +119,7 @@
           "sessions"  : [ [ 100 ] ]
         },
         {
-          "startTime" : "9:30",
+          "startTime" : "09:30",
           "endTime"   : "10:30",
           "sessions"  : [ [ 101 ] ]
         },
@@ -200,9 +200,9 @@
         }
       ],
       "tracks" : [
-        { "title" : "Room A"},
-        { "title" : "Room B"},
-        { "title" : "Room C" },
+        { "title" : "Mobile & Web Track"},
+        { "title" : "Cloud & ML Track"},
+        { "title" : "Emerging Tech Track" },
         { "title" : "Cafeteria" }
       ]
     },
@@ -253,11 +253,11 @@
         }
       ],
       "tracks" : [
-        { "title" : "Room A"},
+        { "title" : "Hackathon Track"},
         { "title" : "Cafeteria" },
-        { "title" : "Room B"},
-        { "title" : "Room C" },
-        { "title" : "Room D" }
+        { "title" : "Web Track"},
+        { "title" : "Android Track" },
+        { "title" : "Hot Topics Track" }
       ]
     }
   ],
