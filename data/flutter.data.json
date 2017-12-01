@@ -11,8 +11,7 @@
             {
               "logoUrl" : "../images/dfnyc/logos/firebase.png",
               "name" : "Firebase",
-              "url" : "https://firebase.google.com/",
-              "width" : 200
+              "url" : "https://firebase.google.com/"
             }
           ],
           "title" : "Gold Sponsors"
@@ -21,15 +20,24 @@
         {
           "logos" : [
             {
-              "logoUrl" : "../images/dfnyc/logos/flutter.png",
+              "logoUrl" : "../images/dfnyc/logos/flutter-logo.svg",
               "name" : "Flutter",
               "url" : "https://flutter.io/"
             },
             {
-              "logoUrl" : "../images/dfnyc/logos/assistant.png",
+              "logoUrl" : "../images/dfnyc/logos/Google_Assistant_logo.svg",
               "name" : "Actions On Google",
-              "url" : "https://developers.google.com/actions/",
-              "width" : 200
+              "url" : "https://developers.google.com/actions/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/wtm.svg",
+              "name" : "Women Tech Makers",
+              "url" : "https://www.womentechmakers.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/google-cloud-platform-logo-hybrid.svg",
+              "name" : "Google Cloud Team",
+              "url" : "https://cloud.google.com/"
             }
           ],
           "title" : "Silver Sponsors"
@@ -38,10 +46,9 @@
         {
           "logos" : [
             {
-              "logoUrl" : "../images/dfnyc/logos/galvanize.png",
+              "logoUrl" : "../images/dfnyc/logos/galvanize-logo.svg",
               "name" : "Galvanize",
-              "url" : "https://www.galvanize.com/new-york/campus",
-              "width" : 200
+              "url" : "https://www.galvanize.com/new-york/campus"
             }
           ],
           "title" : "Venue Sponsor"
@@ -50,15 +57,36 @@
         {
           "logos" : [
             {
-              "logoUrl" : "../images/dfnyc/logos/firebase.png",
+              "logoUrl" : "../images/dfnyc/logos/firebase-logo.svg",
               "name" : "Firebase",
               "url" : "https://firebase.google.com/"
             },
             {
-              "logoUrl" : "../images/dfnyc/logos/jetbrains.png",
+              "logoUrl" : "../images/dfnyc/logos/jetbrains-logo.svg",
               "name" : "Jetbrains",
               "url" : "https://www.jetbrains.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/oreilly.svg",
+              "name" : "O'Reilly Media",
+              "url" : "https://www.oreilly.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/manning.svg",
+              "name" : "Manning Books",
+              "url" : "https://www.manning.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/bignerdranch.svg",
+              "name" : "Big Nerd Ranch",
+              "url" : "https://www.bignerdranch.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/androidthings_rgb_horizontal.svg",
+              "name" : "Android Things",
+              "url" : "https://developer.android.com/things/index.html"
             }
+
           ],
           "title" : "Prize Sponsors"
         },
@@ -66,7 +94,7 @@
         {
           "logos" : [
             {
-              "logoUrl" : "../images/dfnyc/logos/wtm.png",
+              "logoUrl" : "../images/dfnyc/logos/wtm.svg",
               "name" : "Women TechMakers",
               "url" : "https://www.google.com.ua/intl/en/about/"
             },
@@ -76,12 +104,12 @@
               "url" : "https://www.meetup.com/gdgnyc/"
             },
             {
-              "logoUrl" : "../images/dfnyc/logos/assistant.png",
+              "logoUrl" : "../images/dfnyc/logos/Google_Assistant_logo.svg",
               "name" : "Actions on Google",
               "url" : "https://developers.google.com/actions/"
             },
             {
-              "logoUrl" : "../images/logos/company-apprenda.png",
+              "logoUrl" : "../images/logos/apprenda.svg",
               "name" : "Apprenda",
               "url" : "https://apprenda.com/"
             }
@@ -97,7 +125,7 @@
               "url" : "https://www.meetup.com/gdg-hudson-valley/"
             },
             {
-              "logoUrl" : "../images/dfnyc/logos/devto.png",
+              "logoUrl" : "../images/dfnyc/logos/devto.svg",
               "name" : "Dev.To",
               "url" : "https://dev.to/"
             }
@@ -115,8 +143,13 @@
     
             {
               "startTime" : "08:30",
-              "endTime"   : "09:30",
+              "endTime"   : "09:00",
               "sessions"  : [ [ 100 ] ]
+            },
+            {
+              "startTime" : "09:00",
+              "endTime"   : "09:30",
+              "sessions"  : [ [ 137 ] ]
             },
             {
               "startTime" : "09:30",
@@ -592,6 +625,15 @@
           "tags" : [ "AI", "Enterprise", "Alexa" ],
           "presentation" : "",
           "room" : "Emerging Tech Track"
+        },
+        "137" : {
+          "description" : "Day 1: Welcome & Announcements",
+          "id" : 137,
+          "speakers" : [36, 28],
+          "language" : "English",
+          "image" : "/images/backgrounds/home.png",
+          "title" : "Day 1: Welcome and Announcements",
+          "room" : "Mobile & Web Track"
         },
     
     
@@ -1680,7 +1722,112 @@
             }
           ],
           "tags" : [ "Firebase", "Cloud" ]
+        },
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Google Apps, Drive",
+              "link" : "https://developers.google.com/experts/people/c-sar-anton",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Cesar is a front-end developer and technical writer who's been a Google Drive Developer Expert since 2013. In his free time he enjoys writing about web technologies; reading about science; and attending tech events as a mentor, judge and conferencist.Cesar is experienced at implementing modern web technologies and standards, and enjoys mentoring new startups about how to find the best stack for their product.In the past, he worked for eight years as an IT consultant, and currently works as a semi-full stack developer in an education startup.Cesar studied Computer Systems Engineering at the Universidad del Valle de México. He lives in Bogotá, Colombia, and speaks English and Spanish.",
+          "company"     : "EPAM Systems",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "New York, USA",
+          "featured"    : false,
+          "id"          : 33,
+          "name"        : "César Antón",
+          "title"       : "Google Developer Expert (Google Apps, Drive)",
+          "photoUrl"    : "/images/dfnyc/speakers/33-cesaranton.png",
+          "shortBio"    : "Cesar is a front-end developer and technical writer who's been a Google Drive Developer Expert since 2013. In his free time he enjoys writing about web technologies; reading about science; and attending tech events as a mentor, judge and conferencist.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "twitter.com/reicek",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Web", "Google Apps", "Drive" ]
+        },
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Group | New Haven",
+              "link" : "https://www.meetup.com/GDG-New-Haven/",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "A full stack developer hailing from New Haven Connecticut. With a background and love for Java (think Android), Java (think Starbucks), and JavaScript I've been writing code for four years and have found my love in Angular as the perfect solution for client side/mobile development.",
+          "company"     : "Checkmate.Digital",
+          "companyLogo" : "/images/logos/checkmatedev.png",
+          "country"     : "New Haven, CT",
+          "featured"    : false,
+          "id"          : 34,
+          "name"        : "Michael Solati",
+          "title"       : "Front End Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/34-michaelsolati.png",
+          "shortBio"    : "A full stack developer hailing from New Haven Connecticut with a background and love for Java (think Android), Java (think Starbucks), and JavaScript.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/michaelsolati",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Angular JS", "JavaScript" ]
+        },
+        {
+          "bio"         : "Big Data, Software Engineering, Distributed Systems, Web Development, Financial Software Development,Multicore Programming, Artificial Intelligence",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "Manhattan, New York, United States",
+          "featured"    : true,
+          "id"          : 35,
+          "name"        : "Ibrahim Ulukaya",
+          "title"       : "Senior Developer Programs Engineer @ Firebase",
+          "photoUrl"    : "/images/dfnyc/speakers/35-ibrahimulukaya.jpg",
+          "shortBio"    : "Big Data, Software Engineering, Distributed Systems, Web Development, Financial Software Development,Multicore Programming, Artificial Intelligence",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/iulukaya",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://linkedin.com/in/ibrahimulukaya/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Firebase", "Cloud" ]
+        },
+        {
+          "bio"         : "Mike Huffstetler is the GM of Galvanize NYC, a leading tech incubator and coding school with campuses across the country. Prior to Galvanize, Mike led digital for domino.com, including growth, partnerships, marketing, and ecommerce. Before domino, Mike was an early employee at Boston-based tech startup, FreeCause. After FreeCause (now Rakuten Loyalty) was acquired by international eCommerce giant Rakuten, Mike moved to Chicago where he was a member of the founding team of the renowned technology incubator 1871. A graduate of Boston College, Mike is also the founder of the non-profit Boston Winter Ball Foundation which has rallied millennials to raise over $5 million for Boston-area charities.",
+          "company"     : "Galvanize",
+          "companyLogo" : "/images/dfnyc/logos/galvanize-logo.svg",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 36,
+          "name"        : "Mike Huffstetler",
+          "title"       : "GM",
+          "photoUrl"    : "/images/dfnyc/speakers/36-mikehuffstetler.jpg",
+          "shortBio"    : "Mike Huffstetler is the GM of Galvanize NYC, a leading tech incubator and coding school with campuses across the country. Prior to Galvanize, Mike led digital for domino.com, including growth, partnerships, marketing, and ecommerce.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/HuffStetLer",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/huffstetler/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Community", "Public Speaker" ]
         }
+        
       ],
     
       "team" : [
@@ -1715,7 +1862,13 @@
                 "icon" : "twitter",
                 "link" : "https://twitter.com/codewired",
                 "name" : "Twitter"
-              } ],
+              },
+              {
+                "icon" : "github",
+                "link" : "https://github.com/codewired",
+                "name" : "GitHub"
+              } 
+            ],
               "title" : "Website"
             },
             {
@@ -1781,6 +1934,28 @@
                 {
                   "icon" : "github",
                   "link" : "https://github.com/amalahussein/",
+                  "name" : "GitHub"
+                }
+              ]
+            },
+            {
+              "name"        : "Michael Solati",
+              "title"       : "MC (Emerging Tech)",
+              "photoUrl"    : "/images/dfnyc/speakers/34-michaelsolati.png",
+              "socials" : [
+                {
+                  "icon" : "twitter",
+                  "link" : "https://twitter.com/michaelsolati",
+                  "name" : "Twitter"
+                },
+                {
+                  "icon" : "linkedin",
+                  "link" : "https://www.linkedin.com/in/michaelsolati",
+                  "name" : "LinkedIn"
+                },
+                {
+                  "icon" : "github",
+                  "link" : "https://github.com/MichaelSolati",
                   "name" : "GitHub"
                 }
               ]
