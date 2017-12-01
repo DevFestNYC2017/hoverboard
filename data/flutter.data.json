@@ -1,0 +1,1832 @@
+{
+    
+      "partners" : [
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/googledevs.png",
+              "name" : "Google Developers",
+              "url" : "https://developers.google.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/firebase.png",
+              "name" : "Firebase",
+              "url" : "https://firebase.google.com/",
+              "width" : 200
+            }
+          ],
+          "title" : "Gold Sponsors"
+        },
+    
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/flutter.png",
+              "name" : "Flutter",
+              "url" : "https://flutter.io/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/assistant.png",
+              "name" : "Actions On Google",
+              "url" : "https://developers.google.com/actions/",
+              "width" : 200
+            }
+          ],
+          "title" : "Silver Sponsors"
+        },
+    
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/galvanize.png",
+              "name" : "Galvanize",
+              "url" : "https://www.galvanize.com/new-york/campus",
+              "width" : 200
+            }
+          ],
+          "title" : "Venue Sponsor"
+        },
+    
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/firebase.png",
+              "name" : "Firebase",
+              "url" : "https://firebase.google.com/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/jetbrains.png",
+              "name" : "Jetbrains",
+              "url" : "https://www.jetbrains.com/"
+            }
+          ],
+          "title" : "Prize Sponsors"
+        },
+    
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/wtm.png",
+              "name" : "Women TechMakers",
+              "url" : "https://www.google.com.ua/intl/en/about/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/gdgnyc.png",
+              "name" : "GDG NYC Community",
+              "url" : "https://www.meetup.com/gdgnyc/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/assistant.png",
+              "name" : "Actions on Google",
+              "url" : "https://developers.google.com/actions/"
+            },
+            {
+              "logoUrl" : "../images/logos/company-apprenda.png",
+              "name" : "Apprenda",
+              "url" : "https://apprenda.com/"
+            }
+          ],
+          "title" : "Speaker & Diversity Sponsors"
+        },
+    
+        {
+          "logos" : [
+            {
+              "logoUrl" : "../images/dfnyc/logos/gdghv.jpeg",
+              "name" : "Google Developer Group Hudson Valley",
+              "url" : "https://www.meetup.com/gdg-hudson-valley/"
+            },
+            {
+              "logoUrl" : "../images/dfnyc/logos/devto.png",
+              "name" : "Dev.To",
+              "url" : "https://dev.to/"
+            }
+          ],
+          "title" : "Community Partners"
+        }
+      ],
+    
+      "schedule" : [
+    
+        {
+          "date" : "2017-12-02",
+          "dateReadable" : "December 2",
+          "timeslots" : [
+    
+            {
+              "startTime" : "08:30",
+              "endTime"   : "09:30",
+              "sessions"  : [ [ 100 ] ]
+            },
+            {
+              "startTime" : "09:30",
+              "endTime"   : "10:30",
+              "sessions"  : [ [ 101 ] ]
+            },
+    
+            {
+              "startTime" : "10:30",
+              "endTime"   : "11:00",
+              "sessions"  : [ [ 102 ] ]
+            },
+            {
+              "startTime" : "11:00",
+              "endTime" : "11:45",
+              "sessions" : [ [ 112 ], [ 120 ], [ 130 ] ]
+            },
+            {
+              "startTime" : "11:45",
+              "endTime" : "12:30",
+              "sessions" : [ [ 110 ], [ 121 ], [ 131 ] ]
+            },
+    
+    
+    
+            {
+              "startTime" : "12:30",
+              "endTime"   : "13:30",
+              "sessions"  : [ [ 103 ] ]
+            },
+            {
+              "startTime" : "13:30",
+              "endTime" : "14:15",
+              "sessions" : [ [ 111 ], [ 122 ], [ 132 ] ]
+            },
+            {
+              "startTime" : "14:15",
+              "endTime" : "15:00",
+              "sessions" : [ [ 113 ], [ 123 ], [ 133 ] ]
+            },
+            {
+              "startTime" : "15:00",
+              "endTime" : "15:45",
+              "sessions" : [ [ 114 ], [ 124 ], [ 134 ] ]
+            },
+    
+    
+    
+            {
+              "startTime" : "15:45",
+              "endTime"   : "16:15",
+              "sessions"  : [ [ 104 ] ]
+            },
+            {
+              "startTime" : "16:15",
+              "endTime"   : "17:00",
+              "sessions"  : [ [ 115 ], [ 125 ], [ 135 ] ]
+            },
+            {
+              "startTime" : "17:00",
+              "endTime"   : "17:45",
+              "sessions"  : [ [ 116 ], [ 126 ], [ 136 ] ]
+            },
+    
+    
+    
+            {
+              "startTime" : "17:45",
+              "endTime"   : "18:00",
+              "sessions"  : [ [ 105 ] ]
+            },
+            {
+              "startTime" : "18:00",
+              "endTime"   : "18:45",
+              "sessions"  : [ [ 106 ] ]
+            },
+            {
+              "startTime" : "18:45",
+              "endTime"   : "19:00",
+              "sessions"  : [ [ 107 ] ]
+            }
+          ],
+          "tracks" : [
+            { "title" : "Mobile & Web Track"},
+            { "title" : "Cloud & ML Track"},
+            { "title" : "Emerging Tech Track" },
+            { "title" : "Cafeteria" }
+          ]
+        },
+    
+        {
+          "date" : "2017-12-03",
+          "dateReadable" : "December 3",
+          "timeslots" : [
+            {
+            "startTime" : "08:30",
+            "endTime" : "09:30",
+            "sessions" : [ [ 200 ] ]
+            },
+            {
+            "startTime" : "09:30",
+            "endTime" : "12:00",
+            "sessions" : [ [ 210 ], [ 250 ], [ 220 ], [ 230 ], [ 240 ] ]
+            },
+            {
+            "startTime" : "12:00",
+            "endTime" : "13:00",
+            "sessions" : [ [ 201 ] ]
+            },
+            {
+            "startTime" : "13:00",
+            "endTime" : "15:30",
+            "sessions" : [ [ 211 ], [ 250 ], [ 221 ], [ 231 ], [ 241 ] ]
+            },
+            {
+            "startTime" : "15:30",
+            "endTime" : "16:00",
+            "sessions" : [ [ 202 ] ]
+            },
+            {
+            "startTime" : "16:00",
+            "endTime" : "16:30",
+            "sessions" : [ [ 212 ], [ 251 ] ]
+            },
+            {
+            "startTime" : "16:30",
+            "endTime" : "17:00",
+            "sessions" : [ [ 213 ] ]
+            },
+            {
+            "startTime" : "17:00",
+            "endTime" : "17:30",
+            "sessions" : [ [ 203 ] ]
+            }
+          ],
+          "tracks" : [
+            { "title" : "Hackathon Track"},
+            { "title" : "Cafeteria" },
+            { "title" : "Web Track"},
+            { "title" : "Android Track" },
+            { "title" : "Hot Topics Track" }
+          ]
+        }
+      ],
+    
+      "sessions" : {
+    
+    
+        "100" : {
+          "description" : "Day 1: Registration & Breakfast.",
+          "id" : 100,
+          "language" : "English",
+          "image" : "/images/backgrounds/home.png",
+          "title" : "Day 1: Registration",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "101" : {
+          "complexity" : "Beginner",
+          "description" : "A deep dive into recent work in medical imaging, where TensorFlow is used to assist physicians diagnose disease. I'll cover both the technology - and importantly - the problem solving process of thoughtfully applying it to solve a meaningful problem. At the end, I'll close with my favorite educational resources you can use to learn more about this important area.",
+          "id" : 101,
+          "language" : "English",
+          "speakers" : [ 30 ],
+          "tags" : [ "Machine Learning" ],
+          "title" : "Opening Keynote: Detecting Cancer with TensorFlow",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "102" : {
+          "description" : "Pick your track (mobile/web, cloud/machine-learning or emerging-tech) then find the room to match.",
+          "id" : 102,
+          "language" : "English",
+          "image"    : "/images/backgrounds/home.png",
+          "title"    : "Break",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "103" : {
+          "id"           : 103,
+          "title"        : "Lunch",
+          "description"  : "Lunch will be served in the cafeteria buffet-style.",
+          "image"        : "/images/backgrounds/home.png",
+          "room"         : "Mobile & Web Track"
+        },
+    
+        "104" : {
+          "id"           : 104,
+          "title"        : "Break",
+          "description"  : "Coffee & Snacks are self-serve in the Cafeteria.",
+          "image"        : "/images/backgrounds/home.png",
+          "room"         : "Mobile & Web Track"
+        },
+    
+        "105" : {
+          "id"           : 105,
+          "title"        : "Break",
+          "description"  : "Grab drinks & snacks. Network. And head back to the main Room for our closing keynote and wrap-up.",
+          "image"        : "/images/backgrounds/home.png",
+          "room"         : "Mobile & Web Track"
+        },
+    
+        "106" : {
+          "id"          : 106,
+          "title"       : "Closing Keynote: Welcome to the Serverless Revolution",
+          "speakers"    : [ 29 ],
+          "complexity"  : "Intermediate",
+          "description" : "Serverless computing—using platforms like AWS Lambda, Google Cloud Functions, or Azure Functions—takes your microservices architecture and brings it into a new age of operations. It's changing the way we architect our applications across the board and enabling new possibilities. The iron age of compute is well behind us, and new adventures, and challenges, lie before us in the serverless world.",
+          "language"    : "English",
+          "presentation" : "http://bit.ly/pamasaur-serverless-2017",
+          "tags" : [ "web" ],
+          "room" : "Mobile & Web Track"
+        },
+    
+        "107" : {
+          "id"           : 107,
+          "title"        : "Day 1: Wrap-Up & Thank You!",
+          "description"  : "Those attending Day 2 are requested to be here by 9:30am when both workshops and hackathon will kick off.",
+          "image"        : "/images/backgrounds/home.png",
+          "room"         : "Mobile & Web Track"
+        },
+    
+    
+    
+        "110" : {
+          "id" : 110,
+          "title" : "Workbox: Flexible PWA Libraries & Beyond",
+          "description" : "Workbox is a set of libraries that work together to power your progressive web app's service worker. Learn about what we've been working on for the v3 release, and see how the flexibility Workbox offers has solved real-world problems for top partners as they build their own PWAs.",
+          "speakers" : [ 1 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Progressive Web Apps", "Web" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "111" : {
+          "id" : 111,
+          "title" : "Building a better web with Glitch",
+          "description" : "Glitch is the friendly community where you'll build the app of your dreams. Learn how you can apps build better apps by remixing working apps, editing code in the browser, hosting and deploying instantly - all for free. And, with Glitch for Platforms, you also have tools to measure and improve developer adoption of your API",
+          "speakers" : [ 2 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Web", "Platforms" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "112" : {
+          "id" : 112,
+          "title" : "Hello, it's your Modern Web Platform!",
+          "description" : "",
+          "speakers" : [ 3 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Web", "Progressive Web Apps" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "113" : {
+          "id" : 113,
+          "title" : "Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript",
+          "description" : "Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘intelligence’!",
+          "speakers" : [ 4 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Web", "Machine Learning", "NativeScript" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "114" : {
+          "id" : 114,
+          "title" : "Flutter: Reactive Composition for Mobile UIs",
+          "description" : "Flutter is a new reactive widget framework and mobile app SDK from Google. Architected with many customizable (and replaceable!) layers, Flutter believes that everything is a widget, and delivers an entire reactive framework, gesture recognizer, compositor, animation system, material widgets, and iOS widgets, all in Dart, solely for mobile. Flutter shows us that beautiful, natural mobile apps don't have to come from OEM toolkits.",
+          "speakers" : [ 5 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Android", "Flutter", "Web" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "115" : {
+          "id" : 115,
+          "title" : "reCAPTCHA: Tough on Bots, Easy on Humans, Great on Mobile",
+          "description" : "The new reCAPTCHA is here. A significant number of your users can now attest they are human without having to solve a CAPTCHA. Instead with just a single click they’ll confirm they are not a robot. We’re calling it the No CAPTCHA reCAPTCHA experience. Learn how it works and how you can leverage it in your apps.",
+          "speakers" : [ 7 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Android", "Security", "Web" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+        "116" : {
+          "id" : 116,
+          "title" : "Make Your (Android) App Instant",
+          "description" : "Jet.com’s Android team was one of Google’s early partners with access to Instant Apps API and development tools at the experimental stage. We launched the first multi-feature Instant App at the beginning of the year, which turned out to be a huge success. Instant Apps are designed with speed, light weight, best UX and modularity in mind. We migrated from a monolithic app module to multi-module project structure and reduced the size of our app significantly. During the talk we will walk through the process how to build Instant Apps step by step. The talk will also cover Instant Apps types, architecture changes, project structure, size and feature constraints, practical tips to slim down the application, lessons learnt, issues we ran into and benefits gained.",
+          "speakers" : [ 26 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Android" ],
+          "presentation" : "",
+          "room" : "Mobile & Web Track"
+        },
+    
+    
+    
+        "120" : {
+          "id" : 120,
+          "title" : "Ok Google, Make an Android Things Product",
+          "description" : "In this presentation, Rebecca will cover the basics of Android Things and take you on a journey to building your own Android Things Product. With everything you will need to know in order to get started with Android Things including how to leverage and build a Google Smart Home app.",
+          "speakers" : [ 13 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Android", "AI", "IOT" ],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "121" : {
+          "id" : 121,
+          "title" : "Sentinel, the first home security robot powered by Android Things.",
+          "description" : "On this talk, Oscar tells us about the development of Sentinel, the first home security robot powered by Android Things, and how hardware, software, Firebase and the Google Cloud Platform integrate into Sentinel to `bring it to life`.",
+          "speakers" : [ 27 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Android", "IOT", "Firebase" ],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "122" : {
+          "id" : 122,
+          "title" : "Intro To Firebase: Zero To App",
+          "description" : "Doug will provide an introduction to Firebase, illustrating how you can go from idea to implmentation in fairly short order. And learn what's new in Firebase since the Firebase Dev Summit in October.",
+          "speakers" : [ 9 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Firebase", "Android", "Web" ],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "123" : {
+          "id" : 123,
+          "title" : "Supercharge your app with Firebase and Cloud Functions",
+          "description" : "Cloud Functions for Firebase lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. In this talk, Kat will describe how Cloud Functions work and how you can leverage them in your mobile or web apps to craft custom server-side code.",
+          "speakers" : [ 10 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Firebase", "Google Cloud", "Serverless"],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "124" : {
+          "id" : 124,
+          "title" : "Analytics Done Easy : Firebase Analytics LIVE!",
+          "description" : "Firebase is best known for being your real-time online database, but IMO the `Killer App` of the Firebase platform is for Analytics. Analytics is the main tool needed to do User-Centered Design, User Conversion, User categorization, and Feature performance.  In comparison with what the market has to offer, nothing is more easy to implement or more feature rich. The best part? Its FREE!  This full live-coding demo will show you how to use Firebase Analytics, implement in your Android app, add your own custom events, custom user parameters, ins and outs of the dashboard, and even some business-centered features. You can follow along  LIVE with the code here:  https://github.com/childofthehorn/AndroidFirebaseAnalyticsWorkshop  ",
+          "speakers" : [ 11 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Firebase", "Analytics", "Android"],
+          "presentation" : "http://bit.ly/FBAnalyticsWorkshop",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "125" : {
+          "id" : 125,
+          "title" : "Making microservices micro with Istio Service Mesh & Kubernetes",
+          "description" : "Microservices are here to stay. When applied properly, microservices techniques and culture ultimately help us continuously improve business at a faster pace than traditional architecture. However, microservices architecture itself can be complex to configure. All of a sudden, we are faced with the need for a service discovery server, how do we store service metadata, make decisions on whether to use client side load balancing or server side load balancing, deal with network resiliency, think how do we enforce service policies and audit, trace nested services calls…. The list goes on. In this talk, Ray will introduce Istio, an open source service mesh framework created by Google, IBM, and Lyft. We’ll see how the service mesh work, the technology behind it, and how it addresses aforementioned concerns",
+          "speakers" : [ 8 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Cloud", "Microservices" ],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+        "126" : {
+          "id" : 126,
+          "title" : "Going Serverless with Cloud Machine Learning",
+          "description" : "",
+          "speakers" : [ 31 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "Cloud", "Machine Learning", "Serverless" ],
+          "presentation" : "",
+          "room" : "Cloud & ML Track"
+        },
+    
+    
+    
+        "130" : {
+          "id" : 130,
+          "title" : "Design for the Virtual World",
+          "description" : "We are used to create 2D flat environments but we rarely had the experience of designing for the 3D world. For my talk, I will be covering my experiences with working with successful VR titles for commercial products such as Sylvania and insidious 3. There are many factors we learnt from user testing and consumer feedbacks. As a developer, we had to consistently making changes and updates to our softwares to adopt of the hardware platform changes.",
+          "speakers" : [ 12 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "VR", "Design" ],
+          "presentation" : "",
+          "room" : "Emerging Tech Track"
+        },
+    
+        "131" : {
+          "id" : 131,
+          "title" : "Creating with VR",
+          "description" : "Andrew will discuss his VR and AR work, from 360 videos to ARKit apps, that has utilized VR content creation tools such as Gravity Sketch and Google Blocks in the development process. Almost 2 years ago, Andrew's head blew up when he tried the HTC Vive for the first time. Ever since, he's been delving into the VR tools available for creative development to see how this new method of creation can inspire him. During this talk he'll discuss creating with tools such as these, and how he imagines the democratization of 3D development evolving.He'll also discuss his experiences building his new AR app, Hide the Hubu.",
+          "speakers" : [ 25 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "VR" ],
+          "presentation" : "",
+          "room" : "Emerging Tech Track"
+        },
+    
+        "132" : {
+          "id" : 132,
+          "title" : "A Semantic Internet of Things ",
+          "description" : "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web. In this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT. `Devices are so 2017, the future is a semantic Internet of Things`",
+          "speakers" : [ 6 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "IOT", "Web" ],
+          "presentation" : ""
+        },
+    
+        "133" : {
+          "id" : 133,
+          "title" : "Engage with the Google Assistant",
+          "description" : "Interested in building for Google Home or the Google Assistant? We’ll get an introduction to some of the tools needed to build your first Action and what you need to do to get started and take it to the next level. (Join me on Day 2 for a deeper-dive coding workshop)",
+          "speakers" : [ 14 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "AI", "Firebase", "Assistant" ],
+          "presentation" : ""
+        },
+    
+        "134" : {
+          "id" : 134,
+          "title" : "SSML - When words are not enough. Create, Compose and Control your own voice",
+          "description" : "In this presentation, Mandy will help make your voice applications stand out from the crowd by using SSML to its fullest. She will take dry plain SSML examples that we all create, and then give them life by using compositional SSML! Join her in seeing how you can upgrade your voice application with some amusing demos!",
+          "speakers" : [ 15 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "AI", "Alexa", "OpenSource" ],
+          "presentation" : "",
+          "room" : "Emerging Tech Track"
+        },
+    
+        "135" : {
+          "id" : 135,
+          "title" : "At the Edge of AI: The future of sensors and actuators",
+          "description" : "While advances in learning techniques like deep neural networks get lots of attention within the field of AI, most of what we can actually accomplish with AI is limited by two components of an AI that get far less attention: sensors and actuators. An AI can only learn from what its sensors can perceive. An AI can only act on the outside world via its actuators. Using voice as our running example, we'll look at recent advances in sensors and actuators and how they affect the design of AI architectures. Then we'll turn our focus to the future, to see how possible advances could make new types of AI products possible.",
+          "speakers" : [ 16 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "AI", "Enterprise"],
+          "presentation" : "",
+          "room" : "Emerging Tech Track"
+        },
+    
+        "136" : {
+          "id" : 136,
+          "title" : "OK, Computer; Introducing smart assistants to enterprise software development",
+          "description" : "Assistant, Alexa, Siri, oh my! The proliferation of smart voice assistant technology has started to touch every aspect of our lives. We're scheduling, sending messages, getting recipes, and more these days - all through a simple spoken command. These technologies are bridging the gap between user and computer, enabling us to communicate with complex systems through fluent voice commands. However, the adoption of these technologies in the enterprise for software development lifecycle tasks has been slower. In this presentation, we'll demonstrate an implementation of a voice assistant to improve agility in software development by allowing for users to communicate with Amazon's Alexa voice assistant to get information from a CI server. Further, we'll discuss some of the challenges and opportunities in this space.",
+          "speakers" : [ 17 ],
+          "complexity" : "",
+          "language" : "",
+          "tags" : [ "AI", "Enterprise", "Alexa" ],
+          "presentation" : "",
+          "room" : "Emerging Tech Track"
+        },
+    
+    
+        "200" : {
+          "description" : "Day 2: Registration & Breakfast. Hackathon teams should find their members and get ready to hack. HourOfCode teams, proceed to the Cafeteria area to get started building your bots. Everyone else, pick a workshop and head to that room.",
+          "id" : 200,
+          "language" : "English",
+          "title" : "Day 2: Welcome & Registration",
+          "speakers" : [ 28 ],
+          "image"        : "/images/backgrounds/home.png",
+          "room" : "Hackathon Track"
+        },
+        "201" : {
+          "description" : "Lunch will be catered and served in the cafeteria area.",
+          "id" : 201,
+          "language" : "English",
+          "image"        : "/images/backgrounds/home.png",
+          "title" : "Day 2: Lunch Break",
+          "room" : "Hackathon Track"
+        },
+        "202" : {
+          "description" : "This marks the end of the Workshops & Hackathon sessions on Day 2. Attendees are encouraged to head to the Cafeteria area to cheer on the kids in the NodeBots Battles.",
+          "id" : 202,
+          "language" : "English",
+          "image"        : "/images/backgrounds/home.png",
+          "title" : "Day 2: Afternoon Break",
+          "room" : "Hackathon Track"
+        },
+        "203" : {
+          "description" : "This concludes our DevFest. Thank you all for attending. We hope to see you all again next year.",
+          "id" : 203,
+          "language" : "English",
+          "image"        : "/images/backgrounds/home.png",
+          "title" : "Day 2: Thank You & Goodbye!",
+          "speakers" : [ 28 ],
+          "room" : "Hackathon Track"
+        },
+    
+    
+        "210" : {
+          "description" : "This marks the official start of the Hackathon. Ideally you should be in teams by now but if not, use Slack to join one. Start brainstorming ideas and delegating roles. Get hacking!",
+          "id" : 210,
+          "language" : "English",
+          "image" : "/images/backgrounds/appfest.png",
+          "title" : "AppFest Hackathon: Morning Session",
+          "speakers" : [ 9, 10, 32 ],
+          "tags" : [ "Firebase", "Cloud", "Hackathon" ],
+          "room" : "Hackathon Track"
+        },
+        "211" : {
+          "description" : "Continue hacking. At this point, teams must have a fair idea of what they can complete and demonstrate to the judges. So go, go, go!",
+          "id" : 211,
+          "language" : "English",
+          "image" : "/images/backgrounds/appfest.png",
+          "title" : "AppFest Hackathon: Afternoon Session",
+          "speakers" : [ 9, 10, 32 ],
+          "tags" : [ "Firebase", "Cloud", "Hackathon" ],
+          "room" : "Hackathon Track"
+        },
+        "212" : {
+          "description" : "Time to start wrapping up your ideas. Our judges will go around evaluating the applications in preparation for their final decisions.",
+          "id" : 212,
+          "language" : "English",
+          "image" : "/images/backgrounds/appfest.png",
+          "title" : "AppFest Hackathon: Demos and Judging",
+          "speakers" : [ 9, 10, 32 ],
+          "tags" : [ "Firebase", "Cloud", "Hackathon" ],
+          "room" : "Hackathon Track"
+        },
+    
+    
+        "213" : {
+          "description" : "Come together to celebrate our DevFest attendees. Prizes will be awarded to the winners of the AppFest Hackathon and the NodeBots Battle. We will also have a few prizes to raffle away to attendees so stick around.",
+          "id" : 213,
+          "language" : "English",
+          "title" : "Celebrate: Prizes & Raffles",
+          "speakers" : [ 9, 10, 32, 21, 22, 28 ],
+          "tags" : [ "Firebase", "Cloud", "Hackathon", "NodeBots", "HourOfCode" ],
+          "room" : "Hackathon Track"
+        },
+    
+    
+        "220" : {
+          "description" : "Progressive Web Apps explore best practices and patterns for building web apps that deliver performant & engaging experiencess comparable to native apps on mobile devices.",
+          "id" : 220,
+          "language" : "English",
+          "title" : "Progressive Web Apps Workshop",
+          "speakers" : [ 3 ],
+          "tags" : [ "Web", "PWA" ],
+          "room" : "Web Track"
+        },
+        "221" : {
+          "description" : "Have an app or website you are working on but need a free place to deploy it? Want to make your first twitter bot but don't know where to start? Bring your projects and/or ideas to this session. Glitch Community Engineer, Jenn Schiffer, will be there to help you use Glitch to deploy your apps or remix others to get started on something cool!",
+           "id" : 221,
+          "language" : "English",
+          "title" : "Build the App of Your Dreams on Glitch",
+          "speakers" : [ 2 ],
+          "presentation" : "https://glitch.com/~empireconf-workshop",
+          "tags" : [ "Web", "PWA", "Platform" ],
+          "room" : "Web Track"
+        },
+    
+    
+        "230" : {
+          "description" : "Kotlin is a new programming language from JetBrains, that is now supported (alongside Java) as a core programming language for Android devices. Kotlin enables concise code without safety or performance. Come learn Kotlin syntax and get started developing a new generation of Android applications.",
+          "id" : 222,
+          "language" : "English",
+          "title" : "Kotlin Workshop",
+          "speakers" : [ 18, 19, 20 ],
+          "tags" : [ "Android", "Kotlin" ],
+          "room" : "Android Track"
+        },
+        "231" : {
+          "description" : "Android Things is an extension of the Android platform for IoT and embedded devices, writing IoT apps has been made a lot easier using Android Things. In this workshop, we will first cover what Android Things is and some basic examples of how to use it and then we will go onto building a light powered by motion sensor. Then you will learn to build a motion sensing camera that will take images and send them to your phone.",
+          "id" : 231,
+          "language" : "English",
+          "title" : "Android Things Workshop: Build Motion Sensing Lights & Camera",
+          "speakers" : [ 13 ],
+          "tags" : [ "Android", "IoT" ],
+          "room" : "Android Track"
+        },
+    
+    
+        "240" : {
+          "description" : "Building and maintaining apps for both iOS and Android is a pain for many developers. Flutter, a new native mobile app SDK by Google is looking to solve this problem. In Flutter, you build your native app using one codebase. Flutter compiles it to run native on Android and iOS, giving developers a smooth, fluid 60 fps experience with a native look and feel. In this workshop we will learn how to build Flutter apps from the ground up! No app development experience is necessary. We will learn the fundamentals of Flutter, how to write, debug and deploy Flutter apps. You will leave the workshop with the skills to go out and build real world production ready Flutter apps.",
+          "id" : 240,
+          "language" : "English",
+          "title" : "Flutter Workshop",
+          "speakers" : [ 5 ],
+          "tags" : [ "Dart", "Flutter" ],
+          "room" : "Hot Topics Track"
+        },
+        "241" : {
+          "description" : "We'll start with a codelab to get everyone started building a simple conversation for the Google Assistant with Dialogflow and testing it with the Action Simulator. We'll then discuss how to build on this conversation through Firebase Functions or your own fulfillment server. Participants should have a version of node.js setup on their machine and should have installed the firebase-tools module via npm.",
+          "id" : 241,
+          "language" : "English",
+          "title" : "Google Assistant with DialogFlow",
+          "speakers" : [ 14 ],
+          "tags" : [ "AI", "Assistant" ],
+          "room" : "Hot Topics Track"
+        },
+    
+        "250" : {
+          "description" : "Get into teams and start working on your NodeBots robot. Assemble the robot, decorate it, then learn how to program simple controls and motion.",
+          "id" : 250,
+          "language" : "English",
+          "image" : "/images/dfnyc/pages/hoc-nodebots.png",
+          "title" : "HourOfCode: NodeBots Building Time",
+          "speakers" : [ 21, 22 ],
+          "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ]
+        },
+        "251" : {
+          "description" : "Start the elimination rounds. Teams will battle against each other's robots, using controls to push the competitor off the battle board until there is only one robot left standing!",
+          "id" : 251,
+          "language" : "English",
+          "image" : "/images/dfnyc/pages/hoc-nodebots.png",
+          "title" : "HourOfCode: NodeBots Battle Time!",
+          "speakers" : [ 21, 22 ],
+          "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ],
+          "room" : "Cafeteria"
+        }
+      },
+    
+      "speakers" : [
+        null,
+    
+        {
+          "bio"         : "Jeff is a member of the Google Web DevRel team, based in NYC. His mission is to build libraries that take the work out of using service workers.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 1,
+          "name"        : "Jeffrey Posnick",
+          "photoUrl"    : "/images/dfnyc/speakers/01-JeffPosnick.png",
+          "shortBio"    : "Jeff is a member of the Web DevRel team, based in NYC. His mission is to build libraries that take the work out of using service workers.",
+          "socials"     : [
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/jeffposnick/",
+              "name" : "LinkedIn"
+            },
+            {
+            "icon" : "twitter",
+            "link" : "https://twitter.com/jeffposnick/",
+            "name" : "Twitter"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/jeffposnick/",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Web", "Platforms", "PWA" ],
+          "title" : "Web DevRel"
+        },
+    
+        {
+          "bio"         : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS. She is incredibly strong and runs very fast",
+          "company"     : "Fog Creek Software",
+          "companyLogo" : "/images/dfnyc/logos/company-glitch.svg",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 2,
+          "name"        : "Jenn Schiffer",
+          "title"       : "Community Engineer, Glitch.com",
+          "photoUrl"    : "/images/dfnyc/speakers/02-JennSchiffer.png",
+          "shortBio"    : "Jenn Schiffer is Community Engineer for Glitch.com at Fog Creek. Along with making art and jokes and apps, she runs the web developer meetup JerseyScript in Jersey City and co-emcees/organizes BrooklynJS. She is incredibly strong and runs very fast.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/jennschiffer",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "web",
+              "link" : "https://jennmoney.biz/",
+              "name" : "Website"
+            }
+          ],
+          "tags" : [ "Web", "Platforms" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Group | Boston",
+              "link" : "https://www.meetup.com/gdg-boston/",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "Amal has recently join Bocoup as a Sr Open Web Engineer where she will work on web platform interoperability and reliability alongside browser engineers from Google's V8, Mozilla's Spidermonkey and Microsoft's Edge teams. Amal is a biomedical engineer turned software engineer that has a passion for creating delightful applications that make a difference. She is hyper-technical and enjoys having a deep understanding of optimizations and the ‘whys’ behind best practices and patterns. Amal loves to travel and has been to over 30 countries, and speaks four languages. She is also a co-host on the Web Platform Podcast and a co-organizer of Boston's Google Developer Group.",
+          "company"     : "Bocoup",
+          "companyLogo" : "/images/dfnyc/logos/company-bocoup.png",
+          "country"     : "Boston, United States",
+          "featured"    : true,
+          "id"          : 3,
+          "name"        : "Amal Hussein",
+          "title"       : "Senior Open Web Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/03-AmalHussein.png",
+          "shortBio"    : "Amal has recently join Bocoup as a Sr Open Web Engineer where she will work on web platform interoperability and reliability alongside browser engineers from Google's V8, Mozilla's Spidermonkey and Microsoft's Edge teams.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/nomadtechie",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/amalahussein/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/amalahussein/",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Web", "PWA", "Track MC" ]
+        },
+    
+        {
+          "bio"         : "Jen Looper is a Senior Developer Advocate at Progress with over 15 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. She's a multilingual multiculturalist with a passion for hardware hacking, mobile apps, machine learning and discovering new things every day.",
+          "company"     : "Progress",
+          "companyLogo" : "/images/dfnyc/logos/company-progress.png",
+          "country"     : "Boston, United States",
+          "featured"    : true,
+          "id"          : 4,
+          "name"        : "Jen Looper",
+          "title"       : "Senior Developer Advocate",
+          "photoUrl"    : "/images/dfnyc/speakers/04-JenLooper.png",
+          "shortBio"    : "Jen Looper is a Senior Developer Advocate at Progress with over 15 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. She's a multilingual multiculturalist with a passion for hardware hacking, mobile apps, machine learning and discovering new things every day. Visit her online at http://www.jenlooper.com",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/jenlooper",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/jen-looper-3442413/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/jlooper/",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Web", "Machine Learning" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Web, Dart, Flutter",
+              "link" : "https://developers.google.com/experts/people/faisal-abid",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack. Currently Faisal is a Senior Engineer at Zoom.ai, as well as working on side projects in Machine Learning, Android, Dart and Flutter.",
+          "company"     : "Zoom.AI",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "Toronto, Canada",
+          "featured"    : false,
+          "id"          : 5,
+          "name"        : "Faisal Abid",
+          "title"       : "Google Developer Expert (Flutter, Google Cloud)",
+          "photoUrl"    : "/images/dfnyc/speakers/05-FaisalAbid.png",
+          "shortBio"    : "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack. Currently Faisal is a Senior Engineer at Zoom.ai, as well as working on side projects in Machine Learning, Android, Dart and Flutter.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/faisalabid",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Web", "Flutter", "Dart" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | IoT, Assistant",
+              "link" : "https://developers.google.com/experts/people/bob-van-luijt",
+              "name" : "GDE"
+            }
+          ],
+           "bio"        : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github. More info at https://en.wikipedia.org/wiki/Bob_van_Luijt​",
+          "company"     : "Kubrickology",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "Netherlands",
+          "featured"    : false,
+          "id"          : 6,
+          "name"        : "Bob Van Luijt",
+          "title"       : "Creative Technologist",
+          "photoUrl"    : "/images/dfnyc/speakers/06-BobVanLuijt.png",
+          "shortBio"    : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github. ",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/bobvanluijt",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/bobvanluijt/​ ",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/bobvanluijt",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "IoT"]
+        },
+    
+        {
+          "bio"         : "Aaron is the lead software engineer for reCAPTCHA. Prior to Google, Aaron was a Staff Engineer at Jive Software focusing on mobile and third-party APIs. Aaron earned a master's degree from Michigan State University in Computer Science and bachelor's degree from Kalamazoo College in computer science and math.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 7,
+          "name"        : "Aaron Malenfant",
+          "title"       : "Lead Software Engineer, reCAPTCHA",
+          "photoUrl"    : "/images/dfnyc/speakers/07-AaronMalenfant.png",
+          "shortBio"    : "Aaron is the lead software engineer for reCAPTCHA. Prior to Google, Aaron was a Staff Engineer at Jive Software focusing on mobile and third-party APIs. Aaron earned a master's degree from Michigan State University in Computer Science and bachelor's degree from Kalamazoo College in computer science and math.",
+          "socials" : [
+            {
+              "icon" : "LinkedIn",
+              "link" : "www.linkedin.com/in/aaronmalenfant",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Mobile", "Platform" ]
+        },
+    
+        {
+          "bio"         : "Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 8,
+          "name"        : "Ray Tsang",
+          "title"       : "Developer Advocate, Google Cloud",
+          "photoUrl"    : "/images/dfnyc/speakers/08-RayTsang.png",
+          "shortBio"    : "Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/saturnism",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/rayjtsang",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Cloud", "Microservices" ]
+        },
+    
+        {
+          "bio"         : "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first Android device was on the market, and has bootstrapped the efforts of silicon valley startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "Mountain View, United States",
+          "featured"    : false,
+          "id"          : 9,
+          "name"        : "Doug Stevenson",
+          "title"       : "Developer Advocate, Firebase",
+          "photoUrl"    : "/images/dfnyc/speakers/09-DougStevenson.png",
+          "shortBio"    : "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first Android device was on the market, and has bootstrapped the efforts of silicon valley startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/codingdoug",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : " https://www.linkedin.com/in/codingdoug/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Firebase", "Android" ]
+        },
+    
+        {
+          "bio"         : "Kat is the Tech Lead for Cloud Storage for Firebase, previously working on the iOS SDK and backend for the Realtime Database. Kat graduated from MIT with bachelor's and master's degrees in Electrical Engineering and Computer Science. When she's unplugged, she spends her time dancing, skating, and playing escape-the-room puzzle games.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "Mountain View, United States",
+          "featured"    : true,
+          "id"          : 10,
+          "name"        : "Kat Fang",
+          "title"       : "Software Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/10-KatFang.png",
+          "shortBio"    : "Kat is the Tech Lead of Cloud Storage for Firebase, previously working on the iOS SDK and backend for the Realtime Database. Kat graduated from MIT with a bachelor's and master's degree in Electrical Engineering and Computer Science. When she's unplugged, she spends her time dancing, figure skating, and escaping rooms. ",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/fangedkat",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Firebase", "Cloud" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Women TechMakers Lead",
+              "link" : "https://www.womentechmakers.com/directory/stacy-devino",
+              "name" : "WTM"
+            } ,
+            {
+              "description" : "Google Developer Group | Dallas",
+              "link" : "https://www.meetup.com/gdgdallas/",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "Stacy is an Android specialist and Mobile Lead at Alkami Techology which recently was named 11th fastest growing software company in the US. She ha worked in almost all aspects of Android development including OS, Frameworks, Radio, and Apps. Stacy also develops IoT appliances and is a maker at heart, developing products from hardware through production. In her spare time, you can find her hacking and restoring arcade or pinball machines or just building custom keyboards!",
+          "company"     : "Alkami Technology",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : true,
+          "id"          : 11,
+          "name"        : "Stacy Devino",
+          "title"       : "Android Specialist & Mobile Lead",
+          "photoUrl"    : "/images/dfnyc/speakers/11-StacyDevino.png",
+          "shortBio"    : "Stacy is an Android specialist and Mobile Lead at Alkami Techology which recently was named 11th fastest growing software company in the US. She ha worked in almost all aspects of Android development including OS, Frameworks, Radio, and Apps. Stacy also develops IoT appliances and is a maker at heart, developing products from hardware through production. In her spare time, you can find her hacking and restoring arcade or pinball machines or just building custom keyboards!",
+          "socials" : [
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/stacy-devino-40ba6815/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/childofthehorn",
+              "name" : "GitHub"
+            },
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/doesitpew",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "gplus",
+              "link" : "https://plus.google.com/u/0/+StacyDevino",
+              "name" : "Google+"
+            }
+          ],
+          "tags" : [ "Android", "Firebase", "Analytics" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Wearables, IoT",
+              "link" : "https://developers.google.com/experts/people/macy-kuang",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Macy Kuang is not just the producer and host of her own YouTube technology tips and tricks show - CodeToCreate, she is also the founder of Miaomiao Games. She is on the organizing committee for AndroidTO, the annual Android conference, and the co-organizer of the Toronto Google Developer Group. Macy became a Google Developer Expert for Wearable since 2014 and is now an IoT Pioneer. In early 2017, Macy joins the intel innovator program as an robotic, IoT and VR expert.",
+          "company"     : "Miaomiao Games",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "Toronto, Canada",
+          "featured"    : true,
+          "id"          : 12,
+          "name"        : "Macy Kuang",
+          "title"       : "Founder, Miaomiao Games",
+          "photoUrl"    : "/images/dfnyc/speakers/12-MacyKuang.png",
+          "shortBio"    : "Macy Kuang is not just the producer and host of her own YouTube technology tips and tricks show - CodeToCreate, she is also the founder of Miaomiao Games. She is on the organizing committee for AndroidTO, the annual Android conference, and the co-organizer of the Toronto Google Developer Group. Macy became a Google Developer Expert for Wearable since 2014 and is now an IoT Pioneer. In early 2017, Macy joins the intel innovator program as an robotic, IoT and VR expert.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/macykuang",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/macykuang/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "IoT", "VR" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Android, IoT",
+              "link" : "https://developers.google.com/experts/people/rebecca-franks",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications. In March 2016, she was awarded with the status of Google Developer Expert for Android. In her spare time, she works with Book Dash – a Non Profit Organisation – developing an Android app to showcase their free children’s books. She enjoys public speaking and frequently speak at conferences and local meetups. Her blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian’s Top 200 Young South Africans.",
+          "company"     : "Dynamic Visual Technologies",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "Johannesburg, South Africa",
+          "featured"    : true,
+          "id"          : 13,
+          "name"        : "Rebecca Franks",
+          "title"       : "Google Developer Expert (Android, IoT)",
+          "photoUrl"    : "/images/dfnyc/speakers/13-RebeccaFranks.png",
+          "shortBio"    : "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications. In March 2016, she was awarded with the status of Google Developer Expert for Android. In her spare time, she works with Book Dash, a Non Profit Organisation.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/riggaroo",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/riggaroo",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Android", "IoT" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Wearables, IoT, Assistant",
+              "link" : "https://developers.google.com/experts/people/allen-firstenberg",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Allen is a Senior Project Guru at Objective Consulting (https://spiders.com) where he focuses on helping clients improve their workflows and address their users’ needs using new and upcoming technologies from web, to mobile, to ubiquitous platforms. He has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant. If you’re looking for him around the conference, you can easily spot him by his blue shirt, his blue Google Glass, and his passion for humanizing technology.",
+          "company"     : "Objective Consulting",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 14,
+          "name"        : "Allen Firstenberg",
+          "title"       : "Senior Project Guru & Google Developer Expert",
+          "photoUrl"    : "/images/dfnyc/speakers/14-AllenFirstenberg.png",
+          "shortBio"    : "Allen has been a Google Developer Expert (GDE) since 2012 and currently specializes in, and loves to help others learn about, Google technologies for identity, wearables, IoT, and the Google Assistant",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/afirstenberg",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "gplus",
+              "link" : "https://plus.google.com/101852559274654726533",
+              "name" : "Google+"
+            }
+          ],
+          "tags" : [ "Assistant", "Wearables" ]
+        },
+    
+        {
+          "bio"         : "Mandy Chan is a software engineer who is passionate about voice applications and building a community around voice. Mandy has developed voice applications across multiple platforms such as Amazon Alexa and Actions on Google. She is also an Alexa Champion because of her early contributions in the Voice Open Source community. One of her most frequently downloaded open source projects is called the SSML-Builder which creates well-formed Speech Synthesis Markup Language. She is also a co-organizer of the NYC Voice Assistant Meetup. You can stalk her on Twitter @MandyChanNYC",
+          "company"     : "",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : true,
+          "id"          : 15,
+          "name"        : "Mandy Chan",
+          "title"       : "Amazon Alexa Champion, Creator of Open Source SSML-Builder",
+          "photoUrl"    : "/images/dfnyc/speakers/15-MandyChan.png",
+          "shortBio"    : "Mandy Chan is a software engineer who is passionate about voice applications and building a community around voice. Mandy has developed voice applications across multiple platforms such as Amazon Alexa and Actions on Google. She is also an Alexa Champion because of her early contributions in the Voice Open Source community. One of her most frequently downloaded open source projects is called the SSML-Builder which creates well-formed Speech Synthesis Markup Language. She is also a co-organizer of the NYC Voice Assistant Meetup. You can stalk her on Twitter @MandyChanNYC",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/mandychanNYC",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/mandnyc",
+              "name" : "GitHub"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/mandychan2/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Assistant", "OSS" ]
+        },
+    
+        {
+          "bio"         : "Jeff Smith leads the team that builds Amelia, the most comprehensive AI platform for enterprises. He has built bleeding edge technology and awesome teams at various tech organizations across New York, San Francisco, and Hong Kong. He’s a frequent speaker and the author of Reactive Machine Learning Systems, a book on how to build real-world machine learning systems, published by Manning.",
+          "company"     : "IPSoft",
+          "companyLogo" : "/images/dfnyc/logos/company-ipsoft.png",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 16,
+          "name"        : "Jeff Smith",
+          "title"       : "Manager, Amelia AI",
+          "photoUrl"    : "/images/dfnyc/speakers/16-JeffSmith.png",
+          "shortBio"    : "Jeff Smith leads the team that builds Amelia, the most comprehensive AI platform for enterprises. He has built bleeding edge technology and awesome teams at various tech organizations across New York, San Francisco, and Hong Kong. He’s a frequent speaker and the author of Reactive Machine Learning Systems, a book on how to build real-world machine learning systems, published by Manning.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/jeffksmithjr",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/jeffksmithjr/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Machine Learning", "AI" ]
+        },
+    
+        {
+          "bio"         : "Austin is a irredeemable computer nerd who has convinced someone to pay him for it. These days, he's working at the intersection of developing technologies and the enterprise. Outside of that, he's a big fan of live music, road trips, and national parks.",
+          "company"     : "Apprenda",
+          "companyLogo" : "/images/logos/company-apprenda.png",
+          "country"     : "United States",
+          "featured"    : false,
+          "id"          : 17,
+          "name"        : "Austin Parker",
+          "title"       : "Software Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/17-AustinParker.png",
+          "shortBio"    : "Austin is a irredeemable computer nerd who has convinced someone to pay him for it. These days, he's working at the intersection of developing technologies and the enterprise. Outside of that, he's a big fan of live music, road trips, and national parks.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/austinlparker",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/austinlparker/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/austinlparker",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Assistant", "Alexa" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Android",
+              "link" : "https://developers.google.com/experts/people/mike-nakhimovich",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Mike is Google Developer Expert in Android heavily focused on making performant apps by leveraging functional reactive architectures. He started his Android career 5+ years ago working on logistic software particularly with physical barcode scanners. Since then Mike did a stint at NY's premier Android shop, TouchLab, chased the equity dream at Betterment, fought the good fight at The New York Times and is currently spending his days as the Android Lead at Nike's Digital Innovation Lab S23NC. Mike is also a co-founder of FriendlyRobot.nyc where he helps NY startups turn their dreams into Android realities. In his free time he enjoys writing and speaking about overly complicated concepts at conferences and area meetups, writing for tech blogs and maintaining his open source library TinyDancer, Apollo-Android and NYT Store",
+          "company"     : "Nike Digital Innovation Lab",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 18,
+          "name"        : "Mike Nakhimovich",
+          "title"       : "Android Lead",
+          "photoUrl"    : "/images/dfnyc/speakers/18-MikeNakhimovich.png",
+          "shortBio"    : "Mike is Google Developer Expert in Android heavily focused on making performant apps by leveraging functional reactive architectures. He started his Android career 5+ years ago working on logistic software particularly with physical barcode scanners. Since then Mike did a stint at NY's premier Android shop, TouchLab, chased the equity dream at Betterment, fought the good fight at The New York Times and is currently spending his days as the Android Lead at Nike's Digital Innovation Lab S23NC.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/friendlymikhail",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/mikenakh/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/digitalbuddha",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Android", "Kotlin" ]
+        },
+    
+        {
+          "bio"         : "Brian has been developing Android applications for 7 years.  He started out at TouchLab where he worked on a plethora of applications.  This prepared him for the New York Times where he played a pivotal role in rewriting their application from scratch.  Currently he is at Nike's Digital Innovation Lab S23NC focusing on their core application.  In addition to his day job he is also a co-founder of FriendlyRobot.nyc where he helps NY startups turn their dreams into Android realities. He enjoys speaking at meetups and conferences, and working on his open source libraries; NYT Store, TinyDancer, and Apollo-Android.",
+          "company"     : "Nike Digital Innovation Lab",
+          "companyLogo" : "",
+          "country"     : "New York, United States",
+          "featured"    : false,
+          "id"          : 19,
+          "name"        : "Brian Plummer",
+          "title"       : "Android Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/19-BrianPlummer.png",
+          "shortBio"    : "Brian has been developing Android applications for 7 years.  He started out at TouchLab where he worked on a plethora of applications.  This prepared him for the New York Times where he played a pivotal role in rewriting their application from scratch.  Currently he is at Nike's Digital Innovation Lab S23NC focusing on their core application.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/plummermakes",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/brian-plummer-a566822/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/brianPlummer",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Android", "Kotlin" ]
+        },
+    
+        {
+          "bio"         : "Ramona Harrison is an Android Engineer at The New York Times and a lover of all things android.  She started her career as a student and then teacher at coalition for queens prior to working at touchlab, She is now proud to be part of the NYTimes android team and the greater ny android community.",
+          "company"     : "New York Times",
+          "companyLogo" : "",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 20,
+          "name"        : "Ramona Harrison",
+          "title"       : "Android Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/20-RamonaHarrison.png",
+          "shortBio"    : "Ramona Harrison is an Android Engineer at The New York Times and a lover of all things android.  She started her career as a student and then teacher at coalition for queens prior to working at touchlab, She is now proud to be part of the NYTimes android team and the greater ny android community.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/cordlessphone_",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/ramona-harrison-814961ba/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/ramonaharrison",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Android", "Kotlin" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Group | Phoenix",
+              "link" : "https://www.meetup.com/PHX-Android",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "Developer, woodworker, husband and dad. I write code and cut wood to build things",
+          "company"     : "GDG Phoenix",
+          "companyLogo" : "",
+          "country"     : "Phoenix, United States",
+          "featured"    : false,
+          "id"          : 21,
+          "name"        : "Sheldon McGee",
+          "title"       : "Software Engineer & GDG Organizer",
+          "photoUrl"    : "/images/dfnyc/speakers/21-SheldonMcGee.png",
+          "shortBio"    : "Developer, woodworker, husband and dad. Co-organizer of the Google Developer Group Phoenix. I battle NodeBots.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/tooshel",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/tooshel/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "github",
+              "link" : "https://github.com/tooshel",
+              "name" : "GitHub"
+            }
+          ],
+          "tags" : [ "Web", "NodeBots" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Women TechMakers Lead",
+              "link" : "https://www.meetup.com/PHX-Android",
+              "name" : "WTM"
+            } ,
+            {
+              "description" : "Google Developer Group | Phoenix",
+              "link" : "https://www.meetup.com/PHX-Android",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "Co-organizer & Women TechMakers Lead, Google Developer Group Phoenix. I battle NodeBots.",
+          "company"     : "GDG Phoenix",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : true,
+          "id"          : 22,
+          "name"        : "Sarah McGee",
+          "title"       : "Co-organizer & WTM Lead, GDG Phoenix",
+          "photoUrl"    : "/images/dfnyc/speakers/22-SarahMcGee.png",
+          "shortBio"    : "Co-organizer of the Google Developer Group Phoenix. I battle NodeBots.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/sarahsplit",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Web", "NodeBots" ]
+        },
+    
+        {
+          "bio"         : "Andrew has been working with creative technology for decades with brands ranging from The New York Times to Scholastic.  Most recently he has been focused on AR and VR technology. He started NYC's first ARKit Meetup. He also recently released an AR game on iOS called Hide the Hubu.",
+          "company"     : "Independent",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : false,
+          "id"          : 25,
+          "name"        : "Andrew Deutsch",
+          "title"       : "Creative Developer VR/AR",
+          "photoUrl"    : "/images/dfnyc/speakers/25-AndrewDeutsch.png",
+          "shortBio"    : "Andrew has been working with creative technology for decades with brands ranging from The New York Times to Scholastic.  Most recently he has been focused on AR and VR technology. He started NYC's first ARKit Meetup. He also recently released an AR game on iOS called Hide the Hubu.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/andrewdeutsch",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/andrew-deutsch-a4a0505/",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/andrewdaviddeutsch",
+              "name" : "Facebook"
+            }
+          ],
+          "tags" : [ "VR", "Blocks" ]
+        },
+    
+        {
+          "bio"         : "Yuliya is an Android developer at Jet.com, leading a team of 4 developers whose main focus is to build performant, scalable and cutting-edge Android projects. Yuliya is actively involved at C4Q - non-profit organization, which fosters the tech community in NY and assists in Android mentoring at Access Code Program.",
+          "company"     : "Jet.com",
+          "companyLogo" : "/images/dfnyc/logos/company-jet.svg",
+          "country"     : "United States",
+          "featured"    : true,
+          "id"          : 26,
+          "name"        : "Yuliya Kaleda",
+          "title"       : "Android Developer",
+          "photoUrl"    : "/images/dfnyc/speakers/26-YuliyaKaleda.png",
+          "shortBio"    : "Yuliya is an Android developer at Jet.com, leading a team of 4 developers whose main focus is to build performant, scalable and cutting-edge Android projects. Yuliya is actively involved at C4Q - non-profit organization, which fosters the tech community in NY and assists in Android mentoring at Access Code Program.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/yuliyakaleda",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/yuliya-kaleda-b4525ab1/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Android" ]
+        },
+    
+        {
+          "bio"         : "Oscar started coding at 12 and has worked in companies of all sizes across the American continent, he has co-founded startups, and worked with a wide range of technologies, worked as a Java Developer for 10 years and since 2008 he has been creating native iOS and Android apps; software written by him is still installed in 50+ countries and serves millions of users.",
+          "company"     : "BeenVerified",
+          "companyLogo" : "",
+          "country"     : "United States",
+          "featured"    : false,
+          "id"          : 27,
+          "name"        : "Oscar Salguero",
+          "title"       : "Senior Android Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/27-OscarSalguero.png",
+          "shortBio"    : "Oscar started coding at 12 and has worked in companies of all sizes across the American continent, he has co-founded startups, and worked with a wide range of technologies, worked as a Java Developer for 10 years and since 2008 he has been creating native iOS and Android apps; software written by him is still installed in 50+ countries and serves millions of users.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/oscarsalguero",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/oscarsalguero/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Android", "IoT" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Women TechMakers Lead",
+              "link" : "https://www.womentechmakers.com/directory/nitya-narasimhan",
+              "name" : "WTM"
+            } ,
+            {
+              "description" : "Google Developer Group | NYC & Hudson Valley",
+              "link" : "https://www.meetup.com/gdgnyc",
+              "name" : "GDG"
+            }
+          ],
+          "bio"         : "Nitya Narasimhan is a PhD and Polyglot who is focused on building better software and more inclusive communities in the Greater New York region. She works with early stage startups and academic institutions to develop mobile, web, machine learning & AI solutions for next-generation consumers. She organizes GDG New York City & GDG Hudson Valley, supports workforce retraining with StudyCamps, and is giving apps a voice at BitNBot.",
+          "company"     : "GDG New York City",
+          "companyLogo" : "/images/dfnyc/logos/gdgnyc.png",
+          "country"     : "United States",
+          "featured"    : false,
+          "id"          : 28,
+          "name"        : "Nitya Narasimhan",
+          "title"       : "Organizer, DevFestNYC",
+          "photoUrl"    : "/images/dfnyc/speakers/28-NityaNarasimhan.png",
+          "shortBio"    : "Nitya Narasimhan is a PhD and Polyglot who is focused on building better software and more inclusive communities in the Greater New York region. She works with early stage startups and academic institutions to develop mobile, web, machine learning & AI solutions for next-generation consumers. ",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/nitya",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "gitHub",
+              "link" : "https://github.com/nitya",
+              "name" : "GitHub"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://linkedin.com/in/nityan",
+              "name" : "LinkedIn"
+            },
+            {
+              "icon" : "gplus",
+              "link" : "https://google.com/+NityaNarasimhan",
+              "name" : "Google+"
+            }
+          ],
+          "tags" : [ "Web", "Firebase", "Assistant" ]
+        },
+    
+        {
+          "badges" : [
+            {
+              "description" : "Google Developer Expert | Web",
+              "link" : "https://developers.google.com/experts/people/pam-selle",
+              "name" : "GDE"
+            }
+          ],
+          "bio"         : "Pam Selle is a software engineering lead at IOpipe working with serverless computing as well as a published author and public speaker. She’s author of Beyond the Resume: How to Get Your Next Job as a Developer and lead author of Choosing a JavaScript Framework from Bleeding Edge Press. She’s spoken across the country and internationally, speaking at events including JSConf EU, JSConf US (Last Call), StrangeLoop, and QCon; she also co-founded LibertyJS, Philadelphia’s premier JavaScript conference.",
+          "company"     : "IOPipe",
+          "companyLogo" : "/images/logos/gde.png",
+          "country"     : "Philadelphia, United States",
+          "featured"    : true,
+          "id"          : 29,
+          "name"        : "Pam Selle",
+          "title"       : "Software Engineering Lead, IOpipe",
+          "photoUrl"    : "/images/dfnyc/speakers/29-PamSelle.png",
+          "shortBio"    : "Pam Selle is a software engineering lead at IOpipe working with serverless computing as well as a published author and public speaker. She’s author of Beyond the Resume: How to Get Your Next Job as a Developer and lead author of Choosing a JavaScript Framework from Bleeding Edge Press.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/pamasaur",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/pamelaselle/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Web", "Serverless" ]
+        },
+    
+        {
+          "bio"         : "Josh Gordon is a Developer Advocate at Google. He's passionate about teaching and education. His interests include Ubiquitous Computing, Machine Learning, and exploring the great outdoors.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 30,
+          "name"        : "Joshua Gordon",
+          "title"       : "Developer Advocate, TensorFlow",
+          "photoUrl"    : "/images/dfnyc/speakers/30-JoshuaGordon.png",
+          "shortBio"    : "Josh Gordon is a Developer Advocate at Google. He's passionate about teaching and education. His interests include Ubiquitous Computing, Machine Learning, and exploring the great outdoors.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/random_forests",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Tensor Flow", "Machine Learning" ]
+        },
+    
+        {
+          "bio"         : "Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Compute Engine, machine learning APIs, Firebase and more. He's currently an aspiring Node.js developer. Prior to Google, Bret worked in the cloud industry at Rackspace as a software engineer building the RackConnect hybrid hosting product. Before that, he led engineering teams at e-commerce, non-profit and tried his hand at creating two startups. He's often on the running trail, volleyball court or kickball field. Bret earned a bachelor’s degree in computer science from Texas A&M University.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "New York, United States",
+          "featured"    : true,
+          "id"          : 31,
+          "name"        : "Bret McGowen",
+          "title"       : "Developer Advocate, Google Cloud",
+          "photoUrl"    : "/images/dfnyc/speakers/31-BretMcGowen.png",
+          "shortBio"    : "Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Compute Engine, machine learning APIs, Firebase and more",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/friendlymikhail",
+              "name" : "Twitter"
+            }
+          ],
+          "tags" : [ "Cloud", "Machine Learning" ]
+        },
+    
+        {
+          "bio"         : "Engineer at Firebase/Google, formerly at Parse, Facebook, Microsoft, and Google. Software, word play, and singing in tight harmony are among my interests.",
+          "company"     : "Google",
+          "companyLogo" : "/images/dfnyc/logos/company-google.svg",
+          "country"     : "Mountain View, United States",
+          "featured"    : true,
+          "id"          : 32,
+          "name"        : "David Poll",
+          "title"       : "Engineering Lead, Firebase SDKs",
+          "photoUrl"    : "/images/dfnyc/speakers/32-DavidPoll.png",
+          "shortBio"    : "Engineer at Firebase/Google, formerly at Parse, Facebook, Microsoft, and Google. Software, word play, and singing in tight harmony are among my interests.",
+          "socials" : [
+            {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/depoll",
+              "name" : "Twitter"
+            },
+            {
+              "icon" : "linkedin",
+              "link" : "https://linkedin.com/in/depoll",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Firebase", "Cloud" ]
+        }
+      ],
+    
+      "team" : [
+        {
+          "members" : [
+            {
+              "name" : "Nitya Narasimhan",
+              "photoUrl" : "/images/dfnyc/speakers/28-NityaNarasimhan.png",
+              "socials" : [ {
+                "icon" : "gplus",
+                "link" : "https://plus.google.com/+NityaNarasimhan",
+                "name" : "Google+"
+              }, {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/nitya",
+                "name" : "Twitter"
+              }, {
+                "icon" : "website",
+                "link" : "http://linkedin.com/in/nityan",
+                "name" : "LinkedIn"
+              } ],
+              "title" : "Core Organizer (Speakers, Sponsors, Schedule, Ticketing, Website)"
+            },
+            {
+              "name" : "Chinedu Chukwuelue",
+              "photoUrl" : "/images/dfnyc/speakers/99-ChineduChukwuelue.png",
+              "socials" : [ {
+                "icon" : "gplus",
+                "link" : "https://plus.google.com/+ChineduChukwuelue",
+                "name" : "Google+"
+              }, {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/codewired",
+                "name" : "Twitter"
+              } ],
+              "title" : "Website"
+            },
+            {
+              "name" : "Lakshma Devarapalli",
+              "photoUrl" : "/images/dfnyc/speakers/99-LakshmaDevarapalli.png",
+              "socials" : [ {
+                "icon" : "gplus",
+                "link" : "https://plus.google.com/113620150591181554947",
+                "name" : "Google+"
+              }, {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/luckyy143",
+                "name" : "Twitter"
+              } ],
+              "title" : "Event Logistics"
+            }
+          ],
+          "title" : "Organizing Team"
+        },
+    
+        {
+          "members" : [
+            {
+              "bio"         : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+              "company"     : "Dev.TO",
+              "companyLogo" : "",
+              "country"     : "United States",
+              "featured"    : false,
+              "id"          : 23,
+              "name"        : "Ben Halpern",
+              "title"       : "MC (Cloud & ML Track)",
+              "photoUrl"    : "/images/dfnyc/speakers/23-BenHalpern.png",
+              "shortBio"    : "Creator, Founder and Webmaster of Dev.TO (and @ThePracticalDev). Mount Allison grad, coder, buddhist, feminist, Batman.",
+              "socials" : [
+                {
+                  "icon" : "twitter",
+                  "link" : "https://twitter.com/bendhalpern",
+                  "name" : "Twitter"
+                },
+                {
+                  "icon" : "linkedin",
+                  "link" : "https://www.linkedin.com/in/ben-halpern-3a1aa731/",
+                  "name" : "LinkedIn"
+                }
+              ],
+              "tags" : [ "Web", "Track MC"]
+            },
+            {
+              "name"        : "Amal Hussein",
+              "title"       : "MC (Mobile & Web Track)",
+              "photoUrl"    : "/images/dfnyc/speakers/03-AmalHussein.png",
+              "socials" : [
+                {
+                  "icon" : "twitter",
+                  "link" : "https://twitter.com/nomadtechie",
+                  "name" : "Twitter"
+                },
+                {
+                  "icon" : "linkedin",
+                  "link" : "https://www.linkedin.com/in/amalahussein/",
+                  "name" : "LinkedIn"
+                },
+                {
+                  "icon" : "github",
+                  "link" : "https://github.com/amalahussein/",
+                  "name" : "GitHub"
+                }
+              ]
+            }
+          ],
+          "title" : "Track MCs"
+        }
+      ],
+    
+      "tickets" : {
+        "elements" : [ {
+          "currency" : "$",
+          "ends" : "",
+          "info" : "SATURDAY SESSIONS ONLY",
+          "name" : "Tech Talks",
+          "price" : 50,
+          "soldOut" : false,
+          "starts" : "Dec 2"
+        }, {
+          "currency" : "$",
+          "ends" : "",
+          "info" : "SUNDAY SESSIONS ONLY",
+          "name" : "Workshops",
+          "price" : 50,
+          "soldOut" :false,
+          "starts" : "Dec 3"
+        }, {
+          "currency" : "$",
+          "ends" : "Dec 3",
+          "info" : "SATURDAY & SUNDAY SESSIONS",
+          "name" : "All Access",
+          "price" : 90,
+          "soldOut" : false,
+          "starts" : "Dec 2"
+        } ],
+        "url" : "http://bit.ly/devfestnyc17-tix"
+      },
+    
+      "videos" : [
+        {
+          "speakers" : "Jakub Škvára",
+          "thumbnail" : "/images/sessions/116.JPG",
+          "title" : "Polymer vs other libraries",
+          "youtubeId" : "-UEURYYVCmg"
+        }
+      ]
+    
+    }
+    
