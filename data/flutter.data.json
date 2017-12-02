@@ -272,7 +272,7 @@
             {
             "startTime" : "16:00",
             "endTime" : "16:30",
-            "sessions" : [ [ 212 ], [ 251 ] ]
+            "sessions" : [ [ 212 ], [ 251 ], [232] ]
             },
             {
             "startTime" : "16:30",
@@ -755,6 +755,16 @@
           "tags" : [ "Android", "IoT" ],
           "room" : "Android Track"
         },
+
+        "232" : {
+          "description" : "Come along with me on a survey of two of Google's machine learning APIs: Cloud Vision API & Natural Language. Learn how to build and leverage preexisting models without needing to worry about the complexity of selecting a learning algorithm and running training. Then, if time permits, for good measure, we explore the mechanisms behind setting up a basic neural network to classify MNIST digits so that you can run other people's TensorFlow models to classify your own examples.",
+          "id" : 232,
+          "language" : "English",
+          "title" : "Hands-on With Google Machine Learning APIs",
+          "speakers" : [ 37 ],
+          "tags" : [ "Machine Learning", "AI" ],
+          "room" : "Hot Topics Track"
+        },
     
     
         "240" : {
@@ -783,7 +793,8 @@
           "image" : "/images/dfnyc/pages/hoc-nodebots.png",
           "title" : "HourOfCode: NodeBots Building Time",
           "speakers" : [ 21, 22 ],
-          "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ]
+          "tags" : [ "Web", "NodeBots", "HourOfCode", "Robotics" ],
+          "room" : "Cafeteria"
         },
         "251" : {
           "description" : "Start the elimination rounds. Teams will battle against each other's robots, using controls to push the competitor off the battle board until there is only one robot left standing!",
@@ -1826,6 +1837,26 @@
             }
           ],
           "tags" : [ "Community", "Public Speaker" ]
+        },
+        {
+          "bio"         : "Working in the 'Innovation Center' (aka The Garage), an entrepreneurially-spirited division focused on giving customers an impressive and convenient all-around banking experience on mobile and Web platforms.",
+          "company"     : "Captial One",
+          "companyLogo" : "/images/dfnyc/logos/capital-one.png",
+          "country"     : "Dallas, Fort Worth. USA",
+          "featured"    : true,
+          "id"          : 37,
+          "name"        : "Stephen Wylie",
+          "title"       : "Senior Software Engineer",
+          "photoUrl"    : "/images/dfnyc/speakers/37-stephenwylie.jpg",
+          "shortBio"    : "Above all, I innovate. And I use whatever technology stack gets the job done.",
+          "socials" : [
+            {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/stephen-wylie-009a631b/",
+              "name" : "LinkedIn"
+            }
+          ],
+          "tags" : [ "Machine Learning", "Software" ]
         }
         
       ],
